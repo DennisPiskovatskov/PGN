@@ -4,6 +4,7 @@ A Portable Game Notation (PGN) ANTLR 4 grammar and parser for
 + http://chess.com
 + http://playchess.com
 + http://chessclub.com
++ http://lichess.org
 
 The grammar for every portal can be found in $module/**/PGN.g4 files.
 

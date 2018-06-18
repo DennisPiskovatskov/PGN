@@ -28,23 +28,14 @@
  *                and parser for {@link http://chess.com}
  * Developed by : Dennis Piskovatskov, dennis.piskovatskov@javaee.solutions
  */
-package javaee.solutions.pgn.chesscom;
-
-import javaee.solutions.pgn.base.BaseConstants;
+package javaee.solutions.pgn.base;
 
 /**
  * Constants for tests.
  */
-public final class Constants extends BaseConstants {
+public class BaseConstants {
 
-    // chess.com
-    public static final String TEST1 = RESOURCES + "chess.com/1.pgn";
-    public static final String TEST2 = RESOURCES + "chess.com/chess_com_games_2018-06-15_tribrack.pgn";
-    public static final String TEST3 = RESOURCES + "chess.com/chess_com_games_2018-06-07_tribrack.pgn";
-    public static final String TEST4 = RESOURCES + "chess.com/chess_com_games_2018-06-15_Hikaru.pgn";
-
-    private Constants() {
-        // no instance of this class allowed.
-    }
+    public static final String RESOURCES = "src/test/resources/";
+    public static final String TARGET = "target/";
 
 }

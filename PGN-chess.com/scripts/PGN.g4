@@ -180,7 +180,7 @@ BLANK
  : ' '
  ;
 
-// Skip all \r and \n
+/// Skip all \r and \n
 SPACE
  : [\r\n]+ -> skip
  ;

@@ -28,23 +28,21 @@
  *                and parser for {@link http://chess.com}
  * Developed by : Dennis Piskovatskov, dennis.piskovatskov@javaee.solutions
  */
-package javaee.solutions.pgn.chesscom;
+package javaee.solutions.pgn.base;
 
-import javaee.solutions.pgn.base.BaseConstants;
+import javaee.solutions.pgn.base.entity.PGNGame;
 
 /**
- * Constants for tests.
+ * Game filter interface.
  */
-public final class Constants extends BaseConstants {
+public interface IGameFilter {
 
-    // chess.com
-    public static final String TEST1 = RESOURCES + "chess.com/1.pgn";
-    public static final String TEST2 = RESOURCES + "chess.com/chess_com_games_2018-06-15_tribrack.pgn";
-    public static final String TEST3 = RESOURCES + "chess.com/chess_com_games_2018-06-07_tribrack.pgn";
-    public static final String TEST4 = RESOURCES + "chess.com/chess_com_games_2018-06-15_Hikaru.pgn";
-
-    private Constants() {
-        // no instance of this class allowed.
-    }
-
+    /**
+     * Check, if the game can be accepted (for example a Fisher chess can't be
+     * interesting for analysis).
+     *
+     * @param pgnGame
+     * @return
+     */
+    boolean accept(PGNGame pgnGame);
 }

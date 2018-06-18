@@ -28,23 +28,24 @@
  *                and parser for {@link http://chess.com}
  * Developed by : Dennis Piskovatskov, dennis.piskovatskov@javaee.solutions
  */
-package javaee.solutions.pgn.chesscom;
+package javaee.solutions.pgn.base;
 
-import javaee.solutions.pgn.base.BaseConstants;
+import java.io.File;
+import java.io.IOException;
 
 /**
- * Constants for tests.
+ * Interface to the remove trash from data content.
  */
-public final class Constants extends BaseConstants {
+public interface IPrepareData {
 
-    // chess.com
-    public static final String TEST1 = RESOURCES + "chess.com/1.pgn";
-    public static final String TEST2 = RESOURCES + "chess.com/chess_com_games_2018-06-15_tribrack.pgn";
-    public static final String TEST3 = RESOURCES + "chess.com/chess_com_games_2018-06-07_tribrack.pgn";
-    public static final String TEST4 = RESOURCES + "chess.com/chess_com_games_2018-06-15_Hikaru.pgn";
-
-    private Constants() {
-        // no instance of this class allowed.
-    }
-
+    /**
+     * Cleanup content.
+     *
+     * @param input
+     *            dirty input file
+     * @param output
+     *            clean output file
+     * @throws IOException
+     */
+    void cleanup(File input, File output) throws IOException;
 }
