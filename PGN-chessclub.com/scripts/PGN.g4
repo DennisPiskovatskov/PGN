@@ -192,7 +192,7 @@ BLACK_RESIGNS
 /// Skip all \r and \n
 /// IMPORTANT: just bacause 'Nf3\r\nRf8'
 SPACE
- : [\r\n]+ -> {setText(" ");}
+ : [\r\n]+ {setText(" ");}
  ;
 
 /// Digit
