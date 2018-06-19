@@ -114,6 +114,7 @@ game_termination
  : WHITE_WINS
  | BLACK_WINS
  | DRAWN_GAME
+ | ASTERIX
  ;
 
 /// .
@@ -174,6 +175,10 @@ BLACK_WINS
 
 DRAWN_GAME
  : '1/2-1/2'
+ ;
+
+ASTERIX
+ : '*'
  ;
 
 /// A string token is a sequence of zero or more printing characters delimited by a
