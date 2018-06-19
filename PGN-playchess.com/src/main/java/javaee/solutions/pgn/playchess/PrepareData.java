@@ -33,6 +33,8 @@ package javaee.solutions.pgn.playchess;
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.Charset;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import org.apache.commons.io.FileUtils;
 
@@ -63,7 +65,7 @@ public class PrepareData implements IPrepareData {
                 game.append(line).append(" ");
                 break;
             case SECTION_BETWEEN_GAMES:
-                result.append(cleanupGame(game.toString())).append(LINE_SEPARATOR).append(LINE_SEPARATOR);
+                result.append(removeTrash(game.toString())).append(LINE_SEPARATOR).append(LINE_SEPARATOR);
                 game = new StringBuilder();
                 break;
             default:
@@ -92,9 +94,33 @@ public class PrepareData implements IPrepareData {
         }
     }
 
-    private String cleanupGame(final String game) {
-        final String result = game.replaceAll("\\].*?}", "]}");
-        return result.replaceAll("  ", " ").replaceAll("\\{ \\[", "{[");
+    /**
+     * Unfortunately the PGN format has a trash. Remove it from game section.
+     *
+     * @param game
+     *            game section
+     * @return cleaned game section
+     */
+    private String removeTrash(final String game) {
+
+        // ] Tiempo . (Lag:Av=0.69s, max=0.9s)} --> ]}
+        String result = game.replaceAll("\\].*?}", "]}");
+
+        // { [ --> {[
+        result = result.replaceAll("\\{ \\[", "{[");
+
+        // {LAXMAN offers a draw} --> ''
+        final Pattern pattern = Pattern.compile("\\{.*?\\} ");
+        final Matcher matcher = pattern.matcher(result);
+        while (matcher.find()) {
+            final String found = matcher.group(0);
+            if (!found.startsWith("{[")) {
+                result = result.replace(found, "");
+            }
+        }
+
+        // ' ' --> ' '
+        return result.replaceAll("  ", " ");
     }
 
 }
