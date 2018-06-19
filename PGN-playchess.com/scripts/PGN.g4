@@ -124,7 +124,7 @@ MOVE_NUMBER
 
 /// Nce6+ | O-O | O-O-O
 MOVE
- : MOVE_PIECE_TO_FIELD [+#]? | 'O-O' | 'O-O-O'
+ : (MOVE_PIECE_TO_FIELD | 'O-O' | 'O-O-O') [+#]?
  ;
 
 /// e4 | Nf3 | Nxc6 | Nce6 | exd4 | b1=Q | Ndxe | R8e3 | Rfxd3 | R2xc3 | dxc8=Q+
