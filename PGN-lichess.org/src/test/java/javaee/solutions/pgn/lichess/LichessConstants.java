@@ -41,7 +41,7 @@ public final class LichessConstants extends BaseConstants {
 
     // lichess.com
     public static final String PGN1 = TARGET + FILE1;
-    public static final String PGN1_EXTERNAL = "../PGN-lichess.com/" + PGN1;
+    public static final String PGN1_EXTERNAL = "../PGN-lichess.org/" + PGN1;
 
     private LichessConstants() {
         // no instance of this class allowed.

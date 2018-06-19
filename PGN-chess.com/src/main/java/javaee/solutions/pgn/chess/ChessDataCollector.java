@@ -46,7 +46,7 @@ import javaee.solutions.pgn.chess.generated.PGNParser;
 /**
  * This listener collect game information from one PGN file.
  */
-public class DataCollector extends PGNBaseListener implements IDataCollector {
+public class ChessDataCollector extends PGNBaseListener implements IDataCollector {
 
     private final List<PGNGame> games = new ArrayList<>();
 
@@ -56,7 +56,7 @@ public class DataCollector extends PGNBaseListener implements IDataCollector {
 
     private final IGameFilter filter;
 
-    public DataCollector(final IGameFilter filter) {
+    public ChessDataCollector(final IGameFilter filter) {
         this.filter = filter;
     }
 

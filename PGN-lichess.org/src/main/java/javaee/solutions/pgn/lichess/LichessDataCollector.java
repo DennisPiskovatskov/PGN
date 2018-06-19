@@ -28,7 +28,7 @@
  *                and parser for {@link http://playchess.com}
  * Developed by : Dennis Piskovatskov, dennis.piskovatskov@javaee.solutions
  */
-package javaee.solutions.pgn.playchess;
+package javaee.solutions.pgn.lichess;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -40,13 +40,13 @@ import javaee.solutions.pgn.base.entity.PGNGame;
 import javaee.solutions.pgn.base.entity.Tag;
 import javaee.solutions.pgn.base.enumeration.EColor;
 import javaee.solutions.pgn.base.enumeration.EResult;
-import javaee.solutions.pgn.playchess.generated.PGNBaseListener;
-import javaee.solutions.pgn.playchess.generated.PGNParser;
+import javaee.solutions.pgn.lichess.generated.PGNBaseListener;
+import javaee.solutions.pgn.lichess.generated.PGNParser;
 
 /**
  * This listener collect game information from one PGN file.
  */
-public class DataCollector extends PGNBaseListener implements IDataCollector {
+public class LichessDataCollector extends PGNBaseListener implements IDataCollector {
 
     private final List<PGNGame> games = new ArrayList<>();
 
@@ -56,7 +56,7 @@ public class DataCollector extends PGNBaseListener implements IDataCollector {
 
     private final IGameFilter filter;
 
-    public DataCollector(final IGameFilter filter) {
+    public LichessDataCollector(final IGameFilter filter) {
         this.filter = filter;
     }
 

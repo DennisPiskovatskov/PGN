@@ -38,14 +38,20 @@ import org.junit.jupiter.api.Test;
 
 import javaee.solutions.pgn.base.IGameFilter;
 import javaee.solutions.pgn.base.filter.RemoveFisherChessFilter;
-import javaee.solutions.pgn.playchess.DataCollector;
+import javaee.solutions.pgn.lichess.LichessConstants;
+import javaee.solutions.pgn.lichess.LichessDataCollector;
 import javaee.solutions.pgn.playchess.PlaychessConstants;
-import javaee.solutions.pgn.playchess.util.ParserUtil;
+import javaee.solutions.pgn.playchess.PlaychessDataCollector;
 
 public class ConverterTest {
 
     @Test
     public void doIt() throws IOException {
+        parsePlaychess();
+        parseLichess();
+    }
+
+    private void parsePlaychess() throws IOException {
         final IGameFilter gameFilter = new RemoveFisherChessFilter();
 
         final List<String> files = new ArrayList<>();
@@ -53,8 +59,23 @@ public class ConverterTest {
         files.add(PlaychessConstants.PGN2_EXTERNAL);
 
         for (final String file : files) {
-            final DataCollector collector = new DataCollector(gameFilter);
-            ParserUtil.parse(file, collector);
+            final PlaychessDataCollector collector = new PlaychessDataCollector(gameFilter);
+            javaee.solutions.pgn.playchess.util.ParserUtil.parse(file, collector);
+
+            // TODO: implement me.
+            System.out.println(collector.getGames().size());
+        }
+    }
+
+    private void parseLichess() throws IOException {
+        final IGameFilter gameFilter = new RemoveFisherChessFilter();
+
+        final List<String> files = new ArrayList<>();
+        files.add(LichessConstants.PGN1_EXTERNAL);
+
+        for (final String file : files) {
+            final LichessDataCollector collector = new LichessDataCollector(gameFilter);
+            javaee.solutions.pgn.lichess.util.ParserUtil.parse(file, collector);
 
             // TODO: implement me.
             System.out.println(collector.getGames().size());

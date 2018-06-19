@@ -44,12 +44,12 @@ import javaee.solutions.pgn.chess.util.ParserUtil;
 /**
  * Test for <code>DataCollector</code>.
  */
-public class DataCollectorTest {
+public class ChessDataCollectorTest {
 
     @Test
     public void testParse() throws Exception {
         final IGameFilter gameFilter = new AcceptAllGamesFilter();
-        final DataCollector collector = new DataCollector(gameFilter);
+        final ChessDataCollector collector = new ChessDataCollector(gameFilter);
         ParserUtil.parse(ChessConstants.TEST1, collector);
 
         final List<PGNGame> pgnGames = collector.getGames();
