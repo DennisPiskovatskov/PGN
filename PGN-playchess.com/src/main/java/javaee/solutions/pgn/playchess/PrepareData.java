@@ -53,8 +53,8 @@ public class PrepareData implements IPrepareData {
         FileUtils.deleteQuietly(output);
 
         final StringBuilder result = new StringBuilder();
+        StringBuilder game = new StringBuilder();
         ESection previewSection = ESection.NONE;
-        String game = "";
         for (String line : FileUtils.readLines(input, UTF8)) {
             line = line.replace("\uFEFF", ""); // NOTE: remove UnicodeBOM
             final ESection actualSection = findSection(previewSection, line);
@@ -63,11 +63,11 @@ public class PrepareData implements IPrepareData {
                 result.append(line).append(LINE_SEPARATOR);
                 break;
             case GAME:
-                game += line + " ";
+                game.append(line).append(" ");
                 break;
             case SECTION_BETWEEN_GAMES:
-                result.append(cleanupGame(game)).append(LINE_SEPARATOR);
-                game = "";
+                result.append(cleanupGame(game.toString())).append(LINE_SEPARATOR).append(LINE_SEPARATOR);
+                game = new StringBuilder();
                 break;
             default:
             case NONE:
