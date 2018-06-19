@@ -37,12 +37,9 @@ import java.nio.charset.Charset;
 import org.apache.commons.io.FileUtils;
 
 import javaee.solutions.pgn.base.IPrepareData;
+import javaee.solutions.pgn.base.enumeration.EPGNSection;
 
 public class PrepareData implements IPrepareData {
-
-    public static enum ESection {
-        NONE, METADATA, GAME, SECTION_BETWEEN_GAMES
-    }
 
     private static final Charset UTF8 = Charset.forName("UTF-8");
 
@@ -54,10 +51,10 @@ public class PrepareData implements IPrepareData {
 
         final StringBuilder result = new StringBuilder();
         StringBuilder game = new StringBuilder();
-        ESection previewSection = ESection.NONE;
+        EPGNSection previewSection = EPGNSection.NONE;
         for (String line : FileUtils.readLines(input, UTF8)) {
             line = line.replace("\uFEFF", ""); // NOTE: remove UnicodeBOM
-            final ESection actualSection = findSection(previewSection, line);
+            final EPGNSection actualSection = findSection(previewSection, line);
             switch (actualSection) {
             case METADATA:
                 result.append(line).append(LINE_SEPARATOR);
@@ -81,17 +78,17 @@ public class PrepareData implements IPrepareData {
         FileUtils.write(output, result, UTF8, true);
     }
 
-    private ESection findSection(final ESection previewSection, final String line) {
+    private EPGNSection findSection(final EPGNSection previewSection, final String line) {
         if (line.startsWith("[") && !line.startsWith("[%")) {
-            return ESection.METADATA;
+            return EPGNSection.METADATA;
         } else if ("".equals(line)) {
-            if (previewSection == ESection.GAME) {
-                return ESection.SECTION_BETWEEN_GAMES;
+            if (previewSection == EPGNSection.GAME) {
+                return EPGNSection.SECTION_BETWEEN_GAMES;
             } else {
-                return ESection.NONE;
+                return EPGNSection.NONE;
             }
         } else {
-            return ESection.GAME;
+            return EPGNSection.GAME;
         }
     }
 
