@@ -77,6 +77,7 @@ public class PrepareData implements IPrepareData {
             previewSection = actualSection;
         }
 
+        result.append(removeTrash(game.toString())).append(LINE_SEPARATOR).append(LINE_SEPARATOR);
         FileUtils.write(output, result, UTF8, true);
     }
 

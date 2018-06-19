@@ -1,0 +1,3001 @@
+﻿[Event "Rated game, 3m + 1s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.26"]
+[Round "?"]
+[White "Zayats"]
+[Black "MLLH"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2592"]
+[BlackElo "2408"]
+[PlyCount "135"]
+[SourceTitle "playchess.com"]
+[TimeControl "180+1"]
+
+1. e4 {[%emt 0:00:00]} d6 {[%emt 0:00:04]} 2. d4 {[%emt 0:00:01]} Nf6 {[%emt 0:
+00:00]} 3. Bd3 {[%emt 0:00:01]} e5 {[%emt 0:00:01]} 4. Nf3 {[%emt 0:00:01]}
+exd4 {[%emt 0:00:02]} 5. Nxd4 {[%emt 0:00:01]} Nc6 {[%emt 0:00:00]} 6. Nxc6 {
+[%emt 0:00:01]} bxc6 {[%emt 0:00:04]} 7. O-O {[%emt 0:00:00]} g6 {[%emt 0:00:
+03]} 8. b3 {[%emt 0:00:02]} Bg7 {[%emt 0:00:01]} 9. Bb2 {[%emt 0:00:00]} O-O {
+[%emt 0:00:01]} 10. Nd2 {[%emt 0:00:00]} Nd7 {[%emt 0:00:03]} 11. Bxg7 {
+[%emt 0:00:02]} Kxg7 {[%emt 0:00:01]} 12. f4 {[%emt 0:00:00]} Nc5 {[%emt 0:00:
+03]} 13. f5 {[%emt 0:00:01]} f6 {[%emt 0:00:03]} 14. Nf3 {[%emt 0:00:04]} Nxd3
+{[%emt 0:00:03]} 15. cxd3 {[%emt 0:00:01]} c5 {[%emt 0:00:02]} 16. d4 {[%emt 0:
+00:09]} cxd4 {[%emt 0:00:06]} 17. Nxd4 {[%emt 0:00:01]} Re8 {[%emt 0:00:03]}
+18. Qf3 {[%emt 0:00:06]} Bd7 {[%emt 0:00:13]} 19. Qg3 {[%emt 0:00:10]} g5 {
+[%emt 0:00:05]} 20. h4 {[%emt 0:00:06]} h6 {[%emt 0:00:01]} 21. hxg5 {[%emt 0:
+00:02]} hxg5 {[%emt 0:00:01]} 22. Rae1 {[%emt 0:00:01]} a5 {[%emt 0:00:04]} 23.
+Qc3 {[%emt 0:00:17]} Qb8 {[%emt 0:00:03]} 24. Re3 {[%emt 0:00:06]} Qb6 {
+[%emt 0:00:02]} 25. Rc1 {[%emt 0:00:02]} Rac8 {[%emt 0:00:08]} 26. Nf3 {
+[%emt 0:00:11]} Rxe4 {[%emt 0:00:06]} 27. Rce1 {[%emt 0:00:04]} Rce8 {[%emt 0:
+00:03]} 28. Kf2 {[%emt 0:00:01]} Rxe3 {[%emt 0:00:07]} 29. Rxe3 {[%emt 0:00:01]
+} Rxe3 {[%emt 0:00:00]} 30. Qxe3 {[%emt 0:00:01]} Bxf5 {[%emt 0:00:02]} 31. Nd4
+{[%emt 0:00:03]} Bg6 {[%emt 0:00:13]} 32. Qe7+ {[%emt 0:00:12]} Bf7 {[%emt 0:
+00:02]} 33. Ke3 {[%emt 0:00:00]} Qc5 {[%emt 0:00:02]} 34. Kd3 {[%emt 0:00:01]}
+Qe5 {[%emt 0:00:08]} 35. Qxc7 {[%emt 0:00:02]} d5 {[%emt 0:00:01]} 36. Qa7 {
+[%emt 0:00:11]} Kg6 {[%emt 0:00:06]} 37. Nc6 {[%emt 0:00:08]} Qe4+ {[%emt 0:00:
+02]} 38. Kc3 {[%emt 0:00:02]} Qxg2 {[%emt 0:00:08]} 39. Ne7+ {[%emt 0:00:04]}
+Kh7 {[%emt 0:00:03]} 40. a4 {[%emt 0:00:07]} Qf3+ {[%emt 0:00:02]} 41. Kb2 {
+[%emt 0:00:01]} Qe2+ {[%emt 0:00:04]} 42. Ka3 {[%emt 0:00:01]} Qe1 {[%emt 0:00:
+02]} 43. Ka2 {[%emt 0:00:02]} g4 {[%emt 0:00:05]} 44. Nf5 {[%emt 0:00:06]} Qe6
+{[%emt 0:00:09]} 45. Nd4 {[%emt 0:00:03]} Qe8 {[%emt 0:00:06]} 46. Qxa5 {
+[%emt 0:00:05]} g3 {[%emt 0:00:04]} 47. Qc7 {[%emt 0:00:01]} Kh6 {[%emt 0:00:
+18]} 48. Qf4+ {[%emt 0:00:03]} Kh7 {[%emt 0:00:01]} 49. Qh4+ {[%emt 0:00:03]}
+Kg8 {[%emt 0:00:03]} 50. Qxg3+ {[%emt 0:00:01]} Bg6 {[%emt 0:00:01]} 51. Qd6 {
+[%emt 0:00:06]} Qe5 {[%emt 0:00:03]} 52. Qd8+ {[%emt 0:00:05]} Kg7 {[%emt 0:00:
+02]} 53. Qd7+ {[%emt 0:00:01]} Kg8 {[%emt 0:00:01]} 54. Ne6 {[%emt 0:00:02]}
+Bf7 {[%emt 0:00:09]} 55. Nd8 {[%emt 0:00:06]} Bg6 {[%emt 0:00:03]} 56. Nc6 {
+[%emt 0:00:01]} Qe2+ {[%emt 0:00:02]} 57. Ka3 {[%emt 0:00:00]} Bb1 {[%emt 0:00:
+03]} 58. Ne7+ {[%emt 0:00:03]} Kf8 {[%emt 0:00:01]} 59. Nxd5 {[%emt 0:00:03]}
+Qa2+ {[%emt 0:00:03]} 60. Kb4 {[%emt 0:00:01]} Qd2+ {[%emt 0:00:00]} 61. Kc5 {
+[%emt 0:00:03]} Qf2+ {[%emt 0:00:02]} 62. Kc6 {[%emt 0:00:07]} Qc2+ {[%emt 0:
+00:05]} 63. Kd6 {[%emt 0:00:08]} Qh2+ {[%emt 0:00:01] MLLH ofrece tablas} 64.
+Kc5 {[%emt 0:00:15]} Qc2+ {[%emt 0:00:02]} 65. Kb4 {[%emt 0:00:01]} Qd2+ {
+[%emt 0:00:02]} 66. Kb5 {[%emt 0:00:00]} Qd3+ {[%emt 0:00:03]} 67. Ka5 {
+[%emt 0:00:04]} Qd2+ {[%emt 0:00:01]} 68. b4 {[%emt 0:00:01] Tiempo .  (Lag:
+Av=0.69s, max=0.9s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.26"]
+[Round "?"]
+[White "MLLH"]
+[Black "Zayats"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "2428"]
+[BlackElo "2572"]
+[PlyCount "117"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. d4 {[%emt 0:00:02]} Nc6 {[%emt 0:00:01]} 2. d5 {[%emt 0:00:04]} Ne5 {
+[%emt 0:00:01]} 3. e4 {[%emt 0:00:01]} e6 {[%emt 0:00:01]} 4. Nf3 {[%emt 0:00:
+08]} Bb4+ {[%emt 0:00:04]} 5. c3 {[%emt 0:00:07]} Bd6 {[%emt 0:00:01]} 6. Nxe5
+{[%emt 0:00:02]} Bxe5 {[%emt 0:00:01]} 7. f4 {[%emt 0:00:01]} Bf6 {[%emt 0:00:
+01]} 8. dxe6 {[%emt 0:00:14]} dxe6 {[%emt 0:00:02]} 9. Qxd8+ {[%emt 0:00:03]}
+Bxd8 {[%emt 0:00:01]} 10. Bd3 {[%emt 0:00:08]} Nf6 {[%emt 0:00:02]} 11. e5 {
+[%emt 0:00:03]} Nd5 {[%emt 0:00:02]} 12. O-O {[%emt 0:00:04]} Bd7 {[%emt 0:00:
+02]} 13. Nd2 {[%emt 0:00:02]} Bc6 {[%emt 0:00:01]} 14. Nc4 {[%emt 0:00:05]} a5
+{[%emt 0:00:03]} 15. Ne3 {[%emt 0:00:02]} Be7 {[%emt 0:00:04]} 16. Nxd5 {
+[%emt 0:00:02]} Bxd5 {[%emt 0:00:01]} 17. Be3 {[%emt 0:00:02]} a4 {[%emt 0:00:
+02]} 18. c4 {[%emt 0:00:01]} Bc6 {[%emt 0:00:01]} 19. Rfd1 {[%emt 0:00:02]}
+O-O-O {[%emt 0:00:09]} 20. Be2 {[%emt 0:00:02]} f5 {[%emt 0:00:07]} 21. Kf2 {
+[%emt 0:00:02]} h6 {[%emt 0:00:03]} 22. h4 {[%emt 0:00:03]} Bxh4+ {[%emt 0:00:
+02]} 23. g3 {[%emt 0:00:01]} Be7 {[%emt 0:00:00]} 24. Bf3 {[%emt 0:00:01]} Bxf3
+{[%emt 0:00:03]} 25. Kxf3 {[%emt 0:00:01]} Rxd1 {[%emt 0:00:03]} 26. Rxd1 {
+[%emt 0:00:02]} Rd8 {[%emt 0:00:00]} 27. Rxd8+ {[%emt 0:00:03]} Bxd8 {[%emt 0:
+00:02]} 28. Bc5 {[%emt 0:00:03]} g5 {[%emt 0:00:02]} 29. g4 {[%emt 0:00:06]}
+fxg4+ {[%emt 0:00:02]} 30. Kxg4 {[%emt 0:00:01]} gxf4 {[%emt 0:00:01]} 31. Kxf4
+{[%emt 0:00:03]} h5 {[%emt 0:00:05]} 32. Bf8 {[%emt 0:00:07]} Kd7 {[%emt 0:00:
+01]} 33. Bh6 {[%emt 0:00:06]} h4 {[%emt 0:00:07]} 34. Kg4 {[%emt 0:00:05]} Kc6
+{[%emt 0:00:01]} 35. Be3 {[%emt 0:00:01]} Be7 {[%emt 0:00:17]} 36. Bf2 {
+[%emt 0:00:07]} Bc5 {[%emt 0:00:01]} 37. Bxh4 {[%emt 0:00:01]} Bd4 {[%emt 0:00:
+01]} 38. b3 {[%emt 0:00:12]} Bxe5 {[%emt 0:00:01]} 39. Kf3 {[%emt 0:00:01]} Kc5
+{[%emt 0:00:02]} 40. Ke4 {[%emt 0:00:01]} Bd6 {[%emt 0:00:02]} 41. Be1 {
+[%emt 0:00:03]} axb3 {[%emt 0:00:08]} 42. axb3 {[%emt 0:00:02]} Kc6 {[%emt 0:
+00:01]} 43. b4 {[%emt 0:00:03]} b5 {[%emt 0:00:02]} 44. c5 {[%emt 0:00:02]} Bh2
+{[%emt 0:00:02]} 45. Bc3 {[%emt 0:00:02]} Kd7 {[%emt 0:00:01]} 46. Be5 {
+[%emt 0:00:01]} Bxe5 {[%emt 0:00:04]} 47. Kxe5 {[%emt 0:00:01]} Ke7 {[%emt 0:
+00:02]} 48. c6 {[%emt 0:00:01]} Kf7 {[%emt 0:00:01]} 49. Kd4 {[%emt 0:00:01]}
+Kf6 {[%emt 0:00:03]} 50. Kc5 {[%emt 0:00:00]} e5 {[%emt 0:00:01]} 51. Kxb5 {
+[%emt 0:00:01]} e4 {[%emt 0:00:04]} 52. Kc4 {[%emt 0:00:01]} Ke5 {[%emt 0:00:
+01]} 53. b5 {[%emt 0:00:01]} Kd6 {[%emt 0:00:01]} 54. Kd4 {[%emt 0:00:01]} e3 {
+[%emt 0:00:01]} 55. Kxe3 {[%emt 0:00:01]} Kc5 {[%emt 0:00:00]} 56. Kd3 {
+[%emt 0:00:01]} Kxb5 {[%emt 0:00:01]} 57. Kd4 {[%emt 0:00:02]} Kxc6 {[%emt 0:
+00:01]} 58. Kc4 {[%emt 0:00:01]} Kd6 {[%emt 0:00:00] MLLH ofrece tablas} 59.
+Kd4 {[%emt 0:00:01] (Lag: Av=0.70s, max=0.9s)} 1/2-1/2
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.26"]
+[Round "?"]
+[White "Zayats"]
+[Black "MLLH"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2572"]
+[BlackElo "2428"]
+[PlyCount "41"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:02]} d6 {[%emt 0:00:00]} 2. d4 {[%emt 0:00:02]} Nf6 {[%emt 0:
+00:00]} 3. f3 {[%emt 0:00:02]} e5 {[%emt 0:00:02]} 4. dxe5 {[%emt 0:00:01]}
+dxe5 {[%emt 0:00:00]} 5. Qxd8+ {[%emt 0:00:00]} Kxd8 {[%emt 0:00:00]} 6. Bc4 {
+[%emt 0:00:01]} Be6 {[%emt 0:00:00]} 7. Bxe6 {[%emt 0:00:01]} fxe6 {[%emt 0:00:
+00]} 8. Nh3 {[%emt 0:00:00]} Bd6 {[%emt 0:00:01]} 9. Nd2 {[%emt 0:00:02]} Ke7 {
+[%emt 0:00:01]} 10. Nc4 {[%emt 0:00:00]} Nc6 {[%emt 0:00:02]} 11. Be3 {[%emt 0:
+00:01]} b5 {[%emt 0:00:02]} 12. Nd2 {[%emt 0:00:03]} a6 {[%emt 0:00:01]} 13.
+O-O-O {[%emt 0:00:01]} h6 {[%emt 0:00:02]} 14. Nb3 {[%emt 0:00:01]} Nd7 {
+[%emt 0:00:01]} 15. f4 {[%emt 0:00:02]} a5 {[%emt 0:00:05]} 16. f5 {[%emt 0:00:
+03]} a4 {[%emt 0:00:04]} 17. Nd2 {[%emt 0:00:01]} Nd4 {[%emt 0:00:08]} 18. c3 {
+[%emt 0:00:07]} Ne2+ {[%emt 0:00:09]} 19. Kc2 {[%emt 0:00:02]} exf5 {[%emt 0:
+00:05]} 20. exf5 {[%emt 0:00:03]} Raf8 {[%emt 0:00:02]} 21. Rde1 {[%emt 0:00:
+02] MLLH rinde  (Lag: Av=0.69s, max=0.9s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.26"]
+[Round "?"]
+[White "MLLH"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "A40"]
+[WhiteElo "2428"]
+[BlackElo "2572"]
+[PlyCount "98"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. d4 {[%emt 0:00:03]} a6 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:01]} h6 {[%emt 0:
+00:00]} 3. e4 {[%emt 0:00:01]} b5 {[%emt 0:00:01]} 4. c4 {[%emt 0:00:01]} bxc4
+{[%emt 0:00:01]} 5. Bxc4 {[%emt 0:00:01]} e6 {[%emt 0:00:01]} 6. Nc3 {[%emt 0:
+00:01]} g5 {[%emt 0:00:02]} 7. Be3 {[%emt 0:00:04]} Bg7 {[%emt 0:00:00]} 8. e5
+{[%emt 0:00:03]} Ne7 {[%emt 0:00:02]} 9. h4 {[%emt 0:00:01]} g4 {[%emt 0:00:01]
+} 10. Nd2 {[%emt 0:00:03]} h5 {[%emt 0:00:01]} 11. Bg5 {[%emt 0:00:02]} d6 {
+[%emt 0:00:02]} 12. Nde4 {[%emt 0:00:14]} dxe5 {[%emt 0:00:03]} 13. Nf6+ {
+[%emt 0:00:01]} Bxf6 {[%emt 0:00:09]} 14. Bxf6 {[%emt 0:00:01]} exd4 {[%emt 0:
+00:02]} 15. Bxh8 {[%emt 0:00:02]} dxc3 {[%emt 0:00:01]} 16. Qxd8+ {[%emt 0:00:
+01]} Kxd8 {[%emt 0:00:00]} 17. O-O-O+ {[%emt 0:00:03]} Nd7 {[%emt 0:00:03]} 18.
+Bxc3 {[%emt 0:00:04]} Bb7 {[%emt 0:00:00]} 19. Rhg1 {[%emt 0:00:20]} Nd5 {
+[%emt 0:00:02]} 20. Bxd5 {[%emt 0:00:12]} Bxd5 {[%emt 0:00:01]} 21. b3 {
+[%emt 0:00:02]} Ke7 {[%emt 0:00:02]} 22. Rd3 {[%emt 0:00:02]} a5 {[%emt 0:00:
+03]} 23. Kb2 {[%emt 0:00:02]} a4 {[%emt 0:00:01]} 24. f3 {[%emt 0:00:04]} Rb8 {
+[%emt 0:00:04]} 25. Bd4 {[%emt 0:00:06]} c5 {[%emt 0:00:02]} 26. Be3 {[%emt 0:
+00:07]} c4 {[%emt 0:00:01]} 27. Rc3 {[%emt 0:00:03]} cxb3 {[%emt 0:00:02]} 28.
+axb3 {[%emt 0:00:01]} Bxb3 {[%emt 0:00:02]} 29. fxg4 {[%emt 0:00:02]} hxg4 {
+[%emt 0:00:01]} 30. Ka3 {[%emt 0:00:08]} Rb5 {[%emt 0:00:07]} 31. Rh1 {[%emt 0:
+00:05]} Rh5 {[%emt 0:00:03]} 32. g3 {[%emt 0:00:02]} Ne5 {[%emt 0:00:04]} 33.
+Rc7+ {[%emt 0:00:05]} Kd6 {[%emt 0:00:03]} 34. Rhc1 {[%emt 0:00:02]} Nd3 {
+[%emt 0:00:15]} 35. R1c6+ {[%emt 0:00:02]} Kd5 {[%emt 0:00:02]} 36. Rc5+ {
+[%emt 0:00:03]} Nxc5 {[%emt 0:00:02]} 37. Rxc5+ {[%emt 0:00:01]} Ke4 {[%emt 0:
+00:00]} 38. Rxh5 {[%emt 0:00:01]} Kxe3 {[%emt 0:00:00]} 39. Rg5 {[%emt 0:00:02]
+} Kf3 {[%emt 0:00:02]} 40. h5 {[%emt 0:00:01]} Kxg3 {[%emt 0:00:01]} 41. h6 {
+[%emt 0:00:01]} Bc2 {[%emt 0:00:01]} 42. Rg7 {[%emt 0:00:06]} f6 {[%emt 0:00:
+01]} 43. h7 {[%emt 0:00:04]} Bxh7 {[%emt 0:00:02]} 44. Rxh7 {[%emt 0:00:01]} f5
+{[%emt 0:00:01]} 45. Kxa4 {[%emt 0:00:02]} f4 {[%emt 0:00:02]} 46. Kb3 {
+[%emt 0:00:02]} f3 {[%emt 0:00:00]} 47. Kc2 {[%emt 0:00:01]} f2 {[%emt 0:00:01]
+} 48. Rf7 {[%emt 0:00:01]} Kg2 {[%emt 0:00:00]} 49. Kd3 {[%emt 0:00:02]} f1=Q+
+{[%emt 0:00:01]} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.26"]
+[Round "?"]
+[White "Zayats"]
+[Black "MLLH"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2572"]
+[BlackElo "2428"]
+[PlyCount "109"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} c6 {[%emt 0:00:02]} 2. d4 {[%emt 0:00:01]} d5 {[%emt 0:
+00:00]} 3. f3 {[%emt 0:00:00]} e6 {[%emt 0:00:02]} 4. Nc3 {[%emt 0:00:02]} Bb4
+{[%emt 0:00:02]} 5. Bf4 {[%emt 0:00:02]} Nf6 {[%emt 0:00:01]} 6. e5 {[%emt 0:
+00:01]} Nfd7 {[%emt 0:00:02]} 7. Qd2 {[%emt 0:00:01]} c5 {[%emt 0:00:02]} 8.
+dxc5 {[%emt 0:00:01]} Nc6 {[%emt 0:00:01]} 9. O-O-O {[%emt 0:00:01]} Nxc5 {
+[%emt 0:00:04]} 10. a3 {[%emt 0:00:02]} Ba5 {[%emt 0:00:12]} 11. Be3 {[%emt 0:
+00:08]} Na4 {[%emt 0:00:04]} 12. Nge2 {[%emt 0:00:04]} Nxc3 {[%emt 0:00:08]}
+13. Nxc3 {[%emt 0:00:01]} Nxe5 {[%emt 0:00:03]} 14. Bd4 {[%emt 0:00:03]} f6 {
+[%emt 0:00:01]} 15. Bb5+ {[%emt 0:00:07]} Bd7 {[%emt 0:00:05]} 16. b4 {[%emt 0:
+00:01]} Bb6 {[%emt 0:00:03]} 17. Rhe1 {[%emt 0:00:02]} Bxd4 {[%emt 0:00:03]}
+18. Qxd4 {[%emt 0:00:01]} Bxb5 {[%emt 0:00:02]} 19. Nxb5 {[%emt 0:00:02]} a6 {
+[%emt 0:00:02]} 20. f4 {[%emt 0:00:02]} axb5 {[%emt 0:00:02]} 21. fxe5 {
+[%emt 0:00:01]} f5 {[%emt 0:00:12]} 22. Rd3 {[%emt 0:00:04]} O-O {[%emt 0:00:
+02]} 23. Rc3 {[%emt 0:00:01]} Qd7 {[%emt 0:00:08]} 24. Ree3 {[%emt 0:00:09]}
+Rfc8 {[%emt 0:00:03]} 25. Qb6 {[%emt 0:00:01]} Rc4 {[%emt 0:00:05]} 26. Kb2 {
+[%emt 0:00:12]} Rac8 {[%emt 0:00:02]} 27. Rxc4 {[%emt 0:00:04]} bxc4 {[%emt 0:
+00:11]} 28. c3 {[%emt 0:00:02]} Rc6 {[%emt 0:00:03]} 29. Qd4 {[%emt 0:00:08]}
+b5 {[%emt 0:00:01]} 30. a4 {[%emt 0:00:05]} bxa4 {[%emt 0:00:03]} 31. Re1 {
+[%emt 0:00:00]} a3+ {[%emt 0:00:02]} 32. Ka2 {[%emt 0:00:21]} Rc8 {[%emt 0:00:
+02]} 33. Qd1 {[%emt 0:00:05]} d4 {[%emt 0:00:05]} 34. Qxd4 {[%emt 0:00:02]}
+Qxd4 {[%emt 0:00:01]} 35. cxd4 {[%emt 0:00:01]} Rd8 {[%emt 0:00:01]} 36. Rd1 {
+[%emt 0:00:03]} c3 {[%emt 0:00:02]} 37. Kxa3 {[%emt 0:00:01]} c2 {[%emt 0:00:
+01]} 38. Rc1 {[%emt 0:00:01]} Rxd4 {[%emt 0:00:01]} 39. Rxc2 {[%emt 0:00:01]}
+Re4 {[%emt 0:00:04]} 40. b5 {[%emt 0:00:01]} Rxe5 {[%emt 0:00:01]} 41. Rb2 {
+[%emt 0:00:00]} Rd5 {[%emt 0:00:04]} 42. b6 {[%emt 0:00:01]} Rd8 {[%emt 0:00:
+01]} 43. b7 {[%emt 0:00:02]} Rb8 {[%emt 0:00:00]} 44. Ka4 {[%emt 0:00:00]} Kf7
+{[%emt 0:00:01]} 45. Ka5 {[%emt 0:00:01]} e5 {[%emt 0:00:03]} 46. Kb6 {[%emt 0:
+00:01]} Ke6 {[%emt 0:00:02]} 47. Kc7 {[%emt 0:00:03]} Re8 {[%emt 0:00:02]} 48.
+b8=Q {[%emt 0:00:11]} Rxb8 {[%emt 0:00:01]} 49. Rxb8 {[%emt 0:00:00]} e4 {
+[%emt 0:00:05]} 50. Kc6 {[%emt 0:00:01]} Ke5 {[%emt 0:00:02]} 51. Rb7 {[%emt 0:
+00:01]} g5 {[%emt 0:00:06]} 52. Rxh7 {[%emt 0:00:02]} e3 {[%emt 0:00:05]} 53.
+Kc5 {[%emt 0:00:01]} g4 {[%emt 0:00:03]} 54. Re7+ {[%emt 0:00:06]} Kf4 {
+[%emt 0:00:02]} 55. Kd4 {[%emt 0:00:00] MLLH rinde  (Lag: Av=0.69s, max=0.9s)}
+1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.26"]
+[Round "?"]
+[White "MLLH"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "2428"]
+[BlackElo "2572"]
+[PlyCount "74"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. d4 {[%emt 0:00:03]} b6 {[%emt 0:00:00]} 2. e4 {[%emt 0:00:02]} Bb7 {[%emt 0:
+00:00]} 3. Bd3 {[%emt 0:00:01]} f5 {[%emt 0:00:01]} 4. exf5 {[%emt 0:00:03]}
+Bxg2 {[%emt 0:00:01]} 5. Qh5+ {[%emt 0:00:00]} g6 {[%emt 0:00:02]} 6. fxg6 {
+[%emt 0:00:00]} Bg7 {[%emt 0:00:00]} 7. Qf5 {[%emt 0:00:21]} Nf6 {[%emt 0:00:
+04]} 8. Bh6 {[%emt 0:00:06]} Bxh6 {[%emt 0:00:08]} 9. gxh7 {[%emt 0:00:03]} Kf8
+{[%emt 0:00:07]} 10. Qg6 {[%emt 0:00:02]} Rxh7 {[%emt 0:00:08]} 11. Qxg2 {
+[%emt 0:00:08]} Nc6 {[%emt 0:00:10]} 12. Bxh7 {[%emt 0:00:01]} Nxh7 {[%emt 0:
+00:03]} 13. Qg6 {[%emt 0:00:01]} Bg7 {[%emt 0:00:07]} 14. Qxh7 {[%emt 0:00:02]}
+Nxd4 {[%emt 0:00:00]} 15. Nc3 {[%emt 0:00:04]} Qe8 {[%emt 0:00:06]} 16. O-O-O {
+[%emt 0:00:02]} Qf7 {[%emt 0:00:01]} 17. Nge2 {[%emt 0:00:02]} Nxe2+ {[%emt 0:
+00:01]} 18. Nxe2 {[%emt 0:00:02]} Bxb2+ {[%emt 0:00:01]} 19. Kxb2 {[%emt 0:00:
+04]} Qxh7 {[%emt 0:00:00]} 20. Rxd7 {[%emt 0:00:04]} Qe4 {[%emt 0:00:02]} 21.
+Ng3 {[%emt 0:00:03]} Qb4+ {[%emt 0:00:07]} 22. Ka1 {[%emt 0:00:11]} Qc3+ {
+[%emt 0:00:06]} 23. Kb1 {[%emt 0:00:01]} a5 {[%emt 0:00:00]} 24. Rd3 {[%emt 0:
+00:05]} Qc6 {[%emt 0:00:02]} 25. h4 {[%emt 0:00:02]} a4 {[%emt 0:00:02]} 26. h5
+{[%emt 0:00:01]} Qb5+ {[%emt 0:00:03]} 27. Kc1 {[%emt 0:00:03]} Qe5 {[%emt 0:
+00:01]} 28. h6 {[%emt 0:00:07]} Kf7 {[%emt 0:00:01]} 29. Re3 {[%emt 0:00:06]}
+Qa1+ {[%emt 0:00:03]} 30. Kd2 {[%emt 0:00:01]} Qxa2 {[%emt 0:00:00]} 31. Rf3+ {
+[%emt 0:00:03]} Ke6 {[%emt 0:00:03]} 32. Re3+ {[%emt 0:00:03]} Kd7 {[%emt 0:00:
+01]} 33. Nf5 {[%emt 0:00:08]} e6 {[%emt 0:00:06]} 34. Rd3+ {[%emt 0:00:01]} Kc6
+{[%emt 0:00:03]} 35. Nd4+ {[%emt 0:00:05]} Kb7 {[%emt 0:00:01]} 36. h7 {
+[%emt 0:00:05]} Rh8 {[%emt 0:00:01]} 37. Rg3 {[%emt 0:00:01]} Qd5 {[%emt 0:00:
+01] MLLH rinde  (Lag: Av=0.70s, max=0.9s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.26"]
+[Round "?"]
+[White "Zayats"]
+[Black "MLLH"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2572"]
+[BlackElo "2428"]
+[PlyCount "72"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:01]} c6 {[%emt 0:00:02]} 2. d4 {[%emt 0:00:01]} d5 {[%emt 0:
+00:00]} 3. f3 {[%emt 0:00:00]} e6 {[%emt 0:00:01]} 4. Nc3 {[%emt 0:00:00]} Bb4
+{[%emt 0:00:00]} 5. Be3 {[%emt 0:00:00]} Nf6 {[%emt 0:00:02]} 6. e5 {[%emt 0:
+00:01]} Nfd7 {[%emt 0:00:02]} 7. f4 {[%emt 0:00:00]} c5 {[%emt 0:00:02]} 8. Nf3
+{[%emt 0:00:00]} Nc6 {[%emt 0:00:02]} 9. Qd2 {[%emt 0:00:02]} cxd4 {[%emt 0:00:
+02]} 10. Nxd4 {[%emt 0:00:01]} Nc5 {[%emt 0:00:01]} 11. Bd3 {[%emt 0:00:04]}
+Qa5 {[%emt 0:00:05]} 12. Nb3 {[%emt 0:00:03]} Nxb3 {[%emt 0:00:05]} 13. cxb3 {
+[%emt 0:00:01]} d4 {[%emt 0:00:01]} 14. Bxd4 {[%emt 0:00:07]} Nxd4 {[%emt 0:00:
+01]} 15. O-O {[%emt 0:00:00]} Nc6 {[%emt 0:00:09]} 16. Kh1 {[%emt 0:00:04]} Bd7
+{[%emt 0:00:02]} 17. a3 {[%emt 0:00:02]} Bxc3 {[%emt 0:00:03]} 18. bxc3 {
+[%emt 0:00:00]} O-O-O {[%emt 0:00:01]} 19. Qf2 {[%emt 0:00:06]} Qb6 {[%emt 0:
+00:03]} 20. Qb2 {[%emt 0:00:05]} Kb8 {[%emt 0:00:03]} 21. Be4 {[%emt 0:00:04]}
+h5 {[%emt 0:00:04]} 22. b4 {[%emt 0:00:03]} h4 {[%emt 0:00:04]} 23. a4 {
+[%emt 0:00:01]} Na5 {[%emt 0:00:07]} 24. Qe2 {[%emt 0:00:05]} Nc6 {[%emt 0:00:
+06]} 25. a5 {[%emt 0:00:00]} Qc7 {[%emt 0:00:02]} 26. a6 {[%emt 0:00:06]} b6 {
+[%emt 0:00:05]} 27. Bf3 {[%emt 0:00:03]} f6 {[%emt 0:00:05]} 28. exf6 {[%emt 0:
+00:04]} gxf6 {[%emt 0:00:01]} 29. f5 {[%emt 0:00:01]} Ne5 {[%emt 0:00:04]} 30.
+fxe6 {[%emt 0:00:12]} Bxe6 {[%emt 0:00:01]} 31. Bb7 {[%emt 0:00:03]} Ng4 {
+[%emt 0:00:06]} 32. g3 {[%emt 0:00:12]} hxg3 {[%emt 0:00:02]} 33. Qxe6 {
+[%emt 0:00:02]} Rxh2+ {[%emt 0:00:02]} 34. Kg1 {[%emt 0:00:01]} Qxc3 {[%emt 0:
+00:24]} 35. Rad1 {[%emt 0:00:02]} Rhd2 {[%emt 0:00:26] MLLH reclama victoria
+por desconexión} 36. Rde1 {[%emt 0:00:40] .} Qd4+ {[%emt 0:00:03] Zayats gibt
+auf  (Lag: Av=0.69s, max=0.9s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.26"]
+[Round "?"]
+[White "MLLH"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "A43"]
+[WhiteElo "2428"]
+[BlackElo "2572"]
+[PlyCount "108"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. d4 {[%emt 0:00:02]} c5 {[%emt 0:00:00]} 2. d5 {[%emt 0:00:01]} e6 {[%emt 0:
+00:01]} 3. e4 {[%emt 0:00:01]} Nf6 {[%emt 0:00:01]} 4. Nc3 {[%emt 0:00:02]}
+exd5 {[%emt 0:00:01]} 5. exd5 {[%emt 0:00:01]} Bd6 {[%emt 0:00:00]} 6. Nf3 {
+[%emt 0:00:01]} O-O {[%emt 0:00:01]} 7. Be2 {[%emt 0:00:01]} Re8 {[%emt 0:00:
+00]} 8. O-O {[%emt 0:00:01]} Bc7 {[%emt 0:00:02]} 9. d6 {[%emt 0:00:02]} Ba5 {
+[%emt 0:00:01]} 10. Bg5 {[%emt 0:00:01]} Bxc3 {[%emt 0:00:01]} 11. bxc3 {
+[%emt 0:00:02]} h6 {[%emt 0:00:01]} 12. Bh4 {[%emt 0:00:01]} b6 {[%emt 0:00:00]
+} 13. Nd2 {[%emt 0:00:05]} Bb7 {[%emt 0:00:01]} 14. Bf3 {[%emt 0:00:01]} Nc6 {
+[%emt 0:00:03]} 15. a4 {[%emt 0:00:04]} Re6 {[%emt 0:00:03]} 16. Ne4 {[%emt 0:
+00:22]} g5 {[%emt 0:00:01]} 17. Nxf6+ {[%emt 0:00:01]} Qxf6 {[%emt 0:00:00]}
+18. Bg3 {[%emt 0:00:01]} Rae8 {[%emt 0:00:04]} 19. a5 {[%emt 0:00:03]} Nxa5 {
+[%emt 0:00:03]} 20. Bxb7 {[%emt 0:00:01]} Nxb7 {[%emt 0:00:00]} 21. Rxa7 {
+[%emt 0:00:01]} Nxd6 {[%emt 0:00:00]} 22. Rxd7 {[%emt 0:00:01]} Ne4 {[%emt 0:
+00:02]} 23. c4 {[%emt 0:00:07]} Nc3 {[%emt 0:00:08]} 24. Qa1 {[%emt 0:00:05]}
+Ne2+ {[%emt 0:00:03]} 25. Kh1 {[%emt 0:00:01]} Nxg3+ {[%emt 0:00:17]} 26. hxg3
+{[%emt 0:00:01]} Qxa1 {[%emt 0:00:03]} 27. Rxa1 {[%emt 0:00:02]} Re1+ {[%emt 0:
+00:01]} 28. Rxe1 {[%emt 0:00:00]} Rxe1+ {[%emt 0:00:01]} 29. Kh2 {[%emt 0:00:
+00]} Re2 {[%emt 0:00:01]} 30. Rd6 {[%emt 0:00:03]} Kg7 {[%emt 0:00:01]} 31.
+Rxb6 {[%emt 0:00:02]} Rxc2 {[%emt 0:00:01]} 32. Rc6 {[%emt 0:00:01]} Rxc4 {
+[%emt 0:00:01]} 33. g4 {[%emt 0:00:04]} Rc3 {[%emt 0:00:03]} 34. f3 {[%emt 0:
+00:01]} Rc2 {[%emt 0:00:05]} 35. Kg3 {[%emt 0:00:01]} c4 {[%emt 0:00:01]} 36.
+Kh3 {[%emt 0:00:03]} Rc1 {[%emt 0:00:03]} 37. Kg3 {[%emt 0:00:02]} c3 {[%emt 0:
+00:00]} 38. Kf2 {[%emt 0:00:01]} c2 {[%emt 0:00:01]} 39. Kg3 {[%emt 0:00:01]}
+Kf8 {[%emt 0:00:02]} 40. Kf2 {[%emt 0:00:05]} Ke7 {[%emt 0:00:01]} 41. Ke2 {
+[%emt 0:00:03]} Rg1 {[%emt 0:00:02]} 42. Rxc2 {[%emt 0:00:02]} Rxg2+ {[%emt 0:
+00:01]} 43. Kd3 {[%emt 0:00:00]} Rxc2 {[%emt 0:00:00]} 44. Kxc2 {[%emt 0:00:01]
+} Ke6 {[%emt 0:00:00]} 45. Kd2 {[%emt 0:00:03]} Ke5 {[%emt 0:00:03]} 46. Ke3 {
+[%emt 0:00:01]} f6 {[%emt 0:00:02]} 47. Ke2 {[%emt 0:00:02]} Kf4 {[%emt 0:00:
+06]} 48. Kf2 {[%emt 0:00:01]} f5 {[%emt 0:00:01]} 49. gxf5 {[%emt 0:00:01]}
+Kxf5 {[%emt 0:00:00]} 50. Kg3 {[%emt 0:00:04]} h5 {[%emt 0:00:01]} 51. Kg2 {
+[%emt 0:00:02]} Kf4 {[%emt 0:00:00]} 52. Kf2 {[%emt 0:00:01]} h4 {[%emt 0:00:
+00]} 53. Kg2 {[%emt 0:00:05]} Ke3 {[%emt 0:00:01]} 54. f4 {[%emt 0:00:08]} Kxf4
+{[%emt 0:00:01] MLLH rinde  (Lag: Av=0.69s, max=0.9s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.26"]
+[Round "?"]
+[White "Zayats"]
+[Black "MLLH"]
+[Result "1-0"]
+[ECO "B10"]
+[WhiteElo "2572"]
+[BlackElo "2428"]
+[PlyCount "55"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:01]} c6 {[%emt 0:00:02]} 2. d3 {[%emt 0:00:00]} d5 {[%emt 0:
+00:00]} 3. Nd2 {[%emt 0:00:00]} e5 {[%emt 0:00:02]} 4. Ngf3 {[%emt 0:00:01]}
+Bd6 {[%emt 0:00:00]} 5. d4 {[%emt 0:00:01]} exd4 {[%emt 0:00:06]} 6. exd5 {
+[%emt 0:00:01]} c5 {[%emt 0:00:04]} 7. Bb5+ {[%emt 0:00:01]} Bd7 {[%emt 0:00:
+01]} 8. Qe2+ {[%emt 0:00:01]} Ne7 {[%emt 0:00:01]} 9. Nc4 {[%emt 0:00:01]} Qc7
+{[%emt 0:00:07]} 10. Nxd6+ {[%emt 0:00:10]} Qxd6 {[%emt 0:00:01]} 11. Bg5 {
+[%emt 0:00:01]} f6 {[%emt 0:00:04]} 12. Bh4 {[%emt 0:00:01]} O-O {[%emt 0:00:
+15]} 13. Bg3 {[%emt 0:00:01]} Bxb5 {[%emt 0:00:06]} 14. Bxd6 {[%emt 0:00:03]}
+Bxe2 {[%emt 0:00:01]} 15. Bxe7 {[%emt 0:00:03]} Re8 {[%emt 0:00:01]} 16. Kxe2 {
+[%emt 0:00:09]} Rxe7+ {[%emt 0:00:02]} 17. Kd3 {[%emt 0:00:00]} Nd7 {[%emt 0:
+00:09]} 18. Rhe1 {[%emt 0:00:04]} Kf7 {[%emt 0:00:15]} 19. d6 {[%emt 0:00:03]}
+Rxe1 {[%emt 0:00:04]} 20. Rxe1 {[%emt 0:00:00]} Re8 {[%emt 0:00:01]} 21. Rxe8 {
+[%emt 0:00:01]} Kxe8 {[%emt 0:00:01]} 22. Kc4 {[%emt 0:00:00]} b6 {[%emt 0:00:
+07]} 23. Kd5 {[%emt 0:00:01]} Nf8 {[%emt 0:00:26]} 24. Kc6 {[%emt 0:00:07]} Kd8
+{[%emt 0:00:01]} 25. b4 {[%emt 0:00:06]} Ne6 {[%emt 0:00:07]} 26. bxc5 {
+[%emt 0:00:01]} bxc5 {[%emt 0:00:01]} 27. Nd2 {[%emt 0:00:02]} c4 {[%emt 0:00:
+04]} 28. Nxc4 {[%emt 0:00:01] MLLH rinde  (Lag: Av=0.69s, max=0.9s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.26"]
+[Round "?"]
+[White "MLLH"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "D93"]
+[WhiteElo "2428"]
+[BlackElo "2572"]
+[PlyCount "90"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. d4 {[%emt 0:00:01]} d5 {[%emt 0:00:00]} 2. Nf3 {[%emt 0:00:02]} c6 {[%emt 0:
+00:03]} 3. c4 {[%emt 0:00:01]} Nf6 {[%emt 0:00:01]} 4. Qc2 {[%emt 0:00:00]} g6
+{[%emt 0:00:01]} 5. Bf4 {[%emt 0:00:02]} Bg7 {[%emt 0:00:01]} 6. e3 {[%emt 0:
+00:02]} O-O {[%emt 0:00:01]} 7. Nc3 {[%emt 0:00:01]} Bf5 {[%emt 0:00:02]} 8.
+Qb3 {[%emt 0:00:01]} Qb6 {[%emt 0:00:08]} 9. c5 {[%emt 0:00:00]} Qxb3 {[%emt 0:
+00:01]} 10. axb3 {[%emt 0:00:00]} Nbd7 {[%emt 0:00:02]} 11. b4 {[%emt 0:00:01]}
+a6 {[%emt 0:00:01]} 12. h3 {[%emt 0:00:01]} h6 {[%emt 0:00:03]} 13. Ne5 {
+[%emt 0:00:01]} g5 {[%emt 0:00:02]} 14. Bh2 {[%emt 0:00:04]} Rae8 {[%emt 0:00:
+05]} 15. f3 {[%emt 0:00:05]} Nxe5 {[%emt 0:00:04]} 16. Bxe5 {[%emt 0:00:02]}
+Nd7 {[%emt 0:00:02]} 17. Bxg7 {[%emt 0:00:00]} Kxg7 {[%emt 0:00:01]} 18. Kd2 {
+[%emt 0:00:01]} e5 {[%emt 0:00:01]} 19. Bd3 {[%emt 0:00:03]} Bxd3 {[%emt 0:00:
+10]} 20. Kxd3 {[%emt 0:00:01]} f5 {[%emt 0:00:00]} 21. Kd2 {[%emt 0:00:10]} f4
+{[%emt 0:00:01]} 22. Rae1 {[%emt 0:00:10]} fxe3+ {[%emt 0:00:01]} 23. Kxe3 {
+[%emt 0:00:01]} Rf4 {[%emt 0:00:06]} 24. Ne2 {[%emt 0:00:02]} exd4+ {[%emt 0:
+00:01]} 25. Kd2 {[%emt 0:00:01]} Rff8 {[%emt 0:00:26]} 26. Nxd4 {[%emt 0:00:01]
+} Ne5 {[%emt 0:00:00]} 27. b3 {[%emt 0:00:02]} Kf6 {[%emt 0:00:01]} 28. Rhf1 {
+[%emt 0:00:05]} Ng6 {[%emt 0:00:01]} 29. g3 {[%emt 0:00:06]} h5 {[%emt 0:00:04]
+} 30. Rxe8 {[%emt 0:00:07]} Rxe8 {[%emt 0:00:01]} 31. Re1 {[%emt 0:00:01]} Rxe1
+{[%emt 0:00:03]} 32. Kxe1 {[%emt 0:00:01]} h4 {[%emt 0:00:00]} 33. gxh4 {
+[%emt 0:00:01]} gxh4 {[%emt 0:00:01]} 34. Ne2 {[%emt 0:00:05]} Ke5 {[%emt 0:00:
+01]} 35. Kd2 {[%emt 0:00:05]} Nf4 {[%emt 0:00:01]} 36. Nxf4 {[%emt 0:00:02]}
+Kxf4 {[%emt 0:00:01]} 37. Ke2 {[%emt 0:00:02]} d4 {[%emt 0:00:00]} 38. Kf2 {
+[%emt 0:00:05]} d3 {[%emt 0:00:01]} 39. b5 {[%emt 0:00:01]} axb5 {[%emt 0:00:
+04]} 40. b4 {[%emt 0:00:01]} d2 {[%emt 0:00:01]} 41. Ke2 {[%emt 0:00:01]} Kg3 {
+[%emt 0:00:01]} 42. Kxd2 {[%emt 0:00:01]} Kxh3 {[%emt 0:00:01]} 43. Ke3 {
+[%emt 0:00:04]} Kg3 {[%emt 0:00:02]} 44. f4 {[%emt 0:00:01]} h3 {[%emt 0:00:01]
+} 45. f5 {[%emt 0:00:01]} h2 {[%emt 0:00:00] MLLH rinde  (Lag: Av=0.69s, max=0.
+9s)} 0-1
+
+[Event "Rated game, 3m + 1s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.26"]
+[Round "?"]
+[White "Zayats"]
+[Black "MLLH"]
+[Result "1-0"]
+[ECO "B10"]
+[WhiteElo "2610"]
+[BlackElo "2390"]
+[PlyCount "39"]
+[SourceTitle "playchess.com"]
+[TimeControl "180+1"]
+
+1. e4 {[%emt 0:00:00]} c6 {[%emt 0:00:01]} 2. d3 {[%emt 0:00:00]} d5 {[%emt 0:
+00:00]} 3. Nd2 {[%emt 0:00:00]} e5 {[%emt 0:00:01]} 4. Ngf3 {[%emt 0:00:00]}
+Bd6 {[%emt 0:00:05]} 5. d4 {[%emt 0:00:01]} exd4 {[%emt 0:00:05]} 6. exd5 {
+[%emt 0:00:02]} Qe7+ {[%emt 0:00:01]} 7. Be2 {[%emt 0:00:02]} c5 {[%emt 0:00:
+05]} 8. O-O {[%emt 0:00:02]} Nf6 {[%emt 0:00:06]} 9. Bb5+ {[%emt 0:00:01]} Kf8
+{[%emt 0:00:01]} 10. c4 {[%emt 0:00:06]} Bg4 {[%emt 0:00:10]} 11. h3 {[%emt 0:
+00:06]} Bh5 {[%emt 0:00:01]} 12. Re1 {[%emt 0:00:11]} Qc7 {[%emt 0:00:02]} 13.
+g4 {[%emt 0:00:01]} Bg6 {[%emt 0:00:02]} 14. g5 {[%emt 0:00:03]} Nfd7 {[%emt 0:
+00:01]} 15. Ne4 {[%emt 0:00:03]} h6 {[%emt 0:00:09]} 16. gxh6 {[%emt 0:00:06]}
+gxh6 {[%emt 0:00:02]} 17. Nh4 {[%emt 0:00:19]} Bh2+ {[%emt 0:00:19]} 18. Kh1 {
+[%emt 0:00:02]} Bf4 {[%emt 0:00:01]} 19. Nxg6+ {[%emt 0:00:10]} fxg6 {[%emt 0:
+00:02]} 20. Qf3 {[%emt 0:00:02] MLLH rinde  (Lag: Av=0.71s, max=0.8s)} 1-0
+
+[Event "Rated game, 3m + 1s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.26"]
+[Round "?"]
+[White "MLLH"]
+[Black "Zayats"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2390"]
+[BlackElo "2610"]
+[PlyCount "63"]
+[SourceTitle "playchess.com"]
+[TimeControl "180+1"]
+
+1. d4 {[%emt 0:00:00]} c6 {[%emt 0:00:00]} 2. c4 {[%emt 0:00:02]} d5 {[%emt 0:
+00:01]} 3. Nf3 {[%emt 0:00:00]} Nf6 {[%emt 0:00:02]} 4. Qc2 {[%emt 0:00:00]} g6
+{[%emt 0:00:01]} 5. Bf4 {[%emt 0:00:02]} Bg7 {[%emt 0:00:01]} 6. e3 {[%emt 0:
+00:01]} O-O {[%emt 0:00:00]} 7. cxd5 {[%emt 0:00:01]} Nxd5 {[%emt 0:00:02]} 8.
+Be5 {[%emt 0:00:03]} f6 {[%emt 0:00:13]} 9. Bg3 {[%emt 0:00:05]} e5 {[%emt 0:
+00:02]} 10. Bc4 {[%emt 0:00:03]} Be6 {[%emt 0:00:03]} 11. e4 {[%emt 0:00:06]}
+Nc7 {[%emt 0:00:08]} 12. Bxe6+ {[%emt 0:00:01]} Nxe6 {[%emt 0:00:01]} 13. Qb3 {
+[%emt 0:00:01]} Qe8 {[%emt 0:00:07]} 14. dxe5 {[%emt 0:00:01]} fxe5 {[%emt 0:
+00:03]} 15. Qxb7 {[%emt 0:00:14]} Nd7 {[%emt 0:00:05]} 16. O-O {[%emt 0:00:02]}
+Ndc5 {[%emt 0:00:06]} 17. Qb4 {[%emt 0:00:06]} Rb8 {[%emt 0:00:01]} 18. Qc4 {
+[%emt 0:00:10]} Rxb2 {[%emt 0:00:01]} 19. Bxe5 {[%emt 0:00:02]} Rxf3 {[%emt 0:
+00:03]} 20. Bxg7 {[%emt 0:00:07]} Kxg7 {[%emt 0:00:09]} 21. gxf3 {[%emt 0:00:
+01]} Rb6 {[%emt 0:00:26]} 22. Nd2 {[%emt 0:00:02]} Qe7 {[%emt 0:00:01]} 23.
+Qc3+ {[%emt 0:00:05]} Kg8 {[%emt 0:00:02]} 24. Qe3 {[%emt 0:00:01]} Nd3 {
+[%emt 0:00:13]} 25. Qxd3 {[%emt 0:00:09]} Qg5+ {[%emt 0:00:03]} 26. Kh1 {
+[%emt 0:00:02]} Nf4 {[%emt 0:00:01]} 27. Qc4+ {[%emt 0:00:01]} Kg7 {[%emt 0:00:
+01]} 28. Rg1 {[%emt 0:00:02]} Qh5 {[%emt 0:00:01]} 29. Qd4+ {[%emt 0:00:08]}
+Kh6 {[%emt 0:00:02]} 30. Qd8 {[%emt 0:00:11]} Ne6 {[%emt 0:00:06]} 31. Qf6 {
+[%emt 0:00:05]} Qh3 {[%emt 0:00:04]} 32. Rg3 {[%emt 0:00:02] Zayats gibt auf}
+1-0
+
+[Event "Rated game, 3m + 1s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.26"]
+[Round "?"]
+[White "Zayats"]
+[Black "MLLH"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2587"]
+[BlackElo "2413"]
+[PlyCount "67"]
+[SourceTitle "playchess.com"]
+[TimeControl "180+1"]
+
+1. e4 {[%emt 0:00:00]} d6 {[%emt 0:00:01]} 2. Bc4 {[%emt 0:00:01]} Nf6 {
+[%emt 0:00:01]} 3. d3 {[%emt 0:00:01]} d5 {[%emt 0:00:03]} 4. exd5 {[%emt 0:00:
+01]} Nxd5 {[%emt 0:00:01]} 5. Qf3 {[%emt 0:00:02]} c6 {[%emt 0:00:01]} 6. Nc3 {
+[%emt 0:00:02]} e6 {[%emt 0:00:07]} 7. Nge2 {[%emt 0:00:01]} Nd7 {[%emt 0:00:
+04]} 8. Qg3 {[%emt 0:00:01]} N7f6 {[%emt 0:00:07]} 9. Bg5 {[%emt 0:00:05]} Nxc3
+{[%emt 0:00:02]} 10. Nxc3 {[%emt 0:00:03]} b5 {[%emt 0:00:01]} 11. Bb3 {
+[%emt 0:00:02]} Bd6 {[%emt 0:00:01]} 12. Qh4 {[%emt 0:00:02]} h6 {[%emt 0:00:
+02]} 13. O-O {[%emt 0:00:02]} Be7 {[%emt 0:00:08]} 14. Rfe1 {[%emt 0:00:05]}
+Bb7 {[%emt 0:00:08]} 15. Re3 {[%emt 0:00:08]} Qb6 {[%emt 0:00:05]} 16. Bxe6 {
+[%emt 0:00:04]} fxe6 {[%emt 0:00:02]} 17. Rxe6 {[%emt 0:00:01]} O-O-O {[%emt 0:
+00:04]} 18. Be3 {[%emt 0:00:04]} Qc7 {[%emt 0:00:02]} 19. Bxa7 {[%emt 0:00:05]}
+Bd6 {[%emt 0:00:04]} 20. Qh3 {[%emt 0:00:05]} Rd7 {[%emt 0:00:05]} 21. Rae1 {
+[%emt 0:00:05]} Ba6 {[%emt 0:00:03]} 22. Bd4 {[%emt 0:00:07]} Kb8 {[%emt 0:00:
+02]} 23. Bxf6 {[%emt 0:00:05]} gxf6 {[%emt 0:00:01]} 24. Ne4 {[%emt 0:00:01]}
+Be5 {[%emt 0:00:05]} 25. Nc5 {[%emt 0:00:01]} Bc8 {[%emt 0:00:03]} 26. Qf3 {
+[%emt 0:00:11]} Rd6 {[%emt 0:00:03]} 27. d4 {[%emt 0:00:01]} Rxe6 {[%emt 0:00:
+02]} 28. Nxe6 {[%emt 0:00:06]} Bxe6 {[%emt 0:00:01]} 29. dxe5 {[%emt 0:00:00]}
+fxe5 {[%emt 0:00:04]} 30. Qf6 {[%emt 0:00:01]} Re8 {[%emt 0:00:06]} 31. Qxh6 {
+[%emt 0:00:01]} Bd5 {[%emt 0:00:04]} 32. Re3 {[%emt 0:00:09]} Rf8 {[%emt 0:00:
+06]} 33. Qxf8+ {[%emt 0:00:03]} Kb7 {[%emt 0:00:01]} 34. h3 {[%emt 0:00:02] 
+(Lag: Av=0.68s, max=0.8s)} 1-0
+
+[Event "Rated game, 3m + 1s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.26"]
+[Round "?"]
+[White "MLLH"]
+[Black "Zayats"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2413"]
+[BlackElo "2587"]
+[PlyCount "81"]
+[SourceTitle "playchess.com"]
+[TimeControl "180+1"]
+
+1. d4 {[%emt 0:00:00]} b6 {[%emt 0:00:00]} 2. e4 {[%emt 0:00:02]} Bb7 {[%emt 0:
+00:00]} 3. Bd3 {[%emt 0:00:01]} f6 {[%emt 0:00:00]} 4. c4 {[%emt 0:00:02]} g6 {
+[%emt 0:00:01]} 5. h4 {[%emt 0:00:02]} Nh6 {[%emt 0:00:01]} 6. h5 {[%emt 0:00:
+01]} g5 {[%emt 0:00:00]} 7. f4 {[%emt 0:00:01]} g4 {[%emt 0:00:01]} 8. f5 {
+[%emt 0:00:04]} Rg8 {[%emt 0:00:02]} 9. Ne2 {[%emt 0:00:02]} Nf7 {[%emt 0:00:
+02]} 10. h6 {[%emt 0:00:01]} Nc6 {[%emt 0:00:02]} 11. Nbc3 {[%emt 0:00:03]} e5
+{[%emt 0:00:04]} 12. d5 {[%emt 0:00:02]} Nd4 {[%emt 0:00:02]} 13. Nxd4 {
+[%emt 0:00:04]} exd4 {[%emt 0:00:01]} 14. Ne2 {[%emt 0:00:01]} Ne5 {[%emt 0:00:
+06]} 15. Nxd4 {[%emt 0:00:03]} Bb4+ {[%emt 0:00:01]} 16. Ke2 {[%emt 0:00:05]}
+Qe7 {[%emt 0:00:02]} 17. Be3 {[%emt 0:00:05]} Nxc4 {[%emt 0:00:07]} 18. Bxc4 {
+[%emt 0:00:11]} Qxe4 {[%emt 0:00:01]} 19. Qd3 {[%emt 0:00:23]} Qxg2+ {[%emt 0:
+00:05]} 20. Bf2 {[%emt 0:00:02]} O-O-O {[%emt 0:00:06]} 21. Rhg1 {[%emt 0:00:
+12]} Rde8+ {[%emt 0:00:02]} 22. Ne6 {[%emt 0:00:01]} Qh2 {[%emt 0:00:08]} 23.
+Qg3 {[%emt 0:00:07]} Qxg3 {[%emt 0:00:06]} 24. Bxg3 {[%emt 0:00:01]} dxe6 {
+[%emt 0:00:08]} 25. dxe6 {[%emt 0:00:01]} Be4 {[%emt 0:00:02]} 26. Ba6+ {
+[%emt 0:00:04]} Kb8 {[%emt 0:00:03]} 27. Rac1 {[%emt 0:00:03]} Bd6 {[%emt 0:00:
+14]} 28. Bxd6 {[%emt 0:00:01]} cxd6 {[%emt 0:00:01]} 29. Bd3 {[%emt 0:00:01]}
+Bf3+ {[%emt 0:00:06]} 30. Ke3 {[%emt 0:00:01]} Rg5 {[%emt 0:00:01]} 31. Rc3 {
+[%emt 0:00:06]} Rh5 {[%emt 0:00:15]} 32. Rgc1 {[%emt 0:00:04]} Bb7 {[%emt 0:00:
+03]} 33. Kf4 {[%emt 0:00:04]} Rxh6 {[%emt 0:00:03]} 34. Rc7 {[%emt 0:00:06]}
+Rh2 {[%emt 0:00:05]} 35. Rf7 {[%emt 0:00:05]} h5 {[%emt 0:00:05]} 36. Rcc7 {
+[%emt 0:00:01]} Rf2+ {[%emt 0:00:01]} 37. Ke3 {[%emt 0:00:04]} Rf3+ {[%emt 0:
+00:00]} 38. Kd2 {[%emt 0:00:04]} Bc8 {[%emt 0:00:01]} 39. Rxa7 {[%emt 0:00:06]}
+g3 {[%emt 0:00:05]} 40. Be4 {[%emt 0:00:03]} Rf4 {[%emt 0:00:05]} 41. Ra8# {
+[%emt 0:00:02]} 1-0
+
+[Event "Rated game, 3m + 1s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.26"]
+[Round "?"]
+[White "Zayats"]
+[Black "MLLH"]
+[Result "1-0"]
+[ECO "C21"]
+[WhiteElo "2587"]
+[BlackElo "2413"]
+[PlyCount "75"]
+[SourceTitle "playchess.com"]
+[TimeControl "180+1"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:02]} 2. d4 {[%emt 0:00:01]} exd4 {
+[%emt 0:00:01]} 3. c3 {[%emt 0:00:00]} dxc3 {[%emt 0:00:01]} 4. Bc4 {[%emt 0:
+00:01]} d5 {[%emt 0:00:05]} 5. Bxd5 {[%emt 0:00:01]} cxb2 {[%emt 0:00:02]} 6.
+Bxb2 {[%emt 0:00:01]} Nf6 {[%emt 0:00:01]} 7. Bxf7+ {[%emt 0:00:10]} Kxf7 {
+[%emt 0:00:10]} 8. Qxd8 {[%emt 0:00:00]} Bb4+ {[%emt 0:00:00]} 9. Qd2 {[%emt 0:
+00:00]} Bxd2+ {[%emt 0:00:30]} 10. Nxd2 {[%emt 0:00:00]} Re8 {[%emt 0:00:24]}
+11. f3 {[%emt 0:00:01]} c5 {[%emt 0:00:09]} 12. Ne2 {[%emt 0:00:02]} Nc6 {
+[%emt 0:00:06]} 13. Kf2 {[%emt 0:00:02]} b6 {[%emt 0:00:03]} 14. Nc4 {[%emt 0:
+00:01]} Rd8 {[%emt 0:00:02]} 15. Rhd1 {[%emt 0:00:02]} Be6 {[%emt 0:00:03]} 16.
+Ne3 {[%emt 0:00:08]} Rxd1 {[%emt 0:00:03]} 17. Rxd1 {[%emt 0:00:02]} Rd8 {
+[%emt 0:00:03]} 18. Rxd8 {[%emt 0:00:04]} Nxd8 {[%emt 0:00:01]} 19. a3 {
+[%emt 0:00:00]} Nc6 {[%emt 0:00:02]} 20. Nf4 {[%emt 0:00:01]} Nd7 {[%emt 0:00:
+08]} 21. h4 {[%emt 0:00:05]} g6 {[%emt 0:00:01]} 22. g4 {[%emt 0:00:01]} Nde5 {
+[%emt 0:00:02]} 23. g5 {[%emt 0:00:02]} b5 {[%emt 0:00:04]} 24. Ke2 {[%emt 0:
+00:09]} Nd4+ {[%emt 0:00:05]} 25. Bxd4 {[%emt 0:00:03]} cxd4 {[%emt 0:00:01]}
+26. Nxe6 {[%emt 0:00:03]} Kxe6 {[%emt 0:00:03]} 27. Nd5 {[%emt 0:00:01]} Nc4 {
+[%emt 0:00:12]} 28. Nc7+ {[%emt 0:00:02]} Ke5 {[%emt 0:00:03]} 29. Nxb5 {
+[%emt 0:00:01]} a6 {[%emt 0:00:04]} 30. Nc7 {[%emt 0:00:01]} Nxa3 {[%emt 0:00:
+05]} 31. Nxa6 {[%emt 0:00:01]} Nc4 {[%emt 0:00:04]} 32. Nc5 {[%emt 0:00:02]}
+Kf4 {[%emt 0:00:01]} 33. Kf2 {[%emt 0:00:03]} Nb2 {[%emt 0:00:05]} 34. Ne6+ {
+[%emt 0:00:05]} Ke5 {[%emt 0:00:02]} 35. Nf8 {[%emt 0:00:01]} Kf4 {[%emt 0:00:
+01]} 36. Nxh7 {[%emt 0:00:10]} d3 {[%emt 0:00:01]} 37. Nf8 {[%emt 0:00:01]} d2
+{[%emt 0:00:03]} 38. Nxg6# {[%emt 0:00:02] (Lag: Av=0.69s, max=0.8s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Ritilius"]
+[Black "Zayats"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2524"]
+[BlackElo "2580"]
+[PlyCount "47"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:02]} Nc6 {[%emt 0:00:00]} 2. d4 {[%emt 0:00:05]} e5 {[%emt 0:
+00:00]} 3. dxe5 {[%emt 0:00:03]} Nxe5 {[%emt 0:00:00]} 4. f4 {[%emt 0:00:03]}
+Ng6 {[%emt 0:00:02]} 5. Be3 {[%emt 0:00:03]} Bb4+ {[%emt 0:00:01]} 6. c3 {
+[%emt 0:00:03]} Ba5 {[%emt 0:00:00]} 7. Qa4 {[%emt 0:00:03]} c6 {[%emt 0:00:04]
+} 8. Nd2 {[%emt 0:00:03]} Nf6 {[%emt 0:00:04]} 9. O-O-O {[%emt 0:00:03]} O-O {
+[%emt 0:00:03]} 10. Bc5 {[%emt 0:00:03]} Re8 {[%emt 0:00:06]} 11. e5 {[%emt 0:
+00:03]} Nd5 {[%emt 0:00:03]} 12. g3 {[%emt 0:00:03]} b5 {[%emt 0:00:03]} 13.
+Qd4 {[%emt 0:00:05]} Bb6 {[%emt 0:00:01]} 14. Ne4 {[%emt 0:00:03]} f6 {[%emt 0:
+00:16]} 15. Bxb5 {[%emt 0:00:04]} fxe5 {[%emt 0:00:03]} 16. fxe5 {[%emt 0:00:
+04]} Rxe5 {[%emt 0:00:02]} 17. Nf3 {[%emt 0:00:03]} Rxe4 {[%emt 0:00:05]} 18.
+Qxe4 {[%emt 0:00:03]} Bxc5 {[%emt 0:00:01]} 19. Rxd5 {[%emt 0:00:03]} Qb6 {
+[%emt 0:00:06]} 20. Bc4 {[%emt 0:00:03]} Kh8 {[%emt 0:00:12]} 21. Ne5 {[%emt 0:
+00:04]} cxd5 {[%emt 0:00:07]} 22. Nf7+ {[%emt 0:00:04]} Kg8 {[%emt 0:00:02]}
+23. Qxd5 {[%emt 0:00:03]} h6 {[%emt 0:00:43]} 24. Nd6+ {[%emt 0:00:03] Zayats
+gibt auf} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Zayats"]
+[Black "Ritilius"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2557"]
+[BlackElo "2508"]
+[PlyCount "48"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} d5 {[%emt 0:00:04]} 2. Nc3 {[%emt 0:00:02]} dxe4 {
+[%emt 0:00:03]} 3. Nxe4 {[%emt 0:00:00]} Nc6 {[%emt 0:00:03]} 4. Bb5 {[%emt 0:
+00:03]} Qd5 {[%emt 0:00:04]} 5. Qe2 {[%emt 0:00:01]} Bf5 {[%emt 0:00:04]} 6.
+Ng3 {[%emt 0:00:07]} Bxc2 {[%emt 0:00:04]} 7. Nf3 {[%emt 0:00:03]} Rd8 {
+[%emt 0:00:04]} 8. d4 {[%emt 0:00:05]} Bg6 {[%emt 0:00:04]} 9. O-O {[%emt 0:00:
+01]} a6 {[%emt 0:00:03]} 10. Bxc6+ {[%emt 0:00:03]} Qxc6 {[%emt 0:00:03]} 11.
+Ne5 {[%emt 0:00:01]} Qb6 {[%emt 0:00:03]} 12. Be3 {[%emt 0:00:01]} Nf6 {
+[%emt 0:00:03]} 13. Rfc1 {[%emt 0:00:05]} Nd5 {[%emt 0:00:04]} 14. h4 {[%emt 0:
+00:03]} f6 {[%emt 0:00:03]} 15. Nxg6 {[%emt 0:00:02]} hxg6 {[%emt 0:00:02]} 16.
+Qg4 {[%emt 0:00:01]} f5 {[%emt 0:00:04]} 17. Qg5 {[%emt 0:00:10]} Nxe3 {
+[%emt 0:00:02]} 18. fxe3 {[%emt 0:00:02]} e5 {[%emt 0:00:03]} 19. h5 {[%emt 0:
+00:04]} exd4 {[%emt 0:00:03]} 20. hxg6 {[%emt 0:00:20]} dxe3 {[%emt 0:00:04]}
+21. Ne2 {[%emt 0:00:00]} Rd5 {[%emt 0:00:04]} 22. Rd1 {[%emt 0:00:18]} Qxb2 {
+[%emt 0:00:04]} 23. Qxe3+ {[%emt 0:00:10]} Re5 {[%emt 0:00:04]} 24. Rab1 {
+[%emt 0:00:35]} Qxe2 {[%emt 0:00:04] Zayats gibt auf  (Lag: Av=0.72s, max=1.4s)
+} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Zayats"]
+[Black "Ritilius"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2534"]
+[BlackElo "2531"]
+[PlyCount "32"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} d5 {[%emt 0:00:04]} 2. Nc3 {[%emt 0:00:00]} dxe4 {
+[%emt 0:00:04]} 3. Nxe4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:03]} 4. Nxf6+ {
+[%emt 0:00:01]} exf6 {[%emt 0:00:02]} 5. g3 {[%emt 0:00:01]} Nc6 {[%emt 0:00:
+03]} 6. Bg2 {[%emt 0:00:01]} Be6 {[%emt 0:00:03]} 7. Ne2 {[%emt 0:00:01]} Bd5 {
+[%emt 0:00:03]} 8. O-O {[%emt 0:00:01]} Bxg2 {[%emt 0:00:03]} 9. Kxg2 {[%emt 0:
+00:00]} Qd5+ {[%emt 0:00:04]} 10. Kg1 {[%emt 0:00:01]} Ne5 {[%emt 0:00:04]} 11.
+f4 {[%emt 0:00:13]} Nf3+ {[%emt 0:00:03]} 12. Kf2 {[%emt 0:00:01]} Nxh2 {
+[%emt 0:00:03]} 13. Nc3 {[%emt 0:00:02]} Bc5+ {[%emt 0:00:04]} 14. Ke1 {
+[%emt 0:00:05]} Qe6+ {[%emt 0:00:03]} 15. Ne2 {[%emt 0:00:04]} Nxf1 {[%emt 0:
+00:06]} 16. Kxf1 {[%emt 0:00:00]} Qh3+ {[%emt 0:00:06] Zayats gibt auf  (Lag:
+Av=0.68s, max=1.1s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Ritilius"]
+[Black "Zayats"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2551"]
+[BlackElo "2514"]
+[PlyCount "35"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:02]} e5 {[%emt 0:00:01]} 2. d4 {[%emt 0:00:03]} Nc6 {[%emt 0:
+00:00]} 3. dxe5 {[%emt 0:00:03]} Nxe5 {[%emt 0:00:00]} 4. f4 {[%emt 0:00:03]}
+Ng6 {[%emt 0:00:00]} 5. Be3 {[%emt 0:00:04]} Bb4+ {[%emt 0:00:01]} 6. c3 {
+[%emt 0:00:03]} Ba5 {[%emt 0:00:00]} 7. Bd4 {[%emt 0:00:03]} Nf6 {[%emt 0:00:
+02]} 8. f5 {[%emt 0:00:03]} Ne7 {[%emt 0:00:16]} 9. e5 {[%emt 0:00:03]} Nxf5 {
+[%emt 0:00:08]} 10. exf6 {[%emt 0:00:06]} O-O {[%emt 0:00:00]} 11. Qg4 {
+[%emt 0:00:04]} Re8+ {[%emt 0:00:04]} 12. Be2 {[%emt 0:00:03]} d5 {[%emt 0:00:
+01]} 13. Bf2 {[%emt 0:00:04]} Qxf6 {[%emt 0:00:04]} 14. Qa4 {[%emt 0:00:04]}
+Nd6 {[%emt 0:00:30]} 15. Nd2 {[%emt 0:00:05]} Bxc3 {[%emt 0:00:36]} 16. bxc3 {
+[%emt 0:00:04]} Qxc3 {[%emt 0:00:01]} 17. Bd4 {[%emt 0:00:04]} Qd3 {[%emt 0:00:
+01]} 18. Qxe8+ {[%emt 0:00:05] Zayats gibt auf} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Zayats"]
+[Black "Ritilius"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2496"]
+[BlackElo "2569"]
+[PlyCount "69"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:01]} d5 {[%emt 0:00:03]} 2. exd5 {[%emt 0:00:00]} Nf6 {
+[%emt 0:00:04]} 3. d4 {[%emt 0:00:01]} c5 {[%emt 0:00:04]} 4. Nf3 {[%emt 0:00:
+05]} e6 {[%emt 0:00:03]} 5. Bb5+ {[%emt 0:00:07]} Bd7 {[%emt 0:00:03]} 6. Bxd7+
+{[%emt 0:00:01]} Qxd7 {[%emt 0:00:08]} 7. dxe6 {[%emt 0:00:00]} Qxe6+ {[%emt 0:
+00:03]} 8. Qe2 {[%emt 0:00:01]} Qxe2+ {[%emt 0:00:03]} 9. Kxe2 {[%emt 0:00:00]}
+cxd4 {[%emt 0:00:04]} 10. Nxd4 {[%emt 0:00:02]} Nbd7 {[%emt 0:00:03]} 11. Re1 {
+[%emt 0:00:04]} O-O-O {[%emt 0:00:04]} 12. Kf1 {[%emt 0:00:01]} Bb4 {[%emt 0:
+00:04]} 13. c3 {[%emt 0:00:01]} Bc5 {[%emt 0:00:02]} 14. Be3 {[%emt 0:00:07]}
+Rhe8 {[%emt 0:00:04]} 15. Nf5 {[%emt 0:00:04]} g6 {[%emt 0:00:04]} 16. Bxc5 {
+[%emt 0:00:08]} Rxe1+ {[%emt 0:00:05]} 17. Kxe1 {[%emt 0:00:01]} Nxc5 {[%emt 0:
+00:02]} 18. Ne3 {[%emt 0:00:10]} Nd3+ {[%emt 0:00:03]} 19. Ke2 {[%emt 0:00:00]}
+Nxb2 {[%emt 0:00:05]} 20. Nd2 {[%emt 0:00:00]} h6 {[%emt 0:00:03]} 21. a4 {
+[%emt 0:00:06]} Nd3 {[%emt 0:00:04]} 22. g3 {[%emt 0:00:03]} Nxf2 {[%emt 0:00:
+06]} 23. Rf1 {[%emt 0:00:01]} N2e4 {[%emt 0:00:03]} 24. Nxe4 {[%emt 0:00:01]}
+Nxe4 {[%emt 0:00:03]} 25. Rxf7 {[%emt 0:00:01]} Rd2+ {[%emt 0:00:04]} 26. Ke1 {
+[%emt 0:00:03]} Rxh2 {[%emt 0:00:05]} 27. Nd5 {[%emt 0:00:03]} Rh1+ {[%emt 0:
+00:04]} 28. Ke2 {[%emt 0:00:02]} Nxg3+ {[%emt 0:00:02]} 29. Kd3 {[%emt 0:00:05]
+} Rg1 {[%emt 0:00:03]} 30. Rc7+ {[%emt 0:00:03]} Kd8 {[%emt 0:00:02]} 31. Rxb7
+{[%emt 0:00:01]} Rd1+ {[%emt 0:00:02]} 32. Kc4 {[%emt 0:00:01]} Ne2 {[%emt 0:
+00:04]} 33. Rxa7 {[%emt 0:00:03]} Rb1 {[%emt 0:00:12]} 34. a5 {[%emt 0:00:02]}
+Rb8 {[%emt 0:00:05]} 35. a6 {[%emt 0:00:03] ritilius gibt auf  (Lag: Av=0.65s,
+max=0.9s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Ritilius"]
+[Black "Zayats"]
+[Result "1-0"]
+[ECO "C21"]
+[WhiteElo "2545"]
+[BlackElo "2520"]
+[PlyCount "49"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:02]} e5 {[%emt 0:00:00]} 2. d4 {[%emt 0:00:04]} exd4 {
+[%emt 0:00:00]} 3. Nf3 {[%emt 0:00:02]} c5 {[%emt 0:00:02]} 4. c3 {[%emt 0:00:
+03]} d5 {[%emt 0:00:00]} 5. exd5 {[%emt 0:00:05]} Qxd5 {[%emt 0:00:01]} 6. cxd4
+{[%emt 0:00:03]} cxd4 {[%emt 0:00:01]} 7. Nxd4 {[%emt 0:00:04]} Nc6 {[%emt 0:
+00:07]} 8. Qe2+ {[%emt 0:00:04]} Be7 {[%emt 0:00:05]} 9. Nb5 {[%emt 0:00:05]}
+Qc5 {[%emt 0:00:26]} 10. N1c3 {[%emt 0:00:04]} Nd4 {[%emt 0:00:02]} 11. Nxd4 {
+[%emt 0:00:05]} Qxd4 {[%emt 0:00:01]} 12. Be3 {[%emt 0:00:02]} Qb4 {[%emt 0:00:
+05]} 13. a3 {[%emt 0:00:03]} Qa5 {[%emt 0:00:05]} 14. Qb5+ {[%emt 0:00:04]}
+Qxb5 {[%emt 0:00:01]} 15. Nxb5 {[%emt 0:00:04]} Kd8 {[%emt 0:00:12]} 16. Rd1+ {
+[%emt 0:00:05]} Bd7 {[%emt 0:00:01]} 17. Bxa7 {[%emt 0:00:05]} Nf6 {[%emt 0:00:
+08]} 18. Bc4 {[%emt 0:00:04]} Kc8 {[%emt 0:00:06]} 19. Rc1 {[%emt 0:00:04]} Bc6
+{[%emt 0:00:09]} 20. Bxf7 {[%emt 0:00:04]} Nd7 {[%emt 0:00:29]} 21. Bd5 {
+[%emt 0:00:04]} Ne5 {[%emt 0:00:13]} 22. O-O {[%emt 0:00:04]} Rd8 {[%emt 0:00:
+03]} 23. Be6+ {[%emt 0:00:04]} Nd7 {[%emt 0:00:03]} 24. Bb6 {[%emt 0:00:04]}
+Rf8 {[%emt 0:00:03]} 25. Rfd1 {[%emt 0:00:05] Zayats gibt auf} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Zayats"]
+[Black "dummy"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2501"]
+[BlackElo "2318"]
+[PlyCount "73"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:01]} c5 {[%emt 0:00:01]} 2. c3 {[%emt 0:00:01]} Nf6 {[%emt 0:
+00:01]} 3. e5 {[%emt 0:00:01]} Nd5 {[%emt 0:00:01]} 4. d4 {[%emt 0:00:00]} cxd4
+{[%emt 0:00:01]} 5. Qxd4 {[%emt 0:00:01]} e6 {[%emt 0:00:01]} 6. Qe4 {[%emt 0:
+00:01]} Nc6 {[%emt 0:00:02]} 7. Nf3 {[%emt 0:00:01]} d6 {[%emt 0:00:01]} 8.
+Nbd2 {[%emt 0:00:02]} dxe5 {[%emt 0:00:03]} 9. Nxe5 {[%emt 0:00:01]} Qc7 {
+[%emt 0:00:16]} 10. Nxc6 {[%emt 0:00:03]} bxc6 {[%emt 0:00:02]} 11. Bd3 {
+[%emt 0:00:02]} Bd6 {[%emt 0:00:02]} 12. Nf3 {[%emt 0:00:02]} Nf6 {[%emt 0:00:
+04]} 13. Qh4 {[%emt 0:00:02]} h6 {[%emt 0:00:02]} 14. O-O {[%emt 0:00:04]} Bb7
+{[%emt 0:00:10]} 15. Bg5 {[%emt 0:00:07]} Ke7 {[%emt 0:00:10]} 16. Bxf6+ {
+[%emt 0:00:10]} gxf6 {[%emt 0:00:01]} 17. Rfe1 {[%emt 0:00:00]} Rag8 {[%emt 0:
+00:02]} 18. g3 {[%emt 0:00:04]} c5 {[%emt 0:00:02]} 19. Be4 {[%emt 0:00:01]}
+Bc6 {[%emt 0:00:09]} 20. Nd2 {[%emt 0:00:08]} Rg5 {[%emt 0:00:04]} 21. Rad1 {
+[%emt 0:00:24]} Rhg8 {[%emt 0:00:03]} 22. Bxc6 {[%emt 0:00:04]} Rg4 {[%emt 0:
+00:12]} 23. Qxh6 {[%emt 0:00:09]} Qxc6 {[%emt 0:00:28]} 24. Qe3 {[%emt 0:00:18]
+} f5 {[%emt 0:00:22]} 25. Qf3 {[%emt 0:00:07]} Qc7 {[%emt 0:00:05]} 26. Nf1 {
+[%emt 0:00:22]} f4 {[%emt 0:00:02]} 27. Re4 {[%emt 0:00:04]} f5 {[%emt 0:00:04]
+} 28. Ra4 {[%emt 0:00:06]} fxg3 {[%emt 0:00:02]} 29. Rxg4 {[%emt 0:00:10]}
+gxf2+ {[%emt 0:00:05]} 30. Kxf2 {[%emt 0:00:01]} Rxg4 {[%emt 0:00:01]} 31. Qh3
+{[%emt 0:00:07]} Rf4+ {[%emt 0:00:05]} 32. Ke2 {[%emt 0:00:07]} Re4+ {[%emt 0:
+00:01]} 33. Kd2 {[%emt 0:00:05]} Bf4+ {[%emt 0:00:01]} 34. Kc2 {[%emt 0:00:01]}
+Re2+ {[%emt 0:00:05]} 35. Kb1 {[%emt 0:00:01]} Qb6 {[%emt 0:00:04]} 36. Qh7+ {
+[%emt 0:00:01]} Kf6 {[%emt 0:00:01]} 37. b3 {[%emt 0:00:00] Time  (Lag: Av=0.
+82s, max=2.7s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Zayats"]
+[Black "matsar"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2512"]
+[BlackElo "2358"]
+[PlyCount "59"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:01]} 2. c3 {[%emt 0:00:01]} d5 {[%emt 0:
+00:01]} 3. exd5 {[%emt 0:00:01]} Qxd5 {[%emt 0:00:01]} 4. d4 {[%emt 0:00:00]}
+Nf6 {[%emt 0:00:01]} 5. Na3 {[%emt 0:00:03]} cxd4 {[%emt 0:00:08]} 6. Nb5 {
+[%emt 0:00:01]} Qd8 {[%emt 0:00:04]} 7. Qxd4 {[%emt 0:00:01]} Qxd4 {[%emt 0:00:
+12]} 8. Nxd4 {[%emt 0:00:00]} a6 {[%emt 0:00:04]} 9. Ngf3 {[%emt 0:00:02]} e6 {
+[%emt 0:00:01]} 10. g3 {[%emt 0:00:02]} Bc5 {[%emt 0:00:06]} 11. Bg2 {[%emt 0:
+00:01]} O-O {[%emt 0:00:01]} 12. O-O {[%emt 0:00:04]} Nbd7 {[%emt 0:00:02]} 13.
+a4 {[%emt 0:00:10]} Nd5 {[%emt 0:00:20]} 14. Nb3 {[%emt 0:00:07]} Ba7 {[%emt 0:
+00:02]} 15. Bd2 {[%emt 0:00:09]} f6 {[%emt 0:00:01]} 16. c4 {[%emt 0:00:03]}
+Nc7 {[%emt 0:00:03]} 17. Na5 {[%emt 0:00:04]} Nc5 {[%emt 0:00:19]} 18. Bb4 {
+[%emt 0:00:07]} Re8 {[%emt 0:00:05]} 19. Rad1 {[%emt 0:00:07]} Nxa4 {[%emt 0:
+00:05]} 20. b3 {[%emt 0:00:06]} Nb6 {[%emt 0:00:04]} 21. Nd2 {[%emt 0:00:09]}
+Nd7 {[%emt 0:00:10]} 22. Bd6 {[%emt 0:00:04]} Bb6 {[%emt 0:00:04]} 23. Nxb7 {
+[%emt 0:00:02]} Rb8 {[%emt 0:00:11]} 24. c5 {[%emt 0:00:05]} Bxb7 {[%emt 0:00:
+09]} 25. cxb6 {[%emt 0:00:02]} Bxg2 {[%emt 0:00:02]} 26. bxc7 {[%emt 0:00:02]}
+Rb6 {[%emt 0:00:16]} 27. Kxg2 {[%emt 0:00:04]} Rxd6 {[%emt 0:00:01]} 28. Nc4 {
+[%emt 0:00:01]} Rxd1 {[%emt 0:00:01]} 29. Rxd1 {[%emt 0:00:00]} Ne5 {[%emt 0:
+00:03]} 30. Nd6 {[%emt 0:00:02] matsar resigns  (Lag: Av=0.65s, max=1.0s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Ritilius"]
+[Black "Zayats"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2563"]
+[BlackElo "2523"]
+[PlyCount "49"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:02]} a6 {[%emt 0:00:00]} 2. d4 {[%emt 0:00:06]} b6 {[%emt 0:
+00:01]} 3. Nc3 {[%emt 0:00:04]} Bb7 {[%emt 0:00:01]} 4. d5 {[%emt 0:00:11]} h6
+{[%emt 0:00:01]} 5. Nf3 {[%emt 0:00:03]} g6 {[%emt 0:00:01]} 6. Qd4 {[%emt 0:
+00:04]} Rh7 {[%emt 0:00:05]} 7. e5 {[%emt 0:00:03]} Bg7 {[%emt 0:00:01]} 8. Qe3
+{[%emt 0:00:04]} b5 {[%emt 0:00:07]} 9. Qf4 {[%emt 0:00:04]} e6 {[%emt 0:00:10]
+} 10. a4 {[%emt 0:00:04]} exd5 {[%emt 0:00:09]} 11. axb5 {[%emt 0:00:03]} Ne7 {
+[%emt 0:00:02]} 12. Be3 {[%emt 0:00:04]} axb5 {[%emt 0:00:02]} 13. Rxa8 {
+[%emt 0:00:05]} Bxa8 {[%emt 0:00:00]} 14. Bxb5 {[%emt 0:00:03]} Nbc6 {[%emt 0:
+00:02]} 15. Bc5 {[%emt 0:00:06]} Qb8 {[%emt 0:00:07]} 16. O-O {[%emt 0:00:04]}
+d4 {[%emt 0:00:14]} 17. Nxd4 {[%emt 0:00:03]} Bxe5 {[%emt 0:00:02]} 18. Nxc6 {
+[%emt 0:00:04]} Nxc6 {[%emt 0:00:01]} 19. Re1 {[%emt 0:00:03]} f6 {[%emt 0:00:
+02]} 20. Qxf6 {[%emt 0:00:03]} d6 {[%emt 0:00:12]} 21. Rxe5+ {[%emt 0:00:04]}
+dxe5 {[%emt 0:00:02]} 22. Qxg6+ {[%emt 0:00:03]} Rf7 {[%emt 0:00:02]} 23. Qg8+
+{[%emt 0:00:05]} Kd7 {[%emt 0:00:03]} 24. Qxf7+ {[%emt 0:00:02]} Kc8 {[%emt 0:
+00:02]} 25. Qe6+ {[%emt 0:00:03] Zayats gibt auf} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Zayats"]
+[Black "Ritilius"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2523"]
+[BlackElo "2563"]
+[PlyCount "89"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} d5 {[%emt 0:00:05]} 2. exd5 {[%emt 0:00:01]} Nf6 {
+[%emt 0:00:04]} 3. d4 {[%emt 0:00:01]} Nxd5 {[%emt 0:00:04]} 4. c4 {[%emt 0:00:
+01]} Nf6 {[%emt 0:00:03]} 5. Nc3 {[%emt 0:00:00]} c5 {[%emt 0:00:04]} 6. dxc5 {
+[%emt 0:00:02]} Qxd1+ {[%emt 0:00:03]} 7. Nxd1 {[%emt 0:00:01]} e5 {[%emt 0:00:
+03]} 8. Be3 {[%emt 0:00:04]} Na6 {[%emt 0:00:03]} 9. Nf3 {[%emt 0:00:03]} Nb4 {
+[%emt 0:00:03]} 10. Kd2 {[%emt 0:00:10]} e4 {[%emt 0:00:03]} 11. a3 {[%emt 0:
+00:11]} Na6 {[%emt 0:00:03]} 12. Nd4 {[%emt 0:00:05]} Be7 {[%emt 0:00:03]} 13.
+b4 {[%emt 0:00:01]} O-O {[%emt 0:00:03]} 14. Nc3 {[%emt 0:00:03]} Rd8 {[%emt 0:
+00:03]} 15. Kc2 {[%emt 0:00:01]} Nc7 {[%emt 0:00:05]} 16. h3 {[%emt 0:00:06]}
+a5 {[%emt 0:00:03]} 17. Be2 {[%emt 0:00:02]} h5 {[%emt 0:00:04]} 18. Ndb5 {
+[%emt 0:00:08]} Na6 {[%emt 0:00:04]} 19. Kb3 {[%emt 0:00:04]} axb4 {[%emt 0:00:
+05]} 20. axb4 {[%emt 0:00:01]} h4 {[%emt 0:00:25]} 21. Rhd1 {[%emt 0:00:04]}
+Bd7 {[%emt 0:00:05]} 22. Bg5 {[%emt 0:00:05]} e3 {[%emt 0:00:04]} 23. Bxe3 {
+[%emt 0:00:03]} Bc6 {[%emt 0:00:03]} 24. Bf3 {[%emt 0:00:01]} Rxd1 {[%emt 0:00:
+04]} 25. Rxd1 {[%emt 0:00:02]} Bxf3 {[%emt 0:00:03]} 26. gxf3 {[%emt 0:00:00]}
+Kf8 {[%emt 0:00:03]} 27. Bg5 {[%emt 0:00:04]} Ng8 {[%emt 0:00:04]} 28. Bxe7+ {
+[%emt 0:00:04]} Nxe7 {[%emt 0:00:03]} 29. Rd7 {[%emt 0:00:01]} Nc6 {[%emt 0:00:
+04]} 30. Nd5 {[%emt 0:00:04]} Ncxb4 {[%emt 0:00:03]} 31. Nb6 {[%emt 0:00:30]}
+Nc6 {[%emt 0:00:03]} 32. Nxa8 {[%emt 0:00:04]} Nxc5+ {[%emt 0:00:03]} 33. Kc3 {
+[%emt 0:00:01]} Nxd7 {[%emt 0:00:03]} 34. Nd6 {[%emt 0:00:00]} Nde5 {[%emt 0:
+00:06]} 35. f4 {[%emt 0:00:02]} Ng6 {[%emt 0:00:03]} 36. f5 {[%emt 0:00:01]}
+Nf4 {[%emt 0:00:02]} 37. Nxb7 {[%emt 0:00:02]} Nxh3 {[%emt 0:00:04]} 38. Kd3 {
+[%emt 0:00:05]} Nf4+ {[%emt 0:00:03]} 39. Ke4 {[%emt 0:00:05]} h3 {[%emt 0:00:
+02]} 40. Kxf4 {[%emt 0:00:02]} h2 {[%emt 0:00:03]} 41. Nc5 {[%emt 0:00:02]}
+h1=Q {[%emt 0:00:06]} 42. Nb6 {[%emt 0:00:00]} Qh4+ {[%emt 0:00:03]} 43. Ke3 {
+[%emt 0:00:02]} Qd4+ {[%emt 0:00:03]} 44. Ke2 {[%emt 0:00:01]} Kg8 {[%emt 0:00:
+03]} 45. Nbd7 {[%emt 0:00:01] Zeit  (Lag: Av=0.64s, max=1.1s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Ritilius"]
+[Black "Zayats"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2563"]
+[BlackElo "2523"]
+[PlyCount "43"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:02]} a6 {[%emt 0:00:00]} 2. d4 {[%emt 0:00:04]} b5 {[%emt 0:
+00:00]} 3. a4 {[%emt 0:00:04]} Bb7 {[%emt 0:00:00]} 4. d5 {[%emt 0:00:03]} Nf6
+{[%emt 0:00:02]} 5. axb5 {[%emt 0:00:03]} axb5 {[%emt 0:00:01]} 6. Rxa8 {
+[%emt 0:00:03]} Bxa8 {[%emt 0:00:00]} 7. Qd4 {[%emt 0:00:03]} c6 {[%emt 0:00:
+06]} 8. Qa7 {[%emt 0:00:04]} cxd5 {[%emt 0:00:19]} 9. Qxa8 {[%emt 0:00:03]}
+dxe4 {[%emt 0:00:02]} 10. Bxb5 {[%emt 0:00:04]} e6 {[%emt 0:00:07]} 11. Bf4 {
+[%emt 0:00:03]} Nc6 {[%emt 0:00:05]} 12. Bxc6 {[%emt 0:00:03]} dxc6 {[%emt 0:
+00:00]} 13. Qxc6+ {[%emt 0:00:03]} Qd7 {[%emt 0:00:00]} 14. Qa8+ {[%emt 0:00:
+03]} Qd8 {[%emt 0:00:00]} 15. Qxd8+ {[%emt 0:00:03]} Kxd8 {[%emt 0:00:01]} 16.
+Nd2 {[%emt 0:00:02]} Nd5 {[%emt 0:00:06]} 17. Ne2 {[%emt 0:00:03]} f5 {[%emt 0:
+00:01]} 18. Nc4 {[%emt 0:00:04]} Bc5 {[%emt 0:00:04]} 19. Be5 {[%emt 0:00:03]}
+Nb4 {[%emt 0:00:02]} 20. Nf4 {[%emt 0:00:07]} Nxc2+ {[%emt 0:00:06]} 21. Kd2 {
+[%emt 0:00:05]} Nb4 {[%emt 0:00:05] Zayats gibt auf} 22. Nxe6+ {[%emt 0:00:03]}
+1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Zayats"]
+[Black "Ritilius"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2511"]
+[BlackElo "2575"]
+[PlyCount "107"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} d5 {[%emt 0:00:00]} 2. Nc3 {[%emt 0:00:00]} dxe4 {
+[%emt 0:00:03]} 3. Nxe4 {[%emt 0:00:00]} Nc6 {[%emt 0:00:03]} 4. Nf3 {[%emt 0:
+00:02]} Nf6 {[%emt 0:00:04]} 5. Nxf6+ {[%emt 0:00:01]} exf6 {[%emt 0:00:02]} 6.
+g3 {[%emt 0:00:00]} Qe7+ {[%emt 0:00:04]} 7. Qe2 {[%emt 0:00:02]} Bg4 {[%emt 0:
+00:04]} 8. Qxe7+ {[%emt 0:00:02]} Bxe7 {[%emt 0:00:02]} 9. Bg2 {[%emt 0:00:00]}
+Nb4 {[%emt 0:00:20]} 10. Kd1 {[%emt 0:00:02]} Rd8 {[%emt 0:00:04]} 11. d3 {
+[%emt 0:00:08]} c5 {[%emt 0:00:03]} 12. b3 {[%emt 0:00:06]} Nd5 {[%emt 0:00:03]
+} 13. Bb2 {[%emt 0:00:04]} O-O {[%emt 0:00:03]} 14. h3 {[%emt 0:00:02]} Be6 {
+[%emt 0:00:04]} 15. Kd2 {[%emt 0:00:03]} Rfe8 {[%emt 0:00:04]} 16. Rhe1 {
+[%emt 0:00:05]} h6 {[%emt 0:00:03]} 17. Re2 {[%emt 0:00:06]} Bd6 {[%emt 0:00:
+03]} 18. Rae1 {[%emt 0:00:02]} Nb4 {[%emt 0:00:03]} 19. a3 {[%emt 0:00:03]} Nc6
+{[%emt 0:00:02]} 20. Kc1 {[%emt 0:00:03]} Rd7 {[%emt 0:00:03]} 21. Bc3 {
+[%emt 0:00:02]} c4 {[%emt 0:00:03]} 22. bxc4 {[%emt 0:00:03]} Bxa3+ {[%emt 0:
+00:03]} 23. Bb2 {[%emt 0:00:05]} Bc5 {[%emt 0:00:03]} 24. Nd2 {[%emt 0:00:16]}
+Nd4 {[%emt 0:00:03]} 25. Bxd4 {[%emt 0:00:01]} Bxd4 {[%emt 0:00:02]} 26. Nb3 {
+[%emt 0:00:04]} Bc3 {[%emt 0:00:03]} 27. Rf1 {[%emt 0:00:04]} Rde7 {[%emt 0:00:
+02]} 28. Nc5 {[%emt 0:00:06]} b6 {[%emt 0:00:03]} 29. Ne4 {[%emt 0:00:03]} Bf5
+{[%emt 0:00:03]} 30. Nxc3 {[%emt 0:00:13]} Rxe2 {[%emt 0:00:03]} 31. Nxe2 {
+[%emt 0:00:00]} Rxe2 {[%emt 0:00:04]} 32. Kd1 {[%emt 0:00:00]} Re7 {[%emt 0:00:
+04]} 33. Kd2 {[%emt 0:00:00]} Kf8 {[%emt 0:00:05]} 34. Ra1 {[%emt 0:00:02]} Be6
+{[%emt 0:00:03]} 35. h4 {[%emt 0:00:01]} f5 {[%emt 0:00:03]} 36. Kc3 {[%emt 0:
+00:01]} f4 {[%emt 0:00:03]} 37. gxf4 {[%emt 0:00:02]} Rc7 {[%emt 0:00:03]} 38.
+Kd4 {[%emt 0:00:02]} Rd7+ {[%emt 0:00:03]} 39. Bd5 {[%emt 0:00:01]} Ke7 {
+[%emt 0:00:04]} 40. Re1 {[%emt 0:00:03]} Kf6 {[%emt 0:00:03]} 41. Re5 {[%emt 0:
+00:03]} a6 {[%emt 0:00:05]} 42. Re1 {[%emt 0:00:02]} Kf5 {[%emt 0:00:03]} 43.
+Ra1 {[%emt 0:00:05]} a5 {[%emt 0:00:03]} 44. Rb1 {[%emt 0:00:04]} Rd6 {[%emt 0:
+00:02]} 45. Ke3 {[%emt 0:00:04]} Bxd5 {[%emt 0:00:03]} 46. cxd5 {[%emt 0:00:00]
+} Kg4 {[%emt 0:00:03]} 47. Rg1+ {[%emt 0:00:03]} Kxh4 {[%emt 0:00:03]} 48. Kf3
+{[%emt 0:00:01]} Kh5 {[%emt 0:00:03]} 49. f5 {[%emt 0:00:02]} Rxd5 {[%emt 0:00:
+03]} 50. Ke4 {[%emt 0:00:04]} Rd6 {[%emt 0:00:03]} 51. Rxg7 {[%emt 0:00:05]} f6
+{[%emt 0:00:03]} 52. Rg1 {[%emt 0:00:03] .} Kh4 {[%emt 0:00:03]} 53. c3 {
+[%emt 0:00:02]} h5 {[%emt 0:00:07]} 54. Kf4 {[%emt 0:00:04] Zeit  (Lag: Av=0.
+84s, max=5.8s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Ritilius"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "2552"]
+[BlackElo "2535"]
+[PlyCount "40"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:02]} a6 {[%emt 0:00:00]} 2. d4 {[%emt 0:00:04]} b5 {[%emt 0:
+00:02]} 3. a4 {[%emt 0:00:03]} Bb7 {[%emt 0:00:00]} 4. axb5 {[%emt 0:00:03]}
+axb5 {[%emt 0:00:03]} 5. Rxa8 {[%emt 0:00:03]} Bxa8 {[%emt 0:00:00]} 6. d5 {
+[%emt 0:00:03]} c6 {[%emt 0:00:04]} 7. Bg5 {[%emt 0:00:04]} cxd5 {[%emt 0:00:
+02]} 8. exd5 {[%emt 0:00:03]} Nf6 {[%emt 0:00:03]} 9. Nc3 {[%emt 0:00:03]} b4 {
+[%emt 0:00:01]} 10. Nb5 {[%emt 0:00:03]} Nxd5 {[%emt 0:00:10]} 11. Nd6+ {
+[%emt 0:00:04]} exd6 {[%emt 0:00:03]} 12. Bxd8 {[%emt 0:00:03]} Kxd8 {[%emt 0:
+00:00]} 13. Ne2 {[%emt 0:00:04]} Be7 {[%emt 0:00:02]} 14. Qa1 {[%emt 0:00:04]}
+Bb7 {[%emt 0:00:06]} 15. c3 {[%emt 0:00:04]} Re8 {[%emt 0:00:04]} 16. Qa5+ {
+[%emt 0:00:06]} Kc8 {[%emt 0:00:02]} 17. Qa2 {[%emt 0:00:03]} bxc3 {[%emt 0:00:
+05]} 18. Nxc3 {[%emt 0:00:03]} Bf6+ {[%emt 0:00:17]} 19. Ne2 {[%emt 0:00:04]}
+Nb4 {[%emt 0:00:06]} 20. Qxf7 {[%emt 0:00:05]} Re7 {[%emt 0:00:03] . Zayats
+reklamiert Gewinn wegen Verbindungsabbruch} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Zayats"]
+[Black "Ritilius"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2556"]
+[BlackElo "2531"]
+[PlyCount "51"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} d5 {[%emt 0:00:00]} 2. exd5 {[%emt 0:00:00]} Nf6 {
+[%emt 0:00:03]} 3. c4 {[%emt 0:00:01]} e6 {[%emt 0:00:02]} 4. d4 {[%emt 0:00:
+01]} exd5 {[%emt 0:00:03]} 5. Nf3 {[%emt 0:00:00]} Bb4+ {[%emt 0:00:26]} 6. Nc3
+{[%emt 0:00:02]} O-O {[%emt 0:00:03]} 7. Be3 {[%emt 0:00:02]} Ng4 {[%emt 0:00:
+04]} 8. cxd5 {[%emt 0:00:03]} Re8 {[%emt 0:00:03]} 9. Qd2 {[%emt 0:00:02]} Nd7
+{[%emt 0:00:04]} 10. Bb5 {[%emt 0:00:10]} a6 {[%emt 0:00:03]} 11. Ba4 {[%emt 0:
+00:01]} Qe7 {[%emt 0:00:03]} 12. O-O {[%emt 0:00:03]} Nxe3 {[%emt 0:00:03]} 13.
+fxe3 {[%emt 0:00:00]} b5 {[%emt 0:00:06]} 14. Bb3 {[%emt 0:00:02]} Qxe3+ {
+[%emt 0:00:05]} 15. Qxe3 {[%emt 0:00:00]} Rxe3 {[%emt 0:00:03]} 16. Rae1 {
+[%emt 0:00:00]} Rxe1 {[%emt 0:00:07]} 17. Rxe1 {[%emt 0:00:00]} Nf6 {[%emt 0:
+00:05]} 18. Ne5 {[%emt 0:00:06]} Bd6 {[%emt 0:00:04]} 19. h3 {[%emt 0:00:11]}
+h6 {[%emt 0:00:03]} 20. a4 {[%emt 0:00:02]} bxa4 {[%emt 0:00:03]} 21. Bxa4 {
+[%emt 0:00:02]} Rb8 {[%emt 0:00:02]} 22. Re2 {[%emt 0:00:03]} Rb6 {[%emt 0:00:
+04]} 23. Nc4 {[%emt 0:00:10]} Rb4 {[%emt 0:00:04]} 24. Nxd6 {[%emt 0:00:06]}
+cxd6 {[%emt 0:00:03]} 25. Bc6 {[%emt 0:00:01]} Bd7 {[%emt 0:00:08]} 26. Re7 {
+[%emt 0:00:04] ritilius gibt auf  (Lag: Av=1.34s, max=12.4s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Ritilius"]
+[Black "Zayats"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2512"]
+[BlackElo "2574"]
+[PlyCount "53"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:03]} a6 {[%emt 0:00:00]} 2. Nc3 {[%emt 0:00:03]} b5 {[%emt 0:
+00:00]} 3. d4 {[%emt 0:00:03]} Bb7 {[%emt 0:00:00]} 4. Bf4 {[%emt 0:00:03]} b4
+{[%emt 0:00:01]} 5. Nd5 {[%emt 0:00:03]} d6 {[%emt 0:00:01]} 6. Qg4 {[%emt 0:
+00:06]} e6 {[%emt 0:00:03]} 7. Nxb4 {[%emt 0:00:04]} Bxe4 {[%emt 0:00:01]} 8.
+Bg5 {[%emt 0:00:04]} f5 {[%emt 0:00:09]} 9. Qh5+ {[%emt 0:00:04]} g6 {[%emt 0:
+00:01]} 10. Bxd8 {[%emt 0:00:04]} gxh5 {[%emt 0:00:01]} 11. Bxc7 {[%emt 0:00:
+02]} a5 {[%emt 0:00:03]} 12. Bb5+ {[%emt 0:00:06]} Kf7 {[%emt 0:00:02]} 13. f3
+{[%emt 0:00:08]} axb4 {[%emt 0:00:12]} 14. fxe4 {[%emt 0:00:03]} fxe4 {[%emt 0:
+00:00]} 15. Nh3 {[%emt 0:00:09]} Ke7 {[%emt 0:00:03]} 16. Ng5 {[%emt 0:00:03]}
+Bg7 {[%emt 0:00:10]} 17. Nxe4 {[%emt 0:00:04]} d5 {[%emt 0:00:06]} 18. Bd6+ {
+[%emt 0:00:04]} Kf7 {[%emt 0:00:22]} 19. Ng5+ {[%emt 0:00:03]} Kg6 {[%emt 0:00:
+00]} 20. Bd3+ {[%emt 0:00:06]} Kxg5 {[%emt 0:00:02]} 21. h4+ {[%emt 0:00:03]}
+Kg4 {[%emt 0:00:12]} 22. Be2+ {[%emt 0:00:03]} Kf5 {[%emt 0:00:01]} 23. O-O+ {
+[%emt 0:00:03]} Ke4 {[%emt 0:00:02]} 24. Bd3+ {[%emt 0:00:03]} Kxd4 {[%emt 0:
+00:06]} 25. Rf4+ {[%emt 0:00:03]} Ke3 {[%emt 0:00:01]} 26. Re1+ {[%emt 0:00:03]
+} Kd2 {[%emt 0:00:01]} 27. Bxb4+ {[%emt 0:00:03] Zayats gibt auf} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Zayats"]
+[Black "Ritilius"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2551"]
+[BlackElo "2536"]
+[PlyCount "93"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} Nc6 {[%emt 0:00:08]} 2. c4 {[%emt 0:00:02]} e5 {[%emt 0:
+00:03]} 3. Nc3 {[%emt 0:00:00]} Bc5 {[%emt 0:00:03]} 4. g3 {[%emt 0:00:01]} d6
+{[%emt 0:00:04]} 5. Bg2 {[%emt 0:00:00]} Nf6 {[%emt 0:00:02]} 6. d3 {[%emt 0:
+00:00]} O-O {[%emt 0:00:05]} 7. Nf3 {[%emt 0:00:01]} Bg4 {[%emt 0:00:04]} 8.
+Be3 {[%emt 0:00:02]} Nd4 {[%emt 0:00:10]} 9. h3 {[%emt 0:00:01]} Bh5 {[%emt 0:
+00:05]} 10. g4 {[%emt 0:00:03]} Bg6 {[%emt 0:00:05]} 11. Bxd4 {[%emt 0:00:01]}
+exd4 {[%emt 0:00:05]} 12. Ne2 {[%emt 0:00:01]} Bb4+ {[%emt 0:00:03]} 13. Nd2 {
+[%emt 0:00:01]} Qe7 {[%emt 0:00:03]} 14. f4 {[%emt 0:00:05]} Bxe4 {[%emt 0:00:
+04]} 15. dxe4 {[%emt 0:00:03]} Nxe4 {[%emt 0:00:03]} 16. Bxe4 {[%emt 0:00:17]}
+Qxe4 {[%emt 0:00:03]} 17. O-O {[%emt 0:00:01]} Qe3+ {[%emt 0:00:03]} 18. Kg2 {
+[%emt 0:00:01]} Rae8 {[%emt 0:00:03]} 19. Rf2 {[%emt 0:00:24]} Bxd2 {[%emt 0:
+00:06]} 20. Ng3 {[%emt 0:00:07]} Bb4 {[%emt 0:00:03]} 21. Rf3 {[%emt 0:00:04]}
+Qe1 {[%emt 0:00:04]} 22. Qxe1 {[%emt 0:00:04]} Bxe1 {[%emt 0:00:03]} 23. Nf5 {
+[%emt 0:00:02]} Re2+ {[%emt 0:00:04]} 24. Kf1 {[%emt 0:00:02]} Rfe8 {[%emt 0:
+00:03]} 25. Nxd4 {[%emt 0:00:05]} Rh2 {[%emt 0:00:10]} 26. Nb5 {[%emt 0:00:24]}
+Ba5 {[%emt 0:00:05]} 27. Kg1 {[%emt 0:00:03]} Ree2 {[%emt 0:00:04]} 28. c5 {
+[%emt 0:00:08]} Reg2+ {[%emt 0:00:04]} 29. Kf1 {[%emt 0:00:02]} Rc2 {[%emt 0:
+00:03]} 30. Kg1 {[%emt 0:00:03]} Bb4 {[%emt 0:00:04]} 31. Rc3 {[%emt 0:00:26]}
+Rcg2+ {[%emt 0:00:04]} 32. Kf1 {[%emt 0:00:01]} Rxb2 {[%emt 0:00:02]} 33. Kg1 {
+[%emt 0:00:01]} Rbg2+ {[%emt 0:00:03]} 34. Kf1 {[%emt 0:00:01]} Bxc3 {[%emt 0:
+00:02]} 35. Nxc3 {[%emt 0:00:01]} Rc2 {[%emt 0:00:04]} 36. Kg1 {[%emt 0:00:01]}
+Rxh3 {[%emt 0:00:03]} 37. Ne4 {[%emt 0:00:03]} Re3 {[%emt 0:00:03]} 38. Nf2 {
+[%emt 0:00:01]} Rg3+ {[%emt 0:00:02]} 39. Kf1 {[%emt 0:00:02]} Rf3 {[%emt 0:00:
+02]} 40. cxd6 {[%emt 0:00:00]} Rfxf2+ {[%emt 0:00:04]} 41. Kg1 {[%emt 0:00:00]}
+Rg2+ {[%emt 0:00:03]} 42. Kh1 {[%emt 0:00:01]} cxd6 {[%emt 0:00:02]} 43. Re1 {
+[%emt 0:00:01]} Rge2 {[%emt 0:00:03]} 44. Rd1 {[%emt 0:00:01]} Rh2+ {[%emt 0:
+00:04]} 45. Kg1 {[%emt 0:00:01]} Rcg2+ {[%emt 0:00:02]} 46. Kf1 {[%emt 0:00:01]
+} Rxa2 {[%emt 0:00:04]} 47. Kg1 {[%emt 0:00:01] Zeit  (Lag: Av=0.66s, max=0.9s)
+} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Ritilius"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "B10"]
+[WhiteElo "2516"]
+[BlackElo "2570"]
+[PlyCount "104"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:02]} c6 {[%emt 0:00:00]} 2. Nc3 {[%emt 0:00:04]} d5 {[%emt 0:
+00:00]} 3. exd5 {[%emt 0:00:04]} cxd5 {[%emt 0:00:01]} 4. d4 {[%emt 0:00:02]}
+Nc6 {[%emt 0:00:00]} 5. Bb5 {[%emt 0:00:04]} Bf5 {[%emt 0:00:02]} 6. Nf3 {
+[%emt 0:00:03]} e6 {[%emt 0:00:01]} 7. O-O {[%emt 0:00:03]} Bd6 {[%emt 0:00:02]
+} 8. Bg5 {[%emt 0:00:05]} Qc7 {[%emt 0:00:01]} 9. Re1 {[%emt 0:00:05]} Nge7 {
+[%emt 0:00:03]} 10. Bxe7 {[%emt 0:00:03]} Bxe7 {[%emt 0:00:01]} 11. Qe2 {
+[%emt 0:00:03]} O-O {[%emt 0:00:05]} 12. Nxd5 {[%emt 0:00:03]} exd5 {[%emt 0:
+00:00]} 13. Bxc6 {[%emt 0:00:04]} Qxc6 {[%emt 0:00:00]} 14. Qxe7 {[%emt 0:00:
+03]} Qxc2 {[%emt 0:00:02]} 15. Re2 {[%emt 0:00:04]} Qc8 {[%emt 0:00:13]} 16.
+Rae1 {[%emt 0:00:06]} h6 {[%emt 0:00:08]} 17. Ne5 {[%emt 0:00:05]} a5 {[%emt 0:
+00:12]} 18. a4 {[%emt 0:00:04]} Ra6 {[%emt 0:00:01]} 19. Nf3 {[%emt 0:00:04]}
+Be4 {[%emt 0:00:02]} 20. Ne5 {[%emt 0:00:03]} Re6 {[%emt 0:00:03]} 21. Qd7 {
+[%emt 0:00:03]} Qxd7 {[%emt 0:00:22]} 22. Nxd7 {[%emt 0:00:03]} Rc8 {[%emt 0:
+00:00]} 23. Nc5 {[%emt 0:00:03]} Rb6 {[%emt 0:00:00]} 24. f3 {[%emt 0:00:03]}
+Bg6 {[%emt 0:00:03]} 25. Nd7 {[%emt 0:00:02]} Re6 {[%emt 0:00:08]} 26. Rxe6 {
+[%emt 0:00:03]} fxe6 {[%emt 0:00:00]} 27. Rxe6 {[%emt 0:00:02]} Bf5 {[%emt 0:
+00:02]} 28. Rd6 {[%emt 0:00:02]} Rc1+ {[%emt 0:00:02]} 29. Kf2 {[%emt 0:00:03]}
+Rc2+ {[%emt 0:00:00]} 30. Kg3 {[%emt 0:00:03]} Rxb2 {[%emt 0:00:02]} 31. Rxd5 {
+[%emt 0:00:03]} Bd3 {[%emt 0:00:00]} 32. Rxa5 {[%emt 0:00:03]} Bf1 {[%emt 0:00:
+02]} 33. h4 {[%emt 0:00:04]} Rxg2+ {[%emt 0:00:02]} 34. Kf4 {[%emt 0:00:03]}
+Rh2 {[%emt 0:00:01]} 35. h5 {[%emt 0:00:04]} Rh4+ {[%emt 0:00:06]} 36. Ke3 {
+[%emt 0:00:05]} Ba6 {[%emt 0:00:02]} 37. Re5 {[%emt 0:00:04]} Kf7 {[%emt 0:00:
+04]} 38. Nc5 {[%emt 0:00:06]} Rh2 {[%emt 0:00:05]} 39. Nxa6 {[%emt 0:00:03]}
+bxa6 {[%emt 0:00:00]} 40. Ra5 {[%emt 0:00:03]} Rh4 {[%emt 0:00:03]} 41. Rxa6 {
+[%emt 0:00:03]} Rxh5 {[%emt 0:00:01]} 42. a5 {[%emt 0:00:03]} Rh1 {[%emt 0:00:
+01]} 43. Rc6 {[%emt 0:00:03]} Re1+ {[%emt 0:00:03]} 44. Kf4 {[%emt 0:00:03]}
+Rd1 {[%emt 0:00:01]} 45. Ke4 {[%emt 0:00:03]} Re1+ {[%emt 0:00:04]} 46. Kf5 {
+[%emt 0:00:02]} Ra1 {[%emt 0:00:09]} 47. a6 {[%emt 0:00:03]} h5 {[%emt 0:00:00]
+} 48. Rc7+ {[%emt 0:00:03]} Kg8 {[%emt 0:00:01]} 49. a7 {[%emt 0:00:02]} Kh7 {
+[%emt 0:00:00]} 50. d5 {[%emt 0:00:03]} h4 {[%emt 0:00:01]} 51. d6 {[%emt 0:00:
+03]} h3 {[%emt 0:00:01]} 52. d7 {[%emt 0:00:02]} Ra5+ {[%emt 0:00:01] Zeit} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Anahi"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "A01"]
+[WhiteElo "2345"]
+[BlackElo "2587"]
+[PlyCount "92"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. b3 {[%emt 0:00:04]} e5 {[%emt 0:00:01]} 2. Bb2 {[%emt 0:00:01]} Nc6 {
+[%emt 0:00:00]} 3. Nf3 {[%emt 0:00:01]} Nf6 {[%emt 0:00:00]} 4. Nxe5 {[%emt 0:
+00:01]} Nxe5 {[%emt 0:00:01]} 5. Bxe5 {[%emt 0:00:02]} Bb4 {[%emt 0:00:00]} 6.
+e3 {[%emt 0:00:03]} O-O {[%emt 0:00:01]} 7. Be2 {[%emt 0:00:01]} Re8 {[%emt 0:
+00:00]} 8. Bb2 {[%emt 0:00:01]} d5 {[%emt 0:00:01]} 9. O-O {[%emt 0:00:01]} Ne4
+{[%emt 0:00:01]} 10. d3 {[%emt 0:00:02]} Nf6 {[%emt 0:00:03]} 11. Nd2 {[%emt 0:
+00:01]} Bf5 {[%emt 0:00:01]} 12. Nf3 {[%emt 0:00:01]} a5 {[%emt 0:00:01]} 13.
+a3 {[%emt 0:00:01]} Bd6 {[%emt 0:00:01]} 14. h3 {[%emt 0:00:02]} Bg6 {[%emt 0:
+00:01]} 15. Re1 {[%emt 0:00:03]} c5 {[%emt 0:00:01]} 16. c4 {[%emt 0:00:03]}
+Bc7 {[%emt 0:00:06]} 17. cxd5 {[%emt 0:00:02]} Nxd5 {[%emt 0:00:02]} 18. Rc1 {
+[%emt 0:00:01]} b6 {[%emt 0:00:00]} 19. d4 {[%emt 0:00:01]} Bd6 {[%emt 0:00:06]
+} 20. Ne5 {[%emt 0:00:05]} cxd4 {[%emt 0:00:06]} 21. Nxg6 {[%emt 0:00:04]} dxe3
+{[%emt 0:00:02]} 22. fxe3 {[%emt 0:00:27]} hxg6 {[%emt 0:00:04]} 23. Bf3 {
+[%emt 0:00:03]} Nxe3 {[%emt 0:00:17]} 24. Rxe3 {[%emt 0:00:06]} Rxe3 {[%emt 0:
+00:00]} 25. Bxa8 {[%emt 0:00:04]} Rd3 {[%emt 0:00:01]} 26. Qe2 {[%emt 0:00:08]}
+Rd2 {[%emt 0:00:03]} 27. Qf3 {[%emt 0:00:12]} Rxb2 {[%emt 0:00:04]} 28. Bd5 {
+[%emt 0:00:01]} Qe7 {[%emt 0:00:06]} 29. Rf1 {[%emt 0:00:02]} Kh7 {[%emt 0:00:
+06]} 30. Bxf7 {[%emt 0:00:03]} Qe5 {[%emt 0:00:02]} 31. g3 {[%emt 0:00:07]} Qg5
+{[%emt 0:00:25]} 32. Qg4 {[%emt 0:00:26]} Qxg4 {[%emt 0:00:01]} 33. hxg4 {
+[%emt 0:00:01]} Kh6 {[%emt 0:00:00]} 34. a4 {[%emt 0:00:05]} Kg5 {[%emt 0:00:
+02]} 35. Rd1 {[%emt 0:00:02]} Bc5+ {[%emt 0:00:04]} 36. Kf1 {[%emt 0:00:01]}
+Kxg4 {[%emt 0:00:00]} 37. Bxg6 {[%emt 0:00:02]} Kxg3 {[%emt 0:00:01]} 38. Rd3+
+{[%emt 0:00:00]} Kf4 {[%emt 0:00:01]} 39. Rh3 {[%emt 0:00:02]} Rf2+ {[%emt 0:
+00:04]} 40. Ke1 {[%emt 0:00:02]} Rg2 {[%emt 0:00:00]} 41. Bd3 {[%emt 0:00:01]}
+g5 {[%emt 0:00:01]} 42. Rh7 {[%emt 0:00:02]} g4 {[%emt 0:00:02]} 43. Rf7+ {
+[%emt 0:00:02]} Ke3 {[%emt 0:00:01]} 44. Bf1 {[%emt 0:00:01]} Rb2 {[%emt 0:00:
+01]} 45. Rd7 {[%emt 0:00:07]} Rb1+ {[%emt 0:00:01]} 46. Rd1 {[%emt 0:00:00]}
+Bb4# {[%emt 0:00:00] (Lag: Av=0.6s, max=1s)  (Lag: Av=0.6s, max=1s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Zayats"]
+[Black "Anahi"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[WhiteElo "2587"]
+[BlackElo "2345"]
+[PlyCount "123"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} Nc6 {[%emt 0:00:02]} 2. d4 {[%emt 0:00:02]} e5 {[%emt 0:
+00:02]} 3. dxe5 {[%emt 0:00:02]} Nxe5 {[%emt 0:00:04]} 4. Bf4 {[%emt 0:00:01]}
+Ng6 {[%emt 0:00:03]} 5. Bg3 {[%emt 0:00:01]} Nf6 {[%emt 0:00:01]} 6. Bd3 {
+[%emt 0:00:01]} Bc5 {[%emt 0:00:01]} 7. Ne2 {[%emt 0:00:01]} d6 {[%emt 0:00:01]
+} 8. O-O {[%emt 0:00:02]} O-O {[%emt 0:00:00]} 9. Nbc3 {[%emt 0:00:02]} c6 {
+[%emt 0:00:01]} 10. Na4 {[%emt 0:00:01]} Bb4 {[%emt 0:00:04]} 11. a3 {[%emt 0:
+00:02]} Ba5 {[%emt 0:00:01]} 12. f4 {[%emt 0:00:04]} Bg4 {[%emt 0:00:04]} 13.
+h3 {[%emt 0:00:02]} Bxe2 {[%emt 0:00:01]} 14. Qxe2 {[%emt 0:00:01]} b5 {
+[%emt 0:00:00]} 15. Nc3 {[%emt 0:00:02]} Bxc3 {[%emt 0:00:01]} 16. bxc3 {
+[%emt 0:00:01]} Re8 {[%emt 0:00:00]} 17. Qf3 {[%emt 0:00:01]} Rc8 {[%emt 0:00:
+04]} 18. a4 {[%emt 0:00:01]} a6 {[%emt 0:00:03]} 19. axb5 {[%emt 0:00:01]} axb5
+{[%emt 0:00:00]} 20. Kh1 {[%emt 0:00:05]} Qe7 {[%emt 0:00:06]} 21. Rae1 {
+[%emt 0:00:06]} Qa7 {[%emt 0:00:01]} 22. e5 {[%emt 0:00:02]} dxe5 {[%emt 0:00:
+06]} 23. fxe5 {[%emt 0:00:00]} Nd5 {[%emt 0:00:03]} 24. c4 {[%emt 0:00:06]}
+bxc4 {[%emt 0:00:04]} 25. Bxc4 {[%emt 0:00:01]} Rcd8 {[%emt 0:00:00]} 26. Bd3 {
+[%emt 0:00:11]} Rf8 {[%emt 0:00:09]} 27. Qh5 {[%emt 0:00:05]} Qd4 {[%emt 0:00:
+12]} 28. Re4 {[%emt 0:00:03]} Qc3 {[%emt 0:00:04]} 29. Rh4 {[%emt 0:00:02]} h6
+{[%emt 0:00:04]} 30. Rg4 {[%emt 0:00:01]} Nde7 {[%emt 0:00:08]} 31. e6 {
+[%emt 0:00:03]} Rxd3 {[%emt 0:00:08]} 32. cxd3 {[%emt 0:00:08]} Qxd3 {[%emt 0:
+00:03]} 33. exf7+ {[%emt 0:00:05]} Rxf7 {[%emt 0:00:00]} 34. Rxf7 {[%emt 0:00:
+01]} Kxf7 {[%emt 0:00:00]} 35. Rf4+ {[%emt 0:00:07]} Kg8 {[%emt 0:00:03]} 36.
+Rf3 {[%emt 0:00:01]} Qd5 {[%emt 0:00:04]} 37. Qxd5+ {[%emt 0:00:04]} cxd5 {
+[%emt 0:00:01]} 38. Bd6 {[%emt 0:00:02]} Nc6 {[%emt 0:00:06]} 39. Rc3 {[%emt 0:
+00:09]} Nd4 {[%emt 0:00:09]} 40. Rd3 {[%emt 0:00:01]} Nf5 {[%emt 0:00:03]} 41.
+Rxd5 {[%emt 0:00:01]} Nxd6 {[%emt 0:00:01]} 42. Rxd6 {[%emt 0:00:00]} Kf7 {
+[%emt 0:00:00]} 43. Kh2 {[%emt 0:00:01]} Ne5 {[%emt 0:00:01]} 44. Kg3 {[%emt 0:
+00:01]} Ng6 {[%emt 0:00:02]} 45. Ra6 {[%emt 0:00:01]} Ne7 {[%emt 0:00:01]} 46.
+Ra7 {[%emt 0:00:01]} Kf6 {[%emt 0:00:01]} 47. Kg4 {[%emt 0:00:01]} g6 {[%emt 0:
+00:02]} 48. Ra6+ {[%emt 0:00:02]} Ke5 {[%emt 0:00:03]} 49. h4 {[%emt 0:00:01]}
+Kd5 {[%emt 0:00:10]} 50. Kf4 {[%emt 0:00:01]} Nc6 {[%emt 0:00:03]} 51. Rxc6 {
+[%emt 0:00:02]} Kxc6 {[%emt 0:00:00]} 52. Ke5 {[%emt 0:00:00]} g5 {[%emt 0:00:
+02]} 53. hxg5 {[%emt 0:00:02]} hxg5 {[%emt 0:00:00]} 54. Kf5 {[%emt 0:00:00]}
+Kd6 {[%emt 0:00:00]} 55. Kxg5 {[%emt 0:00:01]} Ke7 {[%emt 0:00:00]} 56. Kg6 {
+[%emt 0:00:01]} Kf8 {[%emt 0:00:00]} 57. g4 {[%emt 0:00:01]} Kg8 {[%emt 0:00:
+01]} 58. g5 {[%emt 0:00:00]} Kh8 {[%emt 0:00:00]} 59. Kh6 {[%emt 0:00:00]} Kg8
+{[%emt 0:00:00]} 60. g6 {[%emt 0:00:00]} Kh8 {[%emt 0:00:01]} 61. g7+ {[%emt 0:
+00:00]} Kg8 {[%emt 0:00:00]} 62. Kg6 {[%emt 0:00:01] (Lag: Av=0.62s, max=0.8s)}
+1/2-1/2
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Anahi"]
+[Black "Zayats"]
+[Result "1-0"]
+[ECO "A01"]
+[WhiteElo "2345"]
+[BlackElo "2587"]
+[PlyCount "99"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. b3 {[%emt 0:00:02]} e5 {[%emt 0:00:02]} 2. Bb2 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:01]} 3. Nf3 {[%emt 0:00:00]} e4 {[%emt 0:00:01]} 4. Nd4 {[%emt 0:00:
+01]} Nxd4 {[%emt 0:00:01]} 5. Bxd4 {[%emt 0:00:01]} Nf6 {[%emt 0:00:00]} 6. e3
+{[%emt 0:00:01]} d5 {[%emt 0:00:04]} 7. c4 {[%emt 0:00:02]} Bd6 {[%emt 0:00:02]
+} 8. Be2 {[%emt 0:00:03]} O-O {[%emt 0:00:01]} 9. cxd5 {[%emt 0:00:02]} Nxd5 {
+[%emt 0:00:02]} 10. Nc3 {[%emt 0:00:00]} c5 {[%emt 0:00:04]} 11. Bxg7 {[%emt 0:
+00:03]} Nxe3 {[%emt 0:00:06]} 12. dxe3 {[%emt 0:00:03]} Kxg7 {[%emt 0:00:01]}
+13. Nxe4 {[%emt 0:00:01]} Be5 {[%emt 0:00:02]} 14. Qxd8 {[%emt 0:00:02]} Rxd8 {
+[%emt 0:00:00]} 15. Rd1 {[%emt 0:00:01]} Rxd1+ {[%emt 0:00:02]} 16. Bxd1 {
+[%emt 0:00:01]} b6 {[%emt 0:00:00]} 17. Bf3 {[%emt 0:00:02]} Rb8 {[%emt 0:00:
+00]} 18. O-O {[%emt 0:00:04]} Be6 {[%emt 0:00:01]} 19. Rd1 {[%emt 0:00:01]} a5
+{[%emt 0:00:01]} 20. Ng5 {[%emt 0:00:01]} Bf5 {[%emt 0:00:13]} 21. Rd5 {
+[%emt 0:00:03]} Kf6 {[%emt 0:00:01]} 22. h4 {[%emt 0:00:09]} h6 {[%emt 0:00:07]
+} 23. Nxf7 {[%emt 0:00:01]} Be6 {[%emt 0:00:03]} 24. Rxe5 {[%emt 0:00:02]} Bxf7
+{[%emt 0:00:02]} 25. Re4 {[%emt 0:00:03]} b5 {[%emt 0:00:04]} 26. g4 {[%emt 0:
+00:05]} b4 {[%emt 0:00:03]} 27. Rf4+ {[%emt 0:00:03]} Ke7 {[%emt 0:00:03]} 28.
+g5 {[%emt 0:00:02]} hxg5 {[%emt 0:00:01]} 29. hxg5 {[%emt 0:00:00]} c4 {
+[%emt 0:00:03]} 30. bxc4 {[%emt 0:00:03]} a4 {[%emt 0:00:01]} 31. Re4+ {
+[%emt 0:00:04]} Kf8 {[%emt 0:00:04]} 32. Rd4 {[%emt 0:00:00]} b3 {[%emt 0:00:
+04]} 33. axb3 {[%emt 0:00:00]} axb3 {[%emt 0:00:01]} 34. Be4 {[%emt 0:00:02]}
+b2 {[%emt 0:00:02]} 35. Kg2 {[%emt 0:00:02]} Ke7 {[%emt 0:00:11]} 36. f4 {
+[%emt 0:00:02]} Rb3 {[%emt 0:00:04]} 37. Kf3 {[%emt 0:00:06]} Bh5+ {[%emt 0:00:
+01]} 38. Kf2 {[%emt 0:00:01]} Rc3 {[%emt 0:00:05]} 39. c5 {[%emt 0:00:10]} Bf7
+{[%emt 0:00:19]} 40. Rb4 {[%emt 0:00:02]} Bb3 {[%emt 0:00:01]} 41. f5 {[%emt 0:
+00:10]} Kf7 {[%emt 0:00:14]} 42. Rb7+ {[%emt 0:00:06]} Kf8 {[%emt 0:00:03]} 43.
+Kf3 {[%emt 0:00:03]} Bd1+ {[%emt 0:00:13]} 44. Kf4 {[%emt 0:00:01]} Rxc5 {
+[%emt 0:00:11]} 45. Rxb2 {[%emt 0:00:04]} Rc3 {[%emt 0:00:00]} 46. Rb7 {
+[%emt 0:00:05]} Rc4 {[%emt 0:00:01]} 47. Ke5 {[%emt 0:00:04]} Ba4 {[%emt 0:00:
+01]} 48. Bd5 {[%emt 0:00:17]} Rc5 {[%emt 0:00:02]} 49. e4 {[%emt 0:00:01]} Bc6
+{[%emt 0:00:02]} 50. Rc7 {[%emt 0:00:01] Zayats gibt auf  (Lag: Av=0.6s,
+max=1s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Zayats"]
+[Black "Anahi"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2587"]
+[BlackElo "2345"]
+[PlyCount "69"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} Nc6 {[%emt 0:00:03]} 2. d4 {[%emt 0:00:01]} d5 {[%emt 0:
+00:01]} 3. Nc3 {[%emt 0:00:02]} e5 {[%emt 0:00:02]} 4. Bb5 {[%emt 0:00:01]}
+exd4 {[%emt 0:00:04]} 5. Nxd5 {[%emt 0:00:03]} Bd7 {[%emt 0:00:08]} 6. Bf4 {
+[%emt 0:00:02]} Rc8 {[%emt 0:00:04]} 7. Nf3 {[%emt 0:00:01]} Nf6 {[%emt 0:00:
+07]} 8. O-O {[%emt 0:00:02]} Be7 {[%emt 0:00:06]} 9. Nxd4 {[%emt 0:00:03]} Nxd4
+{[%emt 0:00:03]} 10. Bxd7+ {[%emt 0:00:01]} Qxd7 {[%emt 0:00:00]} 11. Qxd4 {
+[%emt 0:00:00]} Nxd5 {[%emt 0:00:04]} 12. Qxg7 {[%emt 0:00:29]} Bf6 {[%emt 0:
+00:03]} 13. Qh6 {[%emt 0:00:01]} Nxf4 {[%emt 0:00:04]} 14. Qxf6 {[%emt 0:00:01]
+} Qg4 {[%emt 0:00:21]} 15. Qxh8+ {[%emt 0:00:01]} Kd7 {[%emt 0:00:02]} 16. Qd4+
+{[%emt 0:00:01]} Kc6 {[%emt 0:00:02]} 17. Qc4+ {[%emt 0:00:01]} Kb6 {[%emt 0:
+00:02]} 18. g3 {[%emt 0:00:03]} c6 {[%emt 0:00:09]} 19. Qb3+ {[%emt 0:00:05]}
+Kc7 {[%emt 0:00:01]} 20. Qxf7+ {[%emt 0:00:01]} Kb6 {[%emt 0:00:01]} 21. Qxf4 {
+[%emt 0:00:00]} Qg7 {[%emt 0:00:03]} 22. e5 {[%emt 0:00:02]} Re8 {[%emt 0:00:
+01]} 23. Rfe1 {[%emt 0:00:01]} Re6 {[%emt 0:00:02]} 24. Qb4+ {[%emt 0:00:03]}
+Kc7 {[%emt 0:00:02]} 25. f4 {[%emt 0:00:00]} h5 {[%emt 0:00:02]} 26. Qa5+ {
+[%emt 0:00:01]} Kc8 {[%emt 0:00:04]} 27. Rad1 {[%emt 0:00:01]} Qe7 {[%emt 0:00:
+06]} 28. Qxa7 {[%emt 0:00:02]} h4 {[%emt 0:00:03]} 29. Rd3 {[%emt 0:00:07]}
+hxg3 {[%emt 0:00:02]} 30. hxg3 {[%emt 0:00:01]} Rh6 {[%emt 0:00:09]} 31. Red1 {
+[%emt 0:00:02]} Rh8 {[%emt 0:00:01]} 32. Qa8+ {[%emt 0:00:02]} Kc7 {[%emt 0:00:
+00]} 33. Rd7+ {[%emt 0:00:02]} Qxd7 {[%emt 0:00:02]} 34. Rxd7+ {[%emt 0:00:02]}
+Kxd7 {[%emt 0:00:00]} 35. Qxh8 {[%emt 0:00:01] Anahi rinde  (Lag: Av=0.63s,
+max=0.9s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Anahi"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "A01"]
+[WhiteElo "2345"]
+[BlackElo "2587"]
+[PlyCount "72"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. b3 {[%emt 0:00:02]} a6 {[%emt 0:00:00]} 2. Bb2 {[%emt 0:00:00]} b5 {[%emt 0:
+00:01]} 3. Nf3 {[%emt 0:00:00]} Bb7 {[%emt 0:00:00]} 4. e3 {[%emt 0:00:00]} f6
+{[%emt 0:00:01]} 5. Be2 {[%emt 0:00:00]} g6 {[%emt 0:00:01]} 6. O-O {[%emt 0:
+00:00]} Bg7 {[%emt 0:00:00]} 7. d4 {[%emt 0:00:00]} e6 {[%emt 0:00:00]} 8. c4 {
+[%emt 0:00:00]} b4 {[%emt 0:00:03]} 9. Nbd2 {[%emt 0:00:02]} Ne7 {[%emt 0:00:
+01]} 10. e4 {[%emt 0:00:01]} O-O {[%emt 0:00:01]} 11. d5 {[%emt 0:00:02]} e5 {
+[%emt 0:00:01]} 12. Ne1 {[%emt 0:00:08]} c5 {[%emt 0:00:01]} 13. f4 {[%emt 0:
+00:02]} d6 {[%emt 0:00:01]} 14. fxe5 {[%emt 0:00:01]} fxe5 {[%emt 0:00:01]} 15.
+Rxf8+ {[%emt 0:00:01]} Qxf8 {[%emt 0:00:01]} 16. Qc2 {[%emt 0:00:01]} Nd7 {
+[%emt 0:00:01]} 17. Nd3 {[%emt 0:00:02]} Nf6 {[%emt 0:00:06]} 18. Rf1 {[%emt 0:
+00:01]} g5 {[%emt 0:00:00]} 19. Nf2 {[%emt 0:00:05]} Ng6 {[%emt 0:00:03]} 20.
+g3 {[%emt 0:00:03]} Bc8 {[%emt 0:00:04]} 21. Ng4 {[%emt 0:00:08]} Ra7 {[%emt 0:
+00:02]} 22. Nxf6+ {[%emt 0:00:05]} Bxf6 {[%emt 0:00:00]} 23. Bh5 {[%emt 0:00:
+02]} Rf7 {[%emt 0:00:01]} 24. Bxg6 {[%emt 0:00:02]} hxg6 {[%emt 0:00:01]} 25.
+Qd3 {[%emt 0:00:02]} Bh3 {[%emt 0:00:01]} 26. Rf2 {[%emt 0:00:01]} g4 {[%emt 0:
+00:01]} 27. Bc1 {[%emt 0:00:03]} Bg5 {[%emt 0:00:01]} 28. Rxf7 {[%emt 0:00:02]}
+Qxf7 {[%emt 0:00:00]} 29. Qe2 {[%emt 0:00:04]} Qf8 {[%emt 0:00:03]} 30. Qf2 {
+[%emt 0:00:02]} Qh6 {[%emt 0:00:01]} 31. Qe2 {[%emt 0:00:11]} Be3+ {[%emt 0:00:
+01]} 32. Kh1 {[%emt 0:00:01]} Qg5 {[%emt 0:00:01]} 33. Nf3 {[%emt 0:00:05]}
+gxf3 {[%emt 0:00:06]} 34. Qxe3 {[%emt 0:00:00]} f2 {[%emt 0:00:04]} 35. Qxf2 {
+[%emt 0:00:18]} Qxc1+ {[%emt 0:00:03]} 36. Qg1 {[%emt 0:00:00]} Qc2 {[%emt 0:
+00:01] Anahi rinde  (Lag: Av=0.6s, max=1s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Zayats"]
+[Black "Anahi"]
+[Result "1-0"]
+[ECO "B02"]
+[WhiteElo "2587"]
+[BlackElo "2345"]
+[PlyCount "129"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:02]} 2. Nc3 {[%emt 0:00:00]} d5 {
+[%emt 0:00:02]} 3. e5 {[%emt 0:00:00]} d4 {[%emt 0:00:01]} 4. exf6 {[%emt 0:00:
+01]} dxc3 {[%emt 0:00:00]} 5. fxg7 {[%emt 0:00:01]} cxd2+ {[%emt 0:00:00]} 6.
+Qxd2 {[%emt 0:00:00]} Qxd2+ {[%emt 0:00:00]} 7. Bxd2 {[%emt 0:00:00]} Bxg7 {
+[%emt 0:00:01]} 8. O-O-O {[%emt 0:00:00]} Nc6 {[%emt 0:00:00]} 9. g3 {[%emt 0:
+00:01]} Bd7 {[%emt 0:00:02]} 10. Bg2 {[%emt 0:00:01]} O-O-O {[%emt 0:00:00]}
+11. Nf3 {[%emt 0:00:01]} f6 {[%emt 0:00:01]} 12. Be3 {[%emt 0:00:03]} e5 {
+[%emt 0:00:01]} 13. Rd2 {[%emt 0:00:01]} Be6 {[%emt 0:00:01]} 14. Rhd1 {
+[%emt 0:00:01]} Rxd2 {[%emt 0:00:01]} 15. Rxd2 {[%emt 0:00:00]} Rd8 {[%emt 0:
+00:00]} 16. Rxd8+ {[%emt 0:00:01]} Kxd8 {[%emt 0:00:01]} 17. a3 {[%emt 0:00:00]
+} Kd7 {[%emt 0:00:01]} 18. b4 {[%emt 0:00:01]} a6 {[%emt 0:00:01]} 19. Nd2 {
+[%emt 0:00:01]} Nd8 {[%emt 0:00:03]} 20. c4 {[%emt 0:00:01]} c6 {[%emt 0:00:01]
+} 21. Kc2 {[%emt 0:00:01]} Nf7 {[%emt 0:00:01]} 22. Ne4 {[%emt 0:00:02]} Bf5 {
+[%emt 0:00:06]} 23. Kc3 {[%emt 0:00:01]} Bxe4 {[%emt 0:00:04]} 24. Bxe4 {
+[%emt 0:00:00]} h6 {[%emt 0:00:05]} 25. c5 {[%emt 0:00:01]} Ng5 {[%emt 0:00:04]
+} 26. Bf5+ {[%emt 0:00:01]} Kc7 {[%emt 0:00:00]} 27. h4 {[%emt 0:00:00]} Nf7 {
+[%emt 0:00:01]} 28. a4 {[%emt 0:00:01]} Nd8 {[%emt 0:00:13]} 29. Kc4 {[%emt 0:
+00:01]} Nf7 {[%emt 0:00:01]} 30. b5 {[%emt 0:00:03]} axb5+ {[%emt 0:00:01]} 31.
+axb5 {[%emt 0:00:01]} cxb5+ {[%emt 0:00:00]} 32. Kxb5 {[%emt 0:00:00]} Nd8 {
+[%emt 0:00:02]} 33. Bd2 {[%emt 0:00:02]} Nc6 {[%emt 0:00:01]} 34. Kc4 {[%emt 0:
+00:13]} Ne7 {[%emt 0:00:11]} 35. Ba5+ {[%emt 0:00:02]} Kb8 {[%emt 0:00:08]} 36.
+Be4 {[%emt 0:00:02]} f5 {[%emt 0:00:02]} 37. Bb1 {[%emt 0:00:03]} e4 {[%emt 0:
+00:01]} 38. Bd8 {[%emt 0:00:04]} Nc6 {[%emt 0:00:01]} 39. Bb6 {[%emt 0:00:00]}
+Ne5+ {[%emt 0:00:01]} 40. Kd5 {[%emt 0:00:02]} Nd3 {[%emt 0:00:02] Anahi
+ofrece tablas} 41. Ke6 {[%emt 0:00:11]} f4 {[%emt 0:00:10]} 42. gxf4 {[%emt 0:
+00:06]} Nxf4+ {[%emt 0:00:02]} 43. Kf7 {[%emt 0:00:01]} Bd4 {[%emt 0:00:01]}
+44. Bxe4 {[%emt 0:00:04]} h5 {[%emt 0:00:15]} 45. f3 {[%emt 0:00:06]} Ng2 {
+[%emt 0:00:03]} 46. Bd8 {[%emt 0:00:03]} Bxc5 {[%emt 0:00:01]} 47. Kg6 {
+[%emt 0:00:04]} Bf2 {[%emt 0:00:02]} 48. Kxh5 {[%emt 0:00:01]} b5 {[%emt 0:00:
+03]} 49. Kg4 {[%emt 0:00:03]} Kc8 {[%emt 0:00:06]} 50. Bg5 {[%emt 0:00:03]} Kd7
+{[%emt 0:00:03]} 51. f4 {[%emt 0:00:04]} Ne3+ {[%emt 0:00:03]} 52. Kf3 {
+[%emt 0:00:01]} Bxh4 {[%emt 0:00:02]} 53. Bxh4 {[%emt 0:00:02]} Nc4 {[%emt 0:
+00:03]} 54. Be1 {[%emt 0:00:03]} Kd6 {[%emt 0:00:03]} 55. Bb4+ {[%emt 0:00:01]}
+Ke6 {[%emt 0:00:02]} 56. Ke2 {[%emt 0:00:01]} Nb2 {[%emt 0:00:03]} 57. Bc2 {
+[%emt 0:00:05]} Kd5 {[%emt 0:00:06]} 58. f5 {[%emt 0:00:02]} Nc4 {[%emt 0:00:
+06]} 59. f6 {[%emt 0:00:03]} Ke6 {[%emt 0:00:02]} 60. Bc3 {[%emt 0:00:01]} b4 {
+[%emt 0:00:02]} 61. Bd4 {[%emt 0:00:01]} Na5 {[%emt 0:00:07]} 62. Bf5+ {
+[%emt 0:00:03]} Kf7 {[%emt 0:00:02]} 63. Be4 {[%emt 0:00:01]} Ke6 {[%emt 0:00:
+02]} 64. Bd5+ {[%emt 0:00:03]} Kxd5 {[%emt 0:00:03]} 65. f7 {[%emt 0:00:00]
+Tiempo  (Lag: Av=0.63s, max=0.9s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Anahi"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2345"]
+[BlackElo "2587"]
+[PlyCount "80"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. g4 {[%emt 0:00:02]} b6 {[%emt 0:00:00]} 2. Bg2 {[%emt 0:00:01]} Nc6 {
+[%emt 0:00:01]} 3. b4 {[%emt 0:00:01]} Bb7 {[%emt 0:00:00]} 4. b5 {[%emt 0:00:
+01]} Na5 {[%emt 0:00:00]} 5. Nf3 {[%emt 0:00:01]} c6 {[%emt 0:00:02]} 6. a4 {
+[%emt 0:00:02]} h5 {[%emt 0:00:01]} 7. g5 {[%emt 0:00:02]} h4 {[%emt 0:00:01]}
+8. h3 {[%emt 0:00:02]} e5 {[%emt 0:00:02]} 9. d3 {[%emt 0:00:02]} Bd6 {[%emt 0:
+00:05]} 10. c4 {[%emt 0:00:02]} Ne7 {[%emt 0:00:02]} 11. Nc3 {[%emt 0:00:03]}
+Ng6 {[%emt 0:00:01]} 12. Bd2 {[%emt 0:00:05]} cxb5 {[%emt 0:00:06]} 13. axb5 {
+[%emt 0:00:02]} O-O {[%emt 0:00:03]} 14. Ne4 {[%emt 0:00:01]} Be7 {[%emt 0:00:
+01]} 15. Bxa5 {[%emt 0:00:01]} bxa5 {[%emt 0:00:01]} 16. e3 {[%emt 0:00:01]} d5
+{[%emt 0:00:01]} 17. cxd5 {[%emt 0:00:02]} Bxd5 {[%emt 0:00:00]} 18. Nfd2 {
+[%emt 0:00:09]} Rb8 {[%emt 0:00:01]} 19. Qa4 {[%emt 0:00:03]} Bb4 {[%emt 0:00:
+04]} 20. Ke2 {[%emt 0:00:06]} Qd7 {[%emt 0:00:09]} 21. Nc4 {[%emt 0:00:16]}
+Qxb5 {[%emt 0:00:10]} 22. Qxb5 {[%emt 0:00:02]} Rxb5 {[%emt 0:00:01]} 23. Nf6+
+{[%emt 0:00:01]} gxf6 {[%emt 0:00:03]} 24. Bxd5 {[%emt 0:00:02]} Rxd5 {[%emt 0:
+00:01]} 25. gxf6 {[%emt 0:00:02]} Rfd8 {[%emt 0:00:01]} 26. d4 {[%emt 0:00:08]}
+exd4 {[%emt 0:00:02]} 27. exd4 {[%emt 0:00:00]} Rxd4 {[%emt 0:00:01]} 28. Nxa5
+{[%emt 0:00:00]} Re8+ {[%emt 0:00:02]} 29. Kf3 {[%emt 0:00:03]} Ne5+ {[%emt 0:
+00:01]} 30. Kg2 {[%emt 0:00:01]} Kh7 {[%emt 0:00:04]} 31. Nb3 {[%emt 0:00:03]}
+Rg8+ {[%emt 0:00:02]} 32. Kf1 {[%emt 0:00:04]} Rd3 {[%emt 0:00:01]} 33. Rb1 {
+[%emt 0:00:05]} a5 {[%emt 0:00:02]} 34. Ke2 {[%emt 0:00:04]} Rc8 {[%emt 0:00:
+02]} 35. Rb2 {[%emt 0:00:02]} Rcc3 {[%emt 0:00:03]} 36. Nc1 {[%emt 0:00:04]}
+Rd4 {[%emt 0:00:02]} 37. Na2 {[%emt 0:00:06]} Re4+ {[%emt 0:00:03]} 38. Kf1 {
+[%emt 0:00:03]} Ra3 {[%emt 0:00:03]} 39. Kg2 {[%emt 0:00:05]} Nd3 {[%emt 0:00:
+02]} 40. Rc2 {[%emt 0:00:20]} Nf4+ {[%emt 0:00:01] Anahi rinde  (Lag: Av=0.6s,
+max=1s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Zayats"]
+[Black "Anahi"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2587"]
+[BlackElo "2345"]
+[PlyCount "91"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:03]} 2. c3 {[%emt 0:00:01]} e5 {[%emt 0:
+00:02]} 3. Bc4 {[%emt 0:00:02]} d6 {[%emt 0:00:02]} 4. Nf3 {[%emt 0:00:01]} Qc7
+{[%emt 0:00:04]} 5. O-O {[%emt 0:00:02]} Nf6 {[%emt 0:00:01]} 6. d4 {[%emt 0:
+00:01]} cxd4 {[%emt 0:00:02]} 7. Na3 {[%emt 0:00:02]} Be7 {[%emt 0:00:04]} 8.
+cxd4 {[%emt 0:00:04]} O-O {[%emt 0:00:01]} 9. Bg5 {[%emt 0:00:04]} Nxe4 {
+[%emt 0:00:07]} 10. Rc1 {[%emt 0:00:15]} Qd8 {[%emt 0:00:07]} 11. Bxe7 {
+[%emt 0:00:05]} Qxe7 {[%emt 0:00:02]} 12. Re1 {[%emt 0:00:06]} Bf5 {[%emt 0:00:
+14]} 13. Bd5 {[%emt 0:00:01]} Nf6 {[%emt 0:00:04]} 14. dxe5 {[%emt 0:00:01]}
+dxe5 {[%emt 0:00:02]} 15. Rxe5 {[%emt 0:00:02]} Qd7 {[%emt 0:00:01]} 16. Bxb7 {
+[%emt 0:00:05]} Qxb7 {[%emt 0:00:03]} 17. Rxf5 {[%emt 0:00:01]} Qxb2 {[%emt 0:
+00:00]} 18. Nc4 {[%emt 0:00:03]} Qxa2 {[%emt 0:00:02]} 19. Ra1 {[%emt 0:00:03]}
+Qxc4 {[%emt 0:00:02]} 20. Ne5 {[%emt 0:00:02]} Qe6 {[%emt 0:00:02]} 21. Qf3 {
+[%emt 0:00:03]} Nbd7 {[%emt 0:00:02]} 22. Nc6 {[%emt 0:00:07]} a5 {[%emt 0:00:
+14]} 23. Rg5 {[%emt 0:00:06]} a4 {[%emt 0:00:06]} 24. Nd4 {[%emt 0:00:01]} Qd5
+{[%emt 0:00:11]} 25. Rxd5 {[%emt 0:00:02]} Nxd5 {[%emt 0:00:02]} 26. Qxd5 {
+[%emt 0:00:01]} Nf6 {[%emt 0:00:00]} 27. Qg5 {[%emt 0:00:02]} h6 {[%emt 0:00:
+03]} 28. Qh4 {[%emt 0:00:04]} a3 {[%emt 0:00:02]} 29. Nf5 {[%emt 0:00:01]} Nh7
+{[%emt 0:00:07]} 30. Qg3 {[%emt 0:00:03]} g6 {[%emt 0:00:02]} 31. Nxh6+ {
+[%emt 0:00:02]} Kg7 {[%emt 0:00:00]} 32. Nf5+ {[%emt 0:00:01]} Kg8 {[%emt 0:00:
+02]} 33. Ne7+ {[%emt 0:00:01]} Kg7 {[%emt 0:00:01]} 34. Rxa3 {[%emt 0:00:00]}
+Rad8 {[%emt 0:00:04]} 35. h3 {[%emt 0:00:03]} Rfe8 {[%emt 0:00:02]} 36. Ra7 {
+[%emt 0:00:03]} Nf6 {[%emt 0:00:08]} 37. Nxg6 {[%emt 0:00:03]} Ne4 {[%emt 0:00:
+03] Anahi ofrece tablas} 38. Qg4 {[%emt 0:00:18]} Nf6 {[%emt 0:00:02]} 39. Qc4
+{[%emt 0:00:03]} Kxg6 {[%emt 0:00:06]} 40. Qxf7+ {[%emt 0:00:02]} Kf5 {[%emt 0:
+00:01]} 41. Ra6 {[%emt 0:00:03]} Re1+ {[%emt 0:00:38]} 42. Kh2 {[%emt 0:00:01]}
+Rd6 {[%emt 0:00:00]} 43. Qd5+ {[%emt 0:00:03] .} Rxd5 {[%emt 0:00:01]} 44. Ra3
+{[%emt 0:00:02] .} Ng4+ {[%emt 0:00:00]} 45. hxg4+ {[%emt 0:00:01] .} Kxg4 {
+[%emt 0:00:00]} 46. Ra4+ {[%emt 0:00:00] Tiempo  (Lag: Av=0.63s, max=0.9s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Anahi"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "A01"]
+[WhiteElo "2345"]
+[BlackElo "2587"]
+[PlyCount "84"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. b3 {[%emt 0:00:01]} d5 {[%emt 0:00:00]} 2. Bb2 {[%emt 0:00:00]} Nc6 {
+[%emt 0:00:00]} 3. Nf3 {[%emt 0:00:01]} Nf6 {[%emt 0:00:01]} 4. e3 {[%emt 0:00:
+02]} Bg4 {[%emt 0:00:00]} 5. Be2 {[%emt 0:00:01]} e6 {[%emt 0:00:01]} 6. O-O {
+[%emt 0:00:01]} Bd6 {[%emt 0:00:01]} 7. d4 {[%emt 0:00:00]} O-O {[%emt 0:00:02]
+} 8. Ne5 {[%emt 0:00:01]} Bxe2 {[%emt 0:00:03]} 9. Qxe2 {[%emt 0:00:00]} Bxe5 {
+[%emt 0:00:01]} 10. dxe5 {[%emt 0:00:01]} Nd7 {[%emt 0:00:00]} 11. f4 {[%emt 0:
+00:00]} f6 {[%emt 0:00:01]} 12. Qg4 {[%emt 0:00:02]} f5 {[%emt 0:00:01]} 13.
+Qe2 {[%emt 0:00:02]} Nc5 {[%emt 0:00:01]} 14. Nd2 {[%emt 0:00:02]} Nb4 {
+[%emt 0:00:02]} 15. Rfc1 {[%emt 0:00:03]} a5 {[%emt 0:00:06]} 16. a3 {[%emt 0:
+00:02]} Nba6 {[%emt 0:00:01]} 17. Qb5 {[%emt 0:00:02]} c6 {[%emt 0:00:02]} 18.
+Qe2 {[%emt 0:00:02]} b5 {[%emt 0:00:00]} 19. Bd4 {[%emt 0:00:02]} Ne4 {[%emt 0:
+00:01]} 20. Nxe4 {[%emt 0:00:01]} fxe4 {[%emt 0:00:00]} 21. c4 {[%emt 0:00:01]}
+c5 {[%emt 0:00:01]} 22. cxb5 {[%emt 0:00:02]} cxd4 {[%emt 0:00:01]} 23. bxa6 {
+[%emt 0:00:00]} d3 {[%emt 0:00:01]} 24. Qg4 {[%emt 0:00:03]} Rxa6 {[%emt 0:00:
+02]} 25. Rc5 {[%emt 0:00:05]} Qb6 {[%emt 0:00:01]} 26. Rac1 {[%emt 0:00:08]} h6
+{[%emt 0:00:04]} 27. h4 {[%emt 0:00:08]} d2 {[%emt 0:00:07]} 28. R1c2 {[%emt 0:
+00:02]} Qxb3 {[%emt 0:00:02]} 29. Rc7 {[%emt 0:00:25]} Qxe3+ {[%emt 0:00:02]}
+30. Kh1 {[%emt 0:00:08]} d1=Q+ {[%emt 0:00:06]} 31. Qxd1 {[%emt 0:00:02]} Qxf4
+{[%emt 0:00:01]} 32. g3 {[%emt 0:00:24]} Qxe5 {[%emt 0:00:03]} 33. Qg4 {
+[%emt 0:00:04]} Rb6 {[%emt 0:00:05]} 34. Kh2 {[%emt 0:00:03]} e3 {[%emt 0:00:
+02]} 35. Re7 {[%emt 0:00:18]} Rb2 {[%emt 0:00:05]} 36. Rxg7+ {[%emt 0:00:05]}
+Qxg7 {[%emt 0:00:01]} 37. Qxg7+ {[%emt 0:00:00]} Kxg7 {[%emt 0:00:00]} 38. Rxb2
+{[%emt 0:00:00]} d4 {[%emt 0:00:02]} 39. Kg2 {[%emt 0:00:02]} d3 {[%emt 0:00:
+01]} 40. Rb7+ {[%emt 0:00:02]} Rf7 {[%emt 0:00:00]} 41. Rb3 {[%emt 0:00:00]} e2
+{[%emt 0:00:02]} 42. Rb1 {[%emt 0:00:01]} d2 {[%emt 0:00:01] Anahi rinde  (Lag:
+Av=0.6s, max=1s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Zayats"]
+[Black "Anahi"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2587"]
+[BlackElo "2345"]
+[PlyCount "75"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:02]} 2. d3 {[%emt 0:00:02]} g6 {[%emt 0:
+00:02]} 3. g3 {[%emt 0:00:01]} Bg7 {[%emt 0:00:00]} 4. Bg2 {[%emt 0:00:00]} d6
+{[%emt 0:00:01]} 5. Nf3 {[%emt 0:00:01]} Nf6 {[%emt 0:00:01]} 6. O-O {[%emt 0:
+00:01]} O-O {[%emt 0:00:00]} 7. c4 {[%emt 0:00:01]} Nc6 {[%emt 0:00:00]} 8. Nc3
+{[%emt 0:00:00]} Bg4 {[%emt 0:00:01]} 9. h3 {[%emt 0:00:01]} Bd7 {[%emt 0:00:
+01]} 10. Be3 {[%emt 0:00:01]} Rb8 {[%emt 0:00:01]} 11. Kh2 {[%emt 0:00:01]} a6
+{[%emt 0:00:01]} 12. a4 {[%emt 0:00:01]} h6 {[%emt 0:00:01]} 13. d4 {[%emt 0:
+00:01]} cxd4 {[%emt 0:00:02]} 14. Nxd4 {[%emt 0:00:00]} Nxd4 {[%emt 0:00:01]}
+15. Bxd4 {[%emt 0:00:01]} Bc6 {[%emt 0:00:00]} 16. Qd3 {[%emt 0:00:02]} Kh7 {
+[%emt 0:00:02]} 17. Rae1 {[%emt 0:00:02]} Qd7 {[%emt 0:00:05]} 18. f4 {[%emt 0:
+00:01]} Bxa4 {[%emt 0:00:04]} 19. Nxa4 {[%emt 0:00:03]} Qxa4 {[%emt 0:00:02]}
+20. e5 {[%emt 0:00:00]} dxe5 {[%emt 0:00:02]} 21. fxe5 {[%emt 0:00:01]} Ng8 {
+[%emt 0:00:06]} 22. Be4 {[%emt 0:00:05]} e6 {[%emt 0:00:03]} 23. Rxf7 {[%emt 0:
+00:02]} Rxf7 {[%emt 0:00:07]} 24. Bxg6+ {[%emt 0:00:01]} Kh8 {[%emt 0:00:00]}
+25. Bxf7 {[%emt 0:00:00]} Qd7 {[%emt 0:00:03]} 26. Bxg8 {[%emt 0:00:27]} Rxg8 {
+[%emt 0:00:02]} 27. Qe4 {[%emt 0:00:03]} Bf8 {[%emt 0:00:07]} 28. Qh4 {[%emt 0:
+00:03]} Rg6 {[%emt 0:00:05]} 29. Re4 {[%emt 0:00:02]} Bc5 {[%emt 0:00:08]} 30.
+Bxc5 {[%emt 0:00:09]} Qd2+ {[%emt 0:00:01]} 31. Kh1 {[%emt 0:00:01]} Qd1+ {
+[%emt 0:00:03]} 32. Bg1 {[%emt 0:00:03]} Qf3+ {[%emt 0:00:00]} 33. Kh2 {
+[%emt 0:00:01]} Rxg3 {[%emt 0:00:05]} 34. Qxh6+ {[%emt 0:00:01]} Kg8 {[%emt 0:
+00:03]} 35. Qxe6+ {[%emt 0:00:01]} Kg7 {[%emt 0:00:06]} 36. Rg4+ {[%emt 0:00:
+02]} Rxg4 {[%emt 0:00:02]} 37. Qxg4+ {[%emt 0:00:01]} Qxg4 {[%emt 0:00:01]} 38.
+hxg4 {[%emt 0:00:00] Anahi rinde  (Lag: Av=0.63s, max=1.0s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Anahi"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2345"]
+[BlackElo "2587"]
+[PlyCount "88"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. g4 {[%emt 0:00:03]} c5 {[%emt 0:00:00]} 2. Bg2 {[%emt 0:00:01]} Nc6 {
+[%emt 0:00:00]} 3. c4 {[%emt 0:00:03]} d6 {[%emt 0:00:01]} 4. h3 {[%emt 0:00:
+01]} h5 {[%emt 0:00:01]} 5. g5 {[%emt 0:00:02]} e5 {[%emt 0:00:01]} 6. d3 {
+[%emt 0:00:02]} Nge7 {[%emt 0:00:00]} 7. h4 {[%emt 0:00:02]} Ng6 {[%emt 0:00:
+00]} 8. Nc3 {[%emt 0:00:01]} Bg4 {[%emt 0:00:02]} 9. Nf3 {[%emt 0:00:06]} Be7 {
+[%emt 0:00:01]} 10. e3 {[%emt 0:00:03]} O-O {[%emt 0:00:01]} 11. Nd5 {[%emt 0:
+00:04]} f5 {[%emt 0:00:03]} 12. Qb3 {[%emt 0:00:11]} Rb8 {[%emt 0:00:05]} 13.
+Bd2 {[%emt 0:00:03]} e4 {[%emt 0:00:04]} 14. Ng1 {[%emt 0:00:07]} Nce5 {
+[%emt 0:00:03]} 15. Bf1 {[%emt 0:00:07]} Nf3+ {[%emt 0:00:11]} 16. Nxf3 {
+[%emt 0:00:02]} Bxf3 {[%emt 0:00:00]} 17. Rh2 {[%emt 0:00:03]} Ne5 {[%emt 0:00:
+01]} 18. Bc3 {[%emt 0:00:08]} Ng4 {[%emt 0:00:02]} 19. Rh3 {[%emt 0:00:03]} f4
+{[%emt 0:00:16]} 20. Nxf4 {[%emt 0:00:08]} Rxf4 {[%emt 0:00:02]} 21. exf4 {
+[%emt 0:00:01]} Qf8 {[%emt 0:00:07]} 22. Rxf3 {[%emt 0:00:01]} exf3 {[%emt 0:
+00:02]} 23. O-O-O {[%emt 0:00:05]} Nxf2 {[%emt 0:00:01]} 24. Kb1 {[%emt 0:00:
+00]} Nxd1 {[%emt 0:00:01]} 25. Qxd1 {[%emt 0:00:01]} Qxf4 {[%emt 0:00:01]} 26.
+d4 {[%emt 0:00:05]} Rf8 {[%emt 0:00:05]} 27. dxc5 {[%emt 0:00:02]} Qf5+ {
+[%emt 0:00:03]} 28. Ka1 {[%emt 0:00:04]} dxc5 {[%emt 0:00:01]} 29. a3 {[%emt 0:
+00:07]} f2 {[%emt 0:00:01]} 30. Qe2 {[%emt 0:00:07]} Bd6 {[%emt 0:00:07]} 31.
+Qxh5 {[%emt 0:00:02]} Be5 {[%emt 0:00:06]} 32. Bxe5 {[%emt 0:00:43]} Qxe5 {
+[%emt 0:00:02]} 33. Ka2 {[%emt 0:00:02] Anahi ofrece tablas} Rf4 {[%emt 0:00:
+19]} 34. a4 {[%emt 0:00:10]} Kf8 {[%emt 0:00:12]} 35. Qh8+ {[%emt 0:00:06]} Ke7
+{[%emt 0:00:00]} 36. Qc8 {[%emt 0:00:01]} Rd4 {[%emt 0:00:07] .} 37. Qxb7+ {
+[%emt 0:00:00]} Rd7 {[%emt 0:00:01]} 38. Qf3 {[%emt 0:00:00]} Qd4 {[%emt 0:00:
+03]} 39. Bh3 {[%emt 0:00:03]} Rd5 {[%emt 0:00:02] .} 40. cxd5 {[%emt 0:00:00]}
+Qc4+ {[%emt 0:00:01]} 41. Kb1 {[%emt 0:00:00]} Qxa4 {[%emt 0:00:02] .} 42. Bf1
+{[%emt 0:00:00]} Qd4 {[%emt 0:00:02] .} 43. Qd1 {[%emt 0:00:00]} Qe4+ {[%emt 0:
+00:03]} 44. Ka2 {[%emt 0:00:00] .} Qa4+ {[%emt 0:00:02] .  (Lag: Av=0.6s,
+max=1s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Zayats"]
+[Black "Anahi"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2617"]
+[BlackElo "2315"]
+[PlyCount "111"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. d4 {[%emt 0:00:00]} c5 {[%emt 0:00:03]} 2. dxc5 {[%emt 0:00:01]} e6 {
+[%emt 0:00:02]} 3. Be3 {[%emt 0:00:02]} Na6 {[%emt 0:00:03]} 4. Qd4 {[%emt 0:
+00:05]} Nxc5 {[%emt 0:00:04]} 5. Nc3 {[%emt 0:00:01]} d5 {[%emt 0:00:02]} 6.
+O-O-O {[%emt 0:00:01]} Nf6 {[%emt 0:00:01]} 7. Kb1 {[%emt 0:00:01]} a6 {
+[%emt 0:00:01]} 8. Qb4 {[%emt 0:00:03]} Ncd7 {[%emt 0:00:20]} 9. Qa4 {[%emt 0:
+00:02]} Be7 {[%emt 0:00:03]} 10. g4 {[%emt 0:00:02]} b5 {[%emt 0:00:10]} 11.
+Nxb5 {[%emt 0:00:01]} axb5 {[%emt 0:00:02]} 12. Qxa8 {[%emt 0:00:01]} Nxg4 {
+[%emt 0:00:00]} 13. Nf3 {[%emt 0:00:12]} Nxe3 {[%emt 0:00:02]} 14. fxe3 {
+[%emt 0:00:01]} O-O {[%emt 0:00:00]} 15. Rg1 {[%emt 0:00:01]} Nb6 {[%emt 0:00:
+07]} 16. Qa5 {[%emt 0:00:03]} Qc7 {[%emt 0:00:04]} 17. Nd4 {[%emt 0:00:04]} Bd7
+{[%emt 0:00:02]} 18. Nxb5 {[%emt 0:00:03]} Qc5 {[%emt 0:00:02]} 19. Qc3 {
+[%emt 0:00:03]} Qxc3 {[%emt 0:00:05]} 20. Nxc3 {[%emt 0:00:01]} Nc4 {[%emt 0:
+00:02]} 21. e4 {[%emt 0:00:03]} Rb8 {[%emt 0:00:09]} 22. b3 {[%emt 0:00:01]}
+Na3+ {[%emt 0:00:07]} 23. Kb2 {[%emt 0:00:02]} Bf6 {[%emt 0:00:06]} 24. exd5 {
+[%emt 0:00:10]} Nb5 {[%emt 0:00:01]} 25. Rg3 {[%emt 0:00:02]} Rc8 {[%emt 0:00:
+06]} 26. dxe6 {[%emt 0:00:09]} Bxe6 {[%emt 0:00:11]} 27. Rdd3 {[%emt 0:00:04]}
+Bf5 {[%emt 0:00:05]} 28. Rdf3 {[%emt 0:00:03]} Nxc3 {[%emt 0:00:04]} 29. Rxf5 {
+[%emt 0:00:04]} Nxe2+ {[%emt 0:00:06]} 30. Rxf6 {[%emt 0:00:02]} Nxg3 {[%emt 0:
+00:00]} 31. Rf3 {[%emt 0:00:04]} Ne4 {[%emt 0:00:04]} 32. Bc4 {[%emt 0:00:02]}
+Nd6 {[%emt 0:00:01]} 33. Bd5 {[%emt 0:00:01]} Rc5 {[%emt 0:00:02]} 34. c4 {
+[%emt 0:00:01]} g5 {[%emt 0:00:01]} 35. Kc3 {[%emt 0:00:01]} Kg7 {[%emt 0:00:
+03]} 36. Kd4 {[%emt 0:00:02]} Rc8 {[%emt 0:00:01]} 37. c5 {[%emt 0:00:01]} Nb5+
+{[%emt 0:00:02]} 38. Kc4 {[%emt 0:00:01]} Nd6+ {[%emt 0:00:01]} 39. Kd4 {
+[%emt 0:00:01]} Nb5+ {[%emt 0:00:01]} 40. Ke5 {[%emt 0:00:02]} Re8+ {[%emt 0:
+00:03]} 41. Kf5 {[%emt 0:00:03]} Nd4+ {[%emt 0:00:01]} 42. Kg4 {[%emt 0:00:00]}
+Nxf3 {[%emt 0:00:03]} 43. Bxf3 {[%emt 0:00:02]} Kg6 {[%emt 0:00:03]} 44. b4 {
+[%emt 0:00:06]} f5+ {[%emt 0:00:00]} 45. Kg3 {[%emt 0:00:01]} Re3 {[%emt 0:00:
+00]} 46. Kf2 {[%emt 0:00:05]} Rc3 {[%emt 0:00:01]} 47. c6 {[%emt 0:00:02]} g4 {
+[%emt 0:00:02]} 48. Bd5 {[%emt 0:00:01]} Kf6 {[%emt 0:00:03]} 49. b5 {[%emt 0:
+00:01]} Ke5 {[%emt 0:00:04]} 50. Bh1 {[%emt 0:00:09]} Kd6 {[%emt 0:00:01]} 51.
+b6 {[%emt 0:00:01]} f4 {[%emt 0:00:03]} 52. Be4 {[%emt 0:00:05]} h5 {[%emt 0:
+00:02]} 53. c7 {[%emt 0:00:04]} h4 {[%emt 0:00:08]} 54. Bf5 {[%emt 0:00:02]}
+g3+ {[%emt 0:00:02]} 55. hxg3 {[%emt 0:00:01] .} hxg3+ {[%emt 0:00:00]} 56. Kg2
+{[%emt 0:00:00] Tiempo  (Lag: Av=0.65s, max=0.8s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Zayats"]
+[Black "HJD"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2623"]
+[BlackElo "2313"]
+[PlyCount "57"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:02]} 2. c3 {[%emt 0:00:01]} Nf6 {[%emt 0:
+00:01]} 3. e5 {[%emt 0:00:02]} Nd5 {[%emt 0:00:00]} 4. d4 {[%emt 0:00:00]} cxd4
+{[%emt 0:00:01]} 5. Qxd4 {[%emt 0:00:00]} e6 {[%emt 0:00:02]} 6. Qe4 {[%emt 0:
+00:00]} Nc6 {[%emt 0:00:02]} 7. Nf3 {[%emt 0:00:01]} b6 {[%emt 0:00:02]} 8.
+Nbd2 {[%emt 0:00:02]} Bb7 {[%emt 0:00:01]} 9. g3 {[%emt 0:00:01]} Qc7 {[%emt 0:
+00:02]} 10. Bg2 {[%emt 0:00:01]} Nde7 {[%emt 0:00:03]} 11. O-O {[%emt 0:00:03]}
+Ng6 {[%emt 0:00:01]} 12. Nd4 {[%emt 0:00:06]} Ngxe5 {[%emt 0:00:12]} 13. Nb5 {
+[%emt 0:00:01]} Qb8 {[%emt 0:00:04]} 14. Nc4 {[%emt 0:00:04]} Nxc4 {[%emt 0:00:
+04]} 15. Qxc4 {[%emt 0:00:01]} d5 {[%emt 0:00:04]} 16. Qf4 {[%emt 0:00:04]}
+Qxf4 {[%emt 0:00:12]} 17. Bxf4 {[%emt 0:00:00]} Kd7 {[%emt 0:00:04]} 18. c4 {
+[%emt 0:00:02]} a6 {[%emt 0:00:19]} 19. cxd5 {[%emt 0:00:01]} exd5 {[%emt 0:00:
+05]} 20. Nc3 {[%emt 0:00:02]} d4 {[%emt 0:00:02]} 21. Nd5 {[%emt 0:00:03]} Bc5
+{[%emt 0:00:02]} 22. b4 {[%emt 0:00:03]} Nxb4 {[%emt 0:00:06]} 23. Nxb6+ {
+[%emt 0:00:01]} Bxb6 {[%emt 0:00:04]} 24. Bxb7 {[%emt 0:00:00]} Rab8 {[%emt 0:
+00:02]} 25. Bxb8 {[%emt 0:00:02]} Rxb8 {[%emt 0:00:01]} 26. Rab1 {[%emt 0:00:
+00]} Bc5 {[%emt 0:00:04]} 27. Bg2 {[%emt 0:00:07]} Rd8 {[%emt 0:00:12]} 28. a3
+{[%emt 0:00:02]} Nd5 {[%emt 0:00:01]} 29. Bxd5 {[%emt 0:00:04] HJD gibt auf  
+(Lag: Av=1.23s, max=18.6s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.27"]
+[Round "?"]
+[White "Zayats"]
+[Black "OldInChess"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2629"]
+[BlackElo "2525"]
+[PlyCount "70"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} d5 {[%emt 0:00:01]} 2. exd5 {[%emt 0:00:03]} Nf6 {
+[%emt 0:00:01]} 3. d4 {[%emt 0:00:02]} Nxd5 {[%emt 0:00:02]} 4. c4 {[%emt 0:00:
+01]} Nf6 {[%emt 0:00:05]} 5. Nc3 {[%emt 0:00:00]} c6 {[%emt 0:00:03]} 6. Nf3 {
+[%emt 0:00:03]} Bg4 {[%emt 0:00:02]} 7. Be2 {[%emt 0:00:02]} e6 {[%emt 0:00:02]
+} 8. O-O {[%emt 0:00:02]} Bd6 {[%emt 0:00:02]} 9. c5 {[%emt 0:00:04]} Bc7 {
+[%emt 0:00:03]} 10. Bg5 {[%emt 0:00:01]} h6 {[%emt 0:00:03]} 11. Bh4 {[%emt 0:
+00:01]} O-O {[%emt 0:00:04]} 12. h3 {[%emt 0:00:07]} Bxf3 {[%emt 0:00:01]} 13.
+Bxf3 {[%emt 0:00:01]} Na6 {[%emt 0:00:06]} 14. a3 {[%emt 0:00:03]} g5 {[%emt 0:
+00:07]} 15. Bg3 {[%emt 0:00:02]} Bxg3 {[%emt 0:00:02]} 16. fxg3 {[%emt 0:00:00]
+} Nc7 {[%emt 0:00:04]} 17. b4 {[%emt 0:00:01]} a5 {[%emt 0:00:05]} 18. b5 {
+[%emt 0:00:02]} Nfd5 {[%emt 0:00:02]} 19. Bxd5 {[%emt 0:00:07]} Nxd5 {[%emt 0:
+00:06]} 20. Ne4 {[%emt 0:00:04]} cxb5 {[%emt 0:00:04]} 21. Qh5 {[%emt 0:00:04]
+OldInChess offers a draw} Kg7 {[%emt 0:00:05]} 22. Nd6 {[%emt 0:00:02]} Qd7 {
+[%emt 0:00:04]} 23. Rae1 {[%emt 0:00:03]} b4 {[%emt 0:00:06]} 24. h4 {[%emt 0:
+00:03]} gxh4 {[%emt 0:00:07]} 25. Qg4+ {[%emt 0:00:02]} Kh7 {[%emt 0:00:04]}
+26. axb4 {[%emt 0:00:04]} f5 {[%emt 0:00:06]} 27. Qxh4 {[%emt 0:00:04]} axb4 {
+[%emt 0:00:03]} 28. Re5 {[%emt 0:00:06]} b3 {[%emt 0:00:05]} 29. Rb1 {[%emt 0:
+00:08]} b6 {[%emt 0:00:01]} 30. Rxb3 {[%emt 0:00:02]} Ra1+ {[%emt 0:00:05]} 31.
+Kh2 {[%emt 0:00:01]} Nf6 {[%emt 0:00:04]} 32. Rf3 {[%emt 0:00:08]} Qg7 {
+[%emt 0:00:07]} 33. Rf4 {[%emt 0:00:12]} Ng4+ {[%emt 0:00:02]} 34. Rxg4 {
+[%emt 0:00:01]} fxg4 {[%emt 0:00:03]} 35. Rxe6 {[%emt 0:00:22]} Rff1 {[%emt 0:
+00:11] Zayats gibt auf  (Lag: Av=0.96s, max=2.1s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.28"]
+[Round "?"]
+[White "Akebono"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "D06"]
+[WhiteElo "2316"]
+[BlackElo "2603"]
+[PlyCount "88"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. d4 {[%emt 0:00:00]} d5 {[%emt 0:00:01]} 2. c4 {[%emt 0:00:00]} c5 {[%emt 0:
+00:00]} 3. cxd5 {[%emt 0:00:01]} Nf6 {[%emt 0:00:01]} 4. Nf3 {[%emt 0:00:01]}
+cxd4 {[%emt 0:00:01]} 5. Qa4+ {[%emt 0:00:07]} Qd7 {[%emt 0:00:01]} 6. Qxd4 {
+[%emt 0:00:05]} Qxd5 {[%emt 0:00:00]} 7. Nc3 {[%emt 0:00:02]} Qxd4 {[%emt 0:00:
+01]} 8. Nxd4 {[%emt 0:00:00]} a6 {[%emt 0:00:00]} 9. e4 {[%emt 0:00:02]} e5 {
+[%emt 0:00:01]} 10. Nde2 {[%emt 0:00:03]} Nc6 {[%emt 0:00:01]} 11. g3 {[%emt 0:
+00:01]} Bc5 {[%emt 0:00:01]} 12. Bg2 {[%emt 0:00:01]} Be6 {[%emt 0:00:02]} 13.
+Bg5 {[%emt 0:00:01]} Ng4 {[%emt 0:00:01]} 14. O-O {[%emt 0:00:00]} O-O {
+[%emt 0:00:02]} 15. h3 {[%emt 0:00:01]} Nxf2 {[%emt 0:00:01]} 16. Rxf2 {
+[%emt 0:00:01]} f5 {[%emt 0:00:01]} 17. Kf1 {[%emt 0:00:12]} h6 {[%emt 0:00:04]
+} 18. Bd2 {[%emt 0:00:18]} Bxf2 {[%emt 0:00:01]} 19. Kxf2 {[%emt 0:00:01]} Rad8
+{[%emt 0:00:04]} 20. Ke1 {[%emt 0:00:07]} Nb4 {[%emt 0:00:03]} 21. Kd1 {
+[%emt 0:00:13]} Nd3 {[%emt 0:00:04]} 22. Kc2 {[%emt 0:00:06]} Nb4+ {[%emt 0:00:
+02]} 23. Kc1 {[%emt 0:00:04]} Rf7 {[%emt 0:00:02]} 24. a3 {[%emt 0:00:01]} Nd3+
+{[%emt 0:00:02]} 25. Kc2 {[%emt 0:00:01]} Rfd7 {[%emt 0:00:02]} 26. Rf1 {
+[%emt 0:00:03]} Nc5 {[%emt 0:00:03]} 27. Be3 {[%emt 0:00:04]} Bb3+ {[%emt 0:00:
+01]} 28. Kb1 {[%emt 0:00:06]} Nxe4 {[%emt 0:00:01]} 29. Bxe4 {[%emt 0:00:08]}
+fxe4 {[%emt 0:00:02]} 30. g4 {[%emt 0:00:16]} Rd3 {[%emt 0:00:02]} 31. Bc1 {
+[%emt 0:00:02]} Rxh3 {[%emt 0:00:03]} 32. Nxe4 {[%emt 0:00:02]} Bc4 {[%emt 0:
+00:01]} 33. Re1 {[%emt 0:00:03]} Bd3+ {[%emt 0:00:01]} 34. Ka1 {[%emt 0:00:04]}
+Bxe4 {[%emt 0:00:01]} 35. Nc3 {[%emt 0:00:01]} Rxc3 {[%emt 0:00:02]} 36. bxc3 {
+[%emt 0:00:02]} Bf3 {[%emt 0:00:01]} 37. Rxe5 {[%emt 0:00:01]} Bxg4 {[%emt 0:
+00:02]} 38. Re7 {[%emt 0:00:01]} Rd7 {[%emt 0:00:00]} 39. Re8+ {[%emt 0:00:02]}
+Kf7 {[%emt 0:00:01]} 40. Re4 {[%emt 0:00:00]} Rd1 {[%emt 0:00:02]} 41. Kb2 {
+[%emt 0:00:03]} Bf5 {[%emt 0:00:02]} 42. Rf4 {[%emt 0:00:01]} Ke6 {[%emt 0:00:
+01]} 43. c4 {[%emt 0:00:00]} g5 {[%emt 0:00:01]} 44. Rd4 {[%emt 0:00:01]} Rxd4
+{[%emt 0:00:03] Akebono gibt auf  (Lag: Av=0.56s, max=0.8s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.28"]
+[Round "?"]
+[White "Zayats"]
+[Black "Akebono"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2603"]
+[BlackElo "2316"]
+[PlyCount "110"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} e6 {[%emt 0:00:01]} 2. c4 {[%emt 0:00:19]} d5 {[%emt 0:
+00:02]} 3. cxd5 {[%emt 0:00:01]} exd5 {[%emt 0:00:01]} 4. exd5 {[%emt 0:00:00]}
+Nf6 {[%emt 0:00:02]} 5. Nc3 {[%emt 0:00:00]} Bd6 {[%emt 0:00:01]} 6. Bc4 {
+[%emt 0:00:02]} O-O {[%emt 0:00:01]} 7. Nge2 {[%emt 0:00:00]} Nbd7 {[%emt 0:00:
+03]} 8. d4 {[%emt 0:00:00]} Re8 {[%emt 0:00:01]} 9. Bg5 {[%emt 0:00:02]} h6 {
+[%emt 0:00:02]} 10. Bh4 {[%emt 0:00:01]} a6 {[%emt 0:00:01]} 11. Bb3 {[%emt 0:
+00:01]} Nf8 {[%emt 0:00:01]} 12. O-O {[%emt 0:00:02]} Bf5 {[%emt 0:00:02]} 13.
+Ng3 {[%emt 0:00:04]} Bh7 {[%emt 0:00:01]} 14. Nh5 {[%emt 0:00:05]} N8d7 {
+[%emt 0:00:01]} 15. Qf3 {[%emt 0:00:06]} g5 {[%emt 0:00:02]} 16. Bg3 {[%emt 0:
+00:05]} Nxh5 {[%emt 0:00:04]} 17. Qxh5 {[%emt 0:00:02]} Qf6 {[%emt 0:00:03]}
+18. Rae1 {[%emt 0:00:06]} Qxd4 {[%emt 0:00:08]} 19. Qxh6 {[%emt 0:00:03]} Qg7 {
+[%emt 0:00:07]} 20. Qxg7+ {[%emt 0:00:06]} Kxg7 {[%emt 0:00:00]} 21. Bxd6 {
+[%emt 0:00:05]} cxd6 {[%emt 0:00:01]} 22. f3 {[%emt 0:00:02]} Nc5 {[%emt 0:00:
+03]} 23. Bc4 {[%emt 0:00:20]} Bd3 {[%emt 0:00:08]} 24. Bxd3 {[%emt 0:00:05]}
+Nxd3 {[%emt 0:00:01]} 25. Rxe8 {[%emt 0:00:04]} Rxe8 {[%emt 0:00:00]} 26. Rb1 {
+[%emt 0:00:04]} b5 {[%emt 0:00:04]} 27. a3 {[%emt 0:00:01]} b4 {[%emt 0:00:12]}
+28. axb4 {[%emt 0:00:02]} Nxb4 {[%emt 0:00:00]} 29. Rd1 {[%emt 0:00:02]} Rb8 {
+[%emt 0:00:07]} 30. Kf2 {[%emt 0:00:03]} a5 {[%emt 0:00:01]} 31. Rd2 {[%emt 0:
+00:01]} Na6 {[%emt 0:00:01]} 32. Ne4 {[%emt 0:00:02]} Rb6 {[%emt 0:00:06]} 33.
+Nxg5 {[%emt 0:00:01]} Nc5 {[%emt 0:00:02]} 34. Ne4 {[%emt 0:00:00]} Nb3 {
+[%emt 0:00:01]} 35. Rd1 {[%emt 0:00:03]} a4 {[%emt 0:00:01]} 36. Ke3 {[%emt 0:
+00:05]} f5 {[%emt 0:00:05]} 37. Nc3 {[%emt 0:00:01]} Rb4 {[%emt 0:00:02]} 38.
+Kd3 {[%emt 0:00:05]} Nc5+ {[%emt 0:00:01]} 39. Kc2 {[%emt 0:00:01]} Nb3 {
+[%emt 0:00:02]} 40. Nxa4 {[%emt 0:00:06]} Na5 {[%emt 0:00:21]} 41. Nc3 {
+[%emt 0:00:02]} Nb3 {[%emt 0:00:01]} 42. g3 {[%emt 0:00:04]} Nd4+ {[%emt 0:00:
+03]} 43. Kc1 {[%emt 0:00:08]} Nxf3 {[%emt 0:00:01]} 44. Rf1 {[%emt 0:00:02]}
+Nd4 {[%emt 0:00:02]} 45. Rf4 {[%emt 0:00:03]} Kg6 {[%emt 0:00:01]} 46. Kb1 {
+[%emt 0:00:07]} Kg5 {[%emt 0:00:06]} 47. h4+ {[%emt 0:00:01]} Kg6 {[%emt 0:00:
+02]} 48. Ka2 {[%emt 0:00:03]} Rc4 {[%emt 0:00:03]} 49. Ne2 {[%emt 0:00:07]}
+Ra4+ {[%emt 0:00:02]} 50. Kb1 {[%emt 0:00:01]} Nxe2 {[%emt 0:00:02]} 51. Rxa4 {
+[%emt 0:00:01]} Nxg3 {[%emt 0:00:00]} 52. Ra6 {[%emt 0:00:00]} Kh5 {[%emt 0:00:
+01]} 53. b4 {[%emt 0:00:00]} Kxh4 {[%emt 0:00:00]} 54. Rxd6 {[%emt 0:00:00]}
+Ne4 {[%emt 0:00:01]} 55. Rh6+ {[%emt 0:00:01] .} Kg5 {[%emt 0:00:01] Zeit  
+(Lag: Av=0.59s, max=0.8s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.28"]
+[Round "?"]
+[White "Akebono"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "D06"]
+[WhiteElo "2316"]
+[BlackElo "2603"]
+[PlyCount "146"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. d4 {[%emt 0:00:00]} d5 {[%emt 0:00:01]} 2. c4 {[%emt 0:00:00]} c5 {[%emt 0:
+00:00]} 3. cxd5 {[%emt 0:00:02]} Nf6 {[%emt 0:00:00]} 4. dxc5 {[%emt 0:00:01]}
+Qxd5 {[%emt 0:00:02]} 5. Qxd5 {[%emt 0:00:01]} Nxd5 {[%emt 0:00:00]} 6. a3 {
+[%emt 0:00:01]} Nc6 {[%emt 0:00:02]} 7. Nf3 {[%emt 0:00:01]} e5 {[%emt 0:00:01]
+} 8. e4 {[%emt 0:00:02]} Nf6 {[%emt 0:00:01]} 9. Nc3 {[%emt 0:00:02]} Bxc5 {
+[%emt 0:00:02]} 10. Bb5 {[%emt 0:00:02]} Ng4 {[%emt 0:00:01]} 11. O-O {[%emt 0:
+00:03]} Bd7 {[%emt 0:00:01]} 12. h3 {[%emt 0:00:04]} Nxf2 {[%emt 0:00:01]} 13.
+Rxf2 {[%emt 0:00:01]} O-O {[%emt 0:00:02]} 14. Nd5 {[%emt 0:00:11]} f5 {
+[%emt 0:00:10]} 15. Be3 {[%emt 0:00:12]} Bd6 {[%emt 0:00:26]} 16. Bxc6 {
+[%emt 0:00:16]} bxc6 {[%emt 0:00:02]} 17. Nc3 {[%emt 0:00:01]} f4 {[%emt 0:00:
+01]} 18. Bd2 {[%emt 0:00:12]} Bc5 {[%emt 0:00:02]} 19. Kf1 {[%emt 0:00:01]}
+Bxf2 {[%emt 0:00:03]} 20. Kxf2 {[%emt 0:00:00]} Rfe8 {[%emt 0:00:03]} 21. Rd1 {
+[%emt 0:00:03]} Rab8 {[%emt 0:00:04]} 22. Bc1 {[%emt 0:00:03]} Be6 {[%emt 0:00:
+02]} 23. Rd6 {[%emt 0:00:03]} c5 {[%emt 0:00:18]} 24. Nd5 {[%emt 0:00:06]} Rbd8
+{[%emt 0:00:09]} 25. Rxd8 {[%emt 0:00:13]} Rxd8 {[%emt 0:00:00]} 26. Nc3 {
+[%emt 0:00:02]} g5 {[%emt 0:00:11]} 27. Nxe5 {[%emt 0:00:02]} h6 {[%emt 0:00:
+01]} 28. Nc6 {[%emt 0:00:09]} Rd7 {[%emt 0:00:01]} 29. Ne5 {[%emt 0:00:01]} Rd6
+{[%emt 0:00:03]} 30. Nf3 {[%emt 0:00:04]} Kf7 {[%emt 0:00:02]} 31. Nd2 {
+[%emt 0:00:01]} Rd3 {[%emt 0:00:02]} 32. Nf3 {[%emt 0:00:02]} Rd8 {[%emt 0:00:
+03]} 33. Ne5+ {[%emt 0:00:01]} Kg7 {[%emt 0:00:02]} 34. Nc6 {[%emt 0:00:01]}
+Rd7 {[%emt 0:00:01]} 35. Ne5 {[%emt 0:00:06]} Rd6 {[%emt 0:00:01]} 36. Nf3 {
+[%emt 0:00:01]} Bf7 {[%emt 0:00:01]} 37. e5 {[%emt 0:00:05]} Rd3 {[%emt 0:00:
+01]} 38. Ne1 {[%emt 0:00:04]} Rd8 {[%emt 0:00:04]} 39. Nf3 {[%emt 0:00:02]} Bg6
+{[%emt 0:00:01]} 40. Ne1 {[%emt 0:00:01]} Kf7 {[%emt 0:00:02]} 41. Nf3 {
+[%emt 0:00:01]} Ke6 {[%emt 0:00:01]} 42. Ke2 {[%emt 0:00:01]} Bd3+ {[%emt 0:00:
+02]} 43. Kf2 {[%emt 0:00:01]} Ba6 {[%emt 0:00:01]} 44. Bd2 {[%emt 0:00:01]} Bb7
+{[%emt 0:00:01]} 45. Be1 {[%emt 0:00:01]} Rg8 {[%emt 0:00:03]} 46. Na4 {
+[%emt 0:00:04]} Kd5 {[%emt 0:00:02]} 47. b4 {[%emt 0:00:03]} c4 {[%emt 0:00:01]
+} 48. Nc3+ {[%emt 0:00:01]} Ke6 {[%emt 0:00:01]} 49. Ne2 {[%emt 0:00:01]} Bxf3
+{[%emt 0:00:02]} 50. Nd4+ {[%emt 0:00:00]} Kxe5 {[%emt 0:00:01]} 51. Nxf3+ {
+[%emt 0:00:01]} Ke4 {[%emt 0:00:01]} 52. Bc3 {[%emt 0:00:01]} Kd3 {[%emt 0:00:
+01]} 53. Bf6 {[%emt 0:00:04]} c3 {[%emt 0:00:00]} 54. Bxc3 {[%emt 0:00:02]}
+Kxc3 {[%emt 0:00:01]} 55. b5 {[%emt 0:00:00]} Kb3 {[%emt 0:00:01]} 56. Nd4+ {
+[%emt 0:00:02]} Kxa3 {[%emt 0:00:01]} 57. Nc6 {[%emt 0:00:00]} Rg7 {[%emt 0:00:
+02]} 58. Nd8 {[%emt 0:00:01]} Ka4 {[%emt 0:00:02]} 59. Ne6 {[%emt 0:00:00]} Rh7
+{[%emt 0:00:02]} 60. Nd4 {[%emt 0:00:00]} Kb4 {[%emt 0:00:02]} 61. h4 {[%emt 0:
+00:00]} Kc4 {[%emt 0:00:01]} 62. hxg5 {[%emt 0:00:00]} Kxd4 {[%emt 0:00:01]}
+63. g6 {[%emt 0:00:01]} Rg7 {[%emt 0:00:00]} 64. Kf3 {[%emt 0:00:00]} Rxg6 {
+[%emt 0:00:00]} 65. Kxf4 {[%emt 0:00:00]} Rb6 {[%emt 0:00:00]} 66. g4 {[%emt 0:
+00:02]} Rxb5 {[%emt 0:00:00]} 67. Kg3 {[%emt 0:00:01]} Rg5 {[%emt 0:00:00]} 68.
+Kh4 {[%emt 0:00:00]} Ke3 {[%emt 0:00:01]} 69. Kg3 {[%emt 0:00:01]} h5 {[%emt 0:
+00:01]} 70. Kh4 {[%emt 0:00:02]} Kf4 {[%emt 0:00:01]} 71. gxh5 {[%emt 0:00:01]}
+Rg1 {[%emt 0:00:01]} 72. Kh3 {[%emt 0:00:01]} Kf3 {[%emt 0:00:01]} 73. Kh2 {
+[%emt 0:00:01]} Rg5 {[%emt 0:00:02] Zeit  (Lag: Av=0.68s, max=20.3s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.28"]
+[Round "?"]
+[White "Zayats"]
+[Black "Akebono"]
+[Result "1-0"]
+[ECO "A02"]
+[WhiteElo "2584"]
+[BlackElo "2335"]
+[PlyCount "135"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. f4 {[%emt 0:00:04]} f6 {[%emt 0:00:01]} 2. e4 {[%emt 0:00:02]} g6 {[%emt 0:
+00:03]} 3. h4 {[%emt 0:00:02]} h5 {[%emt 0:00:02]} 4. Bd3 {[%emt 0:00:02]} e6 {
+[%emt 0:00:02]} 5. Nf3 {[%emt 0:00:02]} Bg7 {[%emt 0:00:01]} 6. O-O {[%emt 0:
+00:01]} Ne7 {[%emt 0:00:01]} 7. Qe1 {[%emt 0:00:01]} O-O {[%emt 0:00:01]} 8.
+Qg3 {[%emt 0:00:01]} Nbc6 {[%emt 0:00:12]} 9. a3 {[%emt 0:00:01]} e5 {[%emt 0:
+00:07]} 10. Nc3 {[%emt 0:00:08]} d6 {[%emt 0:00:02]} 11. Bc4+ {[%emt 0:00:04]}
+Kh7 {[%emt 0:00:03]} 12. d3 {[%emt 0:00:01]} Bg4 {[%emt 0:00:01]} 13. Nh2 {
+[%emt 0:00:02]} Bd7 {[%emt 0:00:04]} 14. f5 {[%emt 0:00:01]} Be8 {[%emt 0:00:
+02]} 15. Qf3 {[%emt 0:00:11]} Nd4 {[%emt 0:00:02]} 16. Qf2 {[%emt 0:00:02]}
+gxf5 {[%emt 0:00:04]} 17. Be3 {[%emt 0:00:03]} fxe4 {[%emt 0:00:13]} 18. Nxe4 {
+[%emt 0:00:02]} Nef5 {[%emt 0:00:08]} 19. Bxd4 {[%emt 0:00:02]} Nxd4 {[%emt 0:
+00:01]} 20. c3 {[%emt 0:00:00]} Ne6 {[%emt 0:00:02]} 21. Bxe6 {[%emt 0:00:04]}
+d5 {[%emt 0:00:09]} 22. Ng3 {[%emt 0:00:04]} Kh8 {[%emt 0:00:11]} 23. Qf3 {
+[%emt 0:00:03]} Qd6 {[%emt 0:00:04]} 24. Bf5 {[%emt 0:00:02]} e4 {[%emt 0:00:
+01]} 25. dxe4 {[%emt 0:00:01]} dxe4 {[%emt 0:00:01]} 26. Nxe4 {[%emt 0:00:02]}
+Qe5 {[%emt 0:00:05]} 27. Rae1 {[%emt 0:00:03]} Bf7 {[%emt 0:00:02]} 28. Kh1 {
+[%emt 0:00:15]} Rfe8 {[%emt 0:00:04]} 29. Ng5 {[%emt 0:00:03]} Qd5 {[%emt 0:00:
+02]} 30. Nxf7+ {[%emt 0:00:04]} Qxf7 {[%emt 0:00:01]} 31. Qg3 {[%emt 0:00:02]}
+Bh6 {[%emt 0:00:06]} 32. Bg6 {[%emt 0:00:03]} Qg7 {[%emt 0:00:01]} 33. Rxe8+ {
+[%emt 0:00:06]} Rxe8 {[%emt 0:00:01]} 34. Rxf6 {[%emt 0:00:05]} Rg8 {[%emt 0:
+00:09]} 35. Qe5 {[%emt 0:00:10]} Bc1 {[%emt 0:00:07]} 36. Qxh5+ {[%emt 0:00:05]
+} Qh6 {[%emt 0:00:02]} 37. Nf3 {[%emt 0:00:05]} Qxh5 {[%emt 0:00:04]} 38. Bxh5
+{[%emt 0:00:01]} Bxb2 {[%emt 0:00:02]} 39. Nd4 {[%emt 0:00:12]} Bxc3 {[%emt 0:
+00:05]} 40. Rh6+ {[%emt 0:00:01]} Kg7 {[%emt 0:00:01]} 41. Rg6+ {[%emt 0:00:01]
+} Kf8 {[%emt 0:00:01]} 42. Ne6+ {[%emt 0:00:01]} Kf7 {[%emt 0:00:03]} 43. Ng5+
+{[%emt 0:00:01]} Kf8 {[%emt 0:00:01]} 44. Nh7+ {[%emt 0:00:01]} Kf7 {[%emt 0:
+00:02]} 45. Rg3+ {[%emt 0:00:01]} Ke6 {[%emt 0:00:02]} 46. Rxg8 {[%emt 0:00:01]
+} Be5 {[%emt 0:00:02]} 47. Ng5+ {[%emt 0:00:01]} Kd5 {[%emt 0:00:00]} 48. Rd8+
+{[%emt 0:00:02]} Kc5 {[%emt 0:00:03]} 49. Ne4+ {[%emt 0:00:02]} Kb6 {[%emt 0:
+00:01]} 50. Rd5 {[%emt 0:00:02]} Bf4 {[%emt 0:00:02]} 51. Nc5 {[%emt 0:00:01]}
+c6 {[%emt 0:00:01]} 52. Nd7+ {[%emt 0:00:01]} Ka6 {[%emt 0:00:00]} 53. Rf5 {
+[%emt 0:00:01]} Bc7 {[%emt 0:00:02]} 54. Be2+ {[%emt 0:00:01]} b5 {[%emt 0:00:
+01]} 55. Nc5+ {[%emt 0:00:02]} Kb6 {[%emt 0:00:01]} 56. a4 {[%emt 0:00:01]} a6
+{[%emt 0:00:01]} 57. a5+ {[%emt 0:00:01]} Kxa5 {[%emt 0:00:01]} 58. Rf6 {
+[%emt 0:00:00]} Kb6 {[%emt 0:00:01]} 59. Nd7+ {[%emt 0:00:01]} Kb7 {[%emt 0:00:
+01]} 60. Bf3 {[%emt 0:00:01]} a5 {[%emt 0:00:01]} 61. Bxc6+ {[%emt 0:00:00]}
+Kc8 {[%emt 0:00:01]} 62. Bxb5 {[%emt 0:00:01]} a4 {[%emt 0:00:01]} 63. Bxa4 {
+[%emt 0:00:01]} Kd8 {[%emt 0:00:00]} 64. h5 {[%emt 0:00:01]} Ke7 {[%emt 0:00:
+00]} 65. h6 {[%emt 0:00:01]} Be5 {[%emt 0:00:01]} 66. h7 {[%emt 0:00:01]} Bxf6
+{[%emt 0:00:01]} 67. Nxf6 {[%emt 0:00:00]} Kxf6 {[%emt 0:00:00]} 68. h8=Q+ {
+[%emt 0:00:00] Zeit  (Lag: Av=0.66s, max=17.1s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.07.28"]
+[Round "?"]
+[White "Akebono"]
+[Black "Zayats"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "2335"]
+[BlackElo "2584"]
+[PlyCount "164"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. d4 {[%emt 0:00:01]} b5 {[%emt 0:00:01]} 2. c4 {[%emt 0:00:00]} bxc4 {
+[%emt 0:00:02]} 3. Nc3 {[%emt 0:00:01]} d5 {[%emt 0:00:01]} 4. e4 {[%emt 0:00:
+01]} c6 {[%emt 0:00:00]} 5. Nf3 {[%emt 0:00:04]} e6 {[%emt 0:00:01]} 6. g3 {
+[%emt 0:00:01]} Nf6 {[%emt 0:00:01]} 7. Bg2 {[%emt 0:00:02]} dxe4 {[%emt 0:00:
+01]} 8. Ng5 {[%emt 0:00:01]} c5 {[%emt 0:00:03]} 9. Ngxe4 {[%emt 0:00:06]} cxd4
+{[%emt 0:00:01]} 10. Nxf6+ {[%emt 0:00:01]} Qxf6 {[%emt 0:00:00]} 11. Bxa8 {
+[%emt 0:00:03]} dxc3 {[%emt 0:00:01]} 12. bxc3 {[%emt 0:00:02]} Qxc3+ {[%emt 0:
+00:07]} 13. Bd2 {[%emt 0:00:01]} Qd3 {[%emt 0:00:06]} 14. Qe2 {[%emt 0:00:07]}
+Qxe2+ {[%emt 0:00:03]} 15. Kxe2 {[%emt 0:00:01]} Bc5 {[%emt 0:00:01]} 16. Bf4 {
+[%emt 0:00:09]} Nd7 {[%emt 0:00:02]} 17. Bc6 {[%emt 0:00:02]} Ke7 {[%emt 0:00:
+01]} 18. Rac1 {[%emt 0:00:03]} Nb6 {[%emt 0:00:01]} 19. Rhd1 {[%emt 0:00:02]}
+Ba6 {[%emt 0:00:02]} 20. Kf1 {[%emt 0:00:04]} Rc8 {[%emt 0:00:02]} 21. Bf3 {
+[%emt 0:00:05]} Ba3 {[%emt 0:00:02]} 22. Rc3 {[%emt 0:00:04]} Bb4 {[%emt 0:00:
+01]} 23. Rc2 {[%emt 0:00:02]} f6 {[%emt 0:00:07]} 24. Be2 {[%emt 0:00:01]} e5 {
+[%emt 0:00:02]} 25. Be3 {[%emt 0:00:01]} Bc5 {[%emt 0:00:08]} 26. Bxc5+ {
+[%emt 0:00:01]} Rxc5 {[%emt 0:00:01]} 27. Ke1 {[%emt 0:00:10]} Bc8 {[%emt 0:00:
+03]} 28. Bf3 {[%emt 0:00:04]} Bf5 {[%emt 0:00:02]} 29. Rcc1 {[%emt 0:00:03]}
+Ra5 {[%emt 0:00:02]} 30. Rd2 {[%emt 0:00:03]} Be6 {[%emt 0:00:03]} 31. Rc3 {
+[%emt 0:00:05]} Na4 {[%emt 0:00:02]} 32. Ra3 {[%emt 0:00:01]} Bd7 {[%emt 0:00:
+07]} 33. Bd1 {[%emt 0:00:03]} Bc6 {[%emt 0:00:08]} 34. Bxa4 {[%emt 0:00:02]}
+Rxa4 {[%emt 0:00:03]} 35. Rxa4 {[%emt 0:00:01]} Bxa4 {[%emt 0:00:00]} 36. Rd5 {
+[%emt 0:00:05]} a6 {[%emt 0:00:13]} 37. Kd2 {[%emt 0:00:02]} Bb5 {[%emt 0:00:
+05]} 38. Kc3 {[%emt 0:00:01]} h5 {[%emt 0:00:03]} 39. h4 {[%emt 0:00:01]} Ke6 {
+[%emt 0:00:01]} 40. Rd8 {[%emt 0:00:01]} g5 {[%emt 0:00:00]} 41. Rh8 {[%emt 0:
+00:03]} Kf5 {[%emt 0:00:03]} 42. Rxh5 {[%emt 0:00:01]} Kg4 {[%emt 0:00:01]} 43.
+Rh8 {[%emt 0:00:01]} gxh4 {[%emt 0:00:03]} 44. gxh4 {[%emt 0:00:03]} f5 {
+[%emt 0:00:01]} 45. h5 {[%emt 0:00:01]} Kg5 {[%emt 0:00:02]} 46. h6 {[%emt 0:
+00:05]} Kg6 {[%emt 0:00:01]} 47. h7 {[%emt 0:00:08]} f4 {[%emt 0:00:07]} 48.
+Re8 {[%emt 0:00:03]} Kxh7 {[%emt 0:00:01]} 49. Rxe5 {[%emt 0:00:01]} Kg6 {
+[%emt 0:00:00]} 50. Kb4 {[%emt 0:00:07]} Kf6 {[%emt 0:00:02]} 51. Rc5 {[%emt 0:
+00:00]} Ke6 {[%emt 0:00:08]} 52. a4 {[%emt 0:00:01]} Be8 {[%emt 0:00:02]} 53.
+Rxc4 {[%emt 0:00:01]} Ke5 {[%emt 0:00:01]} 54. Rc8 {[%emt 0:00:04]} Bg6 {
+[%emt 0:00:03]} 55. Rc6 {[%emt 0:00:02]} Bd3 {[%emt 0:00:01]} 56. Rc3 {[%emt 0:
+00:05]} Ke4 {[%emt 0:00:04]} 57. Ra3 {[%emt 0:00:03]} Kd4 {[%emt 0:00:05]} 58.
+Ra2 {[%emt 0:00:01]} Ke4 {[%emt 0:00:02]} 59. Rb2 {[%emt 0:00:01]} Kf3 {
+[%emt 0:00:01]} 60. Kc3 {[%emt 0:00:03]} Bf1 {[%emt 0:00:02]} 61. Kd4 {[%emt 0:
+00:01]} Be2 {[%emt 0:00:02]} 62. Ke5 {[%emt 0:00:01]} Bd1 {[%emt 0:00:01]} 63.
+Rd2 {[%emt 0:00:01]} Bxa4 {[%emt 0:00:01]} 64. Ra2 {[%emt 0:00:01]} Bb5 {
+[%emt 0:00:01]} 65. Rb2 {[%emt 0:00:01]} Bf1 {[%emt 0:00:02]} 66. Ra2 {[%emt 0:
+00:01]} Be2 {[%emt 0:00:01]} 67. Rb2 {[%emt 0:00:00]} Kxf2 {[%emt 0:00:01]} 68.
+Ra2 {[%emt 0:00:00]} f3 {[%emt 0:00:01]} 69. Rb2 {[%emt 0:00:01]} Ke3 {[%emt 0:
+00:01]} 70. Kd5 {[%emt 0:00:01]} Bd3 {[%emt 0:00:00]} 71. Rh2 {[%emt 0:00:02]}
+f2 {[%emt 0:00:00]} 72. Rxf2 {[%emt 0:00:02]} Kxf2 {[%emt 0:00:01]} 73. Kd4 {
+[%emt 0:00:00]} Ke2 {[%emt 0:00:00]} 74. Kc3 {[%emt 0:00:00]} Kd1 {[%emt 0:00:
+01]} 75. Kb2 {[%emt 0:00:00]} Kd2 {[%emt 0:00:01]} 76. Ka1 {[%emt 0:00:00]} Kc2
+{[%emt 0:00:01]} 77. Ka2 {[%emt 0:00:00]} Kc3 {[%emt 0:00:00]} 78. Ka1 {
+[%emt 0:00:00]} Bc4 {[%emt 0:00:00]} 79. Kb1 {[%emt 0:00:01]} Kb3 {[%emt 0:00:
+00]} 80. Ka1 {[%emt 0:00:00]} Ka3 {[%emt 0:00:00]} 81. Kb1 {[%emt 0:00:00]}
+Bd3+ {[%emt 0:00:01]} 82. Ka1 {[%emt 0:00:00]} a5 {[%emt 0:00:01] (Lag: Av=0.
+57s, max=1.7s)} 1/2-1/2
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.01"]
+[Round "?"]
+[White "Scabbers"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "C21"]
+[WhiteElo "2300"]
+[BlackElo "2633"]
+[PlyCount "128"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:01]} e5 {[%emt 0:00:02]} 2. d4 {[%emt 0:00:01]} exd4 {
+[%emt 0:00:02]} 3. Nf3 {[%emt 0:00:00]} c5 {[%emt 0:00:04]} 4. Bc4 {[%emt 0:00:
+02]} d5 {[%emt 0:00:00]} 5. Bxd5 {[%emt 0:00:02]} Nf6 {[%emt 0:00:02]} 6. O-O {
+[%emt 0:00:02]} Nxd5 {[%emt 0:00:01]} 7. exd5 {[%emt 0:00:00]} Qxd5 {[%emt 0:
+00:00]} 8. Re1+ {[%emt 0:00:01]} Be6 {[%emt 0:00:01]} 9. c3 {[%emt 0:00:01]}
+Nc6 {[%emt 0:00:03]} 10. cxd4 {[%emt 0:00:01]} cxd4 {[%emt 0:00:06]} 11. Nc3 {
+[%emt 0:00:01]} Qh5 {[%emt 0:00:00]} 12. Nxd4 {[%emt 0:00:02]} Qxd1 {[%emt 0:
+00:01]} 13. Rxd1 {[%emt 0:00:01]} O-O-O {[%emt 0:00:01]} 14. Nxc6 {[%emt 0:00:
+05]} Rxd1+ {[%emt 0:00:02]} 15. Nxd1 {[%emt 0:00:00]} bxc6 {[%emt 0:00:00]} 16.
+Be3 {[%emt 0:00:00]} Kb7 {[%emt 0:00:02]} 17. Nc3 {[%emt 0:00:01]} Bb4 {
+[%emt 0:00:02]} 18. Ne4 {[%emt 0:00:02]} Ka8 {[%emt 0:00:01]} 19. Rc1 {[%emt 0:
+00:03]} Rd8 {[%emt 0:00:06]} 20. a3 {[%emt 0:00:08]} Be7 {[%emt 0:00:04]} 21.
+h3 {[%emt 0:00:05]} Bd5 {[%emt 0:00:02]} 22. Nc5 {[%emt 0:00:03]} f5 {[%emt 0:
+00:02]} 23. Na6 {[%emt 0:00:09]} Bf6 {[%emt 0:00:03]} 24. Nc7+ {[%emt 0:00:07]}
+Kb7 {[%emt 0:00:01]} 25. Nxd5 {[%emt 0:00:01]} cxd5 {[%emt 0:00:00]} 26. b4 {
+[%emt 0:00:02]} d4 {[%emt 0:00:01]} 27. Bf4 {[%emt 0:00:01]} d3 {[%emt 0:00:03]
+} 28. Rc7+ {[%emt 0:00:02]} Kb6 {[%emt 0:00:01]} 29. Rc1 {[%emt 0:00:05]} Kb5 {
+[%emt 0:00:01]} 30. Bd2 {[%emt 0:00:04]} Rd7 {[%emt 0:00:03]} 31. Rc5+ {
+[%emt 0:00:02]} Ka4 {[%emt 0:00:01]} 32. Kf1 {[%emt 0:00:03]} Kxa3 {[%emt 0:00:
+01]} 33. Ra5+ {[%emt 0:00:02]} Kb3 {[%emt 0:00:01]} 34. b5 {[%emt 0:00:01]} Kc2
+{[%emt 0:00:02]} 35. Ra2+ {[%emt 0:00:04]} Bb2 {[%emt 0:00:01]} 36. Bb4 {
+[%emt 0:00:09]} d2 {[%emt 0:00:03]} 37. Bxd2 {[%emt 0:00:03]} Rxd2 {[%emt 0:00:
+00]} 38. Rxa7 {[%emt 0:00:04]} Rxf2+ {[%emt 0:00:10]} 39. Kg1 {[%emt 0:00:14]}
+Rd2 {[%emt 0:00:03]} 40. Rc7+ {[%emt 0:00:01]} Kb3 {[%emt 0:00:02]} 41. Kf1 {
+[%emt 0:00:06]} Rd6 {[%emt 0:00:06]} 42. Ke2 {[%emt 0:00:04]} Rb6 {[%emt 0:00:
+02]} 43. Rc5 {[%emt 0:00:01]} g6 {[%emt 0:00:01]} 44. g4 {[%emt 0:00:02]} fxg4
+{[%emt 0:00:02]} 45. hxg4 {[%emt 0:00:01]} Kb4 {[%emt 0:00:05]} 46. Rc7 {
+[%emt 0:00:02]} h6 {[%emt 0:00:03]} 47. Rh7 {[%emt 0:00:02]} Bc1 {[%emt 0:00:
+01]} 48. Rc7 {[%emt 0:00:06]} Bg5 {[%emt 0:00:02]} 49. Kd3 {[%emt 0:00:05]}
+Kxb5 {[%emt 0:00:01]} 50. Rg7 {[%emt 0:00:05]} Rd6+ {[%emt 0:00:02]} 51. Ke4 {
+[%emt 0:00:01]} Kc6 {[%emt 0:00:02]} 52. Ra7 {[%emt 0:00:02]} Re6+ {[%emt 0:00:
+01]} 53. Kd3 {[%emt 0:00:03]} Kd6 {[%emt 0:00:01]} 54. Ra6+ {[%emt 0:00:02]}
+Ke5 {[%emt 0:00:01]} 55. Ra5+ {[%emt 0:00:01]} Kf6 {[%emt 0:00:01]} 56. Ra4 {
+[%emt 0:00:01]} Re3+ {[%emt 0:00:02]} 57. Kd4 {[%emt 0:00:02]} Rg3 {[%emt 0:00:
+01]} 58. Kd5 {[%emt 0:00:02]} h5 {[%emt 0:00:04]} 59. gxh5 {[%emt 0:00:01]}
+gxh5 {[%emt 0:00:01]} 60. Ra5 {[%emt 0:00:03]} h4 {[%emt 0:00:02]} 61. Ke4 {
+[%emt 0:00:02]} h3 {[%emt 0:00:02]} 62. Rf5+ {[%emt 0:00:03]} Kg6 {[%emt 0:00:
+01]} 63. Rf1 {[%emt 0:00:00]} Kh5 {[%emt 0:00:01]} 64. Rh1 {[%emt 0:00:01]} Kg4
+{[%emt 0:00:01] Scabbers resigns  (Lag: Av=0.74s, max=1.0s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.02"]
+[Round "?"]
+[White "elbe-biber"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "D06"]
+[WhiteElo "2409"]
+[BlackElo "2638"]
+[PlyCount "70"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. d4 {[%emt 0:00:00]} d5 {[%emt 0:00:01]} 2. c4 {[%emt 0:00:01]} c5 {[%emt 0:
+00:00]} 3. cxd5 {[%emt 0:00:04]} Nf6 {[%emt 0:00:01]} 4. Nf3 {[%emt 0:00:01]}
+cxd4 {[%emt 0:00:02]} 5. Qxd4 {[%emt 0:00:02]} Qxd5 {[%emt 0:00:01]} 6. Qxd5 {
+[%emt 0:00:01]} Nxd5 {[%emt 0:00:01]} 7. a3 {[%emt 0:00:01]} Nc6 {[%emt 0:00:
+02]} 8. e4 {[%emt 0:00:01]} Nf6 {[%emt 0:00:00]} 9. Nc3 {[%emt 0:00:01]} e5 {
+[%emt 0:00:00]} 10. Bg5 {[%emt 0:00:02]} Bg4 {[%emt 0:00:03]} 11. Bb5 {[%emt 0:
+00:02]} Bxf3 {[%emt 0:00:01]} 12. Bxc6+ {[%emt 0:00:04]} bxc6 {[%emt 0:00:01]}
+13. gxf3 {[%emt 0:00:00]} Be7 {[%emt 0:00:01]} 14. Bxf6 {[%emt 0:00:05]} Bxf6 {
+[%emt 0:00:01]} 15. Ke2 {[%emt 0:00:04]} O-O-O {[%emt 0:00:01]} 16. Rhd1 {
+[%emt 0:00:02]} Kc7 {[%emt 0:00:01]} 17. Na4 {[%emt 0:00:01]} Be7 {[%emt 0:00:
+02]} 18. b4 {[%emt 0:00:01]} Rd4 {[%emt 0:00:02]} 19. Rxd4 {[%emt 0:00:03]}
+exd4 {[%emt 0:00:00]} 20. Kd3 {[%emt 0:00:00]} f5 {[%emt 0:00:01]} 21. Rc1 {
+[%emt 0:00:02]} fxe4+ {[%emt 0:00:01]} 22. fxe4 {[%emt 0:00:02]} Rf8 {[%emt 0:
+00:01]} 23. Rc2 {[%emt 0:00:02]} Rf3+ {[%emt 0:00:01]} 24. Kxd4 {[%emt 0:00:01]
+} Rxa3 {[%emt 0:00:00]} 25. Nc3 {[%emt 0:00:04]} Kb6 {[%emt 0:00:08]} 26. f4 {
+[%emt 0:00:03]} Bxb4 {[%emt 0:00:02]} 27. e5 {[%emt 0:00:01]} Bxc3+ {[%emt 0:
+00:05]} 28. Rxc3 {[%emt 0:00:01]} Rxc3 {[%emt 0:00:01]} 29. Kxc3 {[%emt 0:00:
+01]} Kc5 {[%emt 0:00:01]} 30. Kd3 {[%emt 0:00:05]} Kd5 {[%emt 0:00:01]} 31. Ke3
+{[%emt 0:00:01]} g5 {[%emt 0:00:01]} 32. fxg5 {[%emt 0:00:03]} Kxe5 {[%emt 0:
+00:01]} 33. h4 {[%emt 0:00:01]} Kf5 {[%emt 0:00:00]} 34. Kd4 {[%emt 0:00:02]}
+a5 {[%emt 0:00:01]} 35. Kc5 {[%emt 0:00:02]} Kg4 {[%emt 0:00:01] elbe-biber
+gibt auf  (Lag: Av=0.49s, max=0.6s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.02"]
+[Round "?"]
+[White "Zayats"]
+[Black "elbe-biber"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "2647"]
+[BlackElo "2401"]
+[PlyCount "54"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:01]} e6 {[%emt 0:00:01]} 2. d4 {[%emt 0:00:01]} d5 {[%emt 0:
+00:00]} 3. Nc3 {[%emt 0:00:01]} Bb4 {[%emt 0:00:01]} 4. exd5 {[%emt 0:00:01]}
+exd5 {[%emt 0:00:01]} 5. Bd3 {[%emt 0:00:00]} Nf6 {[%emt 0:00:01]} 6. Bg5 {
+[%emt 0:00:02]} O-O {[%emt 0:00:02]} 7. Nge2 {[%emt 0:00:01]} h6 {[%emt 0:00:
+01]} 8. Bh4 {[%emt 0:00:01]} Nbd7 {[%emt 0:00:02]} 9. O-O {[%emt 0:00:01]} c6 {
+[%emt 0:00:01]} 10. f4 {[%emt 0:00:07]} Re8 {[%emt 0:00:03]} 11. f5 {[%emt 0:
+00:01]} Bd6 {[%emt 0:00:02]} 12. Nf4 {[%emt 0:00:01]} Nf8 {[%emt 0:00:02]} 13.
+Kh1 {[%emt 0:00:01]} N8h7 {[%emt 0:00:05]} 14. Qd2 {[%emt 0:00:06]} Ne4 {
+[%emt 0:00:08]} 15. Bxd8 {[%emt 0:00:10]} Nxd2 {[%emt 0:00:01]} 16. Bh4 {
+[%emt 0:00:20]} Nxf1 {[%emt 0:00:02]} 17. Rxf1 {[%emt 0:00:00]} Ng5 {[%emt 0:
+00:04]} 18. g4 {[%emt 0:00:03]} Ne4 {[%emt 0:00:08]} 19. Nxe4 {[%emt 0:00:02]}
+dxe4 {[%emt 0:00:02]} 20. Bc4 {[%emt 0:00:00]} b5 {[%emt 0:00:02]} 21. Bb3 {
+[%emt 0:00:02]} a5 {[%emt 0:00:02]} 22. a3 {[%emt 0:00:01]} a4 {[%emt 0:00:02]}
+23. Ba2 {[%emt 0:00:01]} b4 {[%emt 0:00:01]} 24. axb4 {[%emt 0:00:01]} a3 {
+[%emt 0:00:03]} 25. bxa3 {[%emt 0:00:05]} Rxa3 {[%emt 0:00:01]} 26. Bb3 {
+[%emt 0:00:00]} Ba6 {[%emt 0:00:03]} 27. Re1 {[%emt 0:00:03]} Bxf4 {[%emt 0:00:
+03] Zayats gibt auf  (Lag: Av=0.50s, max=0.6s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.02"]
+[Round "?"]
+[White "KarpovII"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "C63"]
+[WhiteElo "2323"]
+[BlackElo "2615"]
+[PlyCount "68"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:01]} Nc6 {[%emt 0:00:02]} 2. Nf3 {[%emt 0:00:02]} e5 {
+[%emt 0:00:00]} 3. Bb5 {[%emt 0:00:02]} f5 {[%emt 0:00:01]} 4. Nc3 {[%emt 0:00:
+01]} fxe4 {[%emt 0:00:01]} 5. Nxe4 {[%emt 0:00:01]} Nf6 {[%emt 0:00:00]} 6. Qe2
+{[%emt 0:00:01]} d5 {[%emt 0:00:01]} 7. Nxf6+ {[%emt 0:00:01]} gxf6 {[%emt 0:
+00:00]} 8. d4 {[%emt 0:00:01]} Bg7 {[%emt 0:00:00]} 9. dxe5 {[%emt 0:00:01]}
+O-O {[%emt 0:00:00]} 10. Bxc6 {[%emt 0:00:01]} bxc6 {[%emt 0:00:01]} 11. e6 {
+[%emt 0:00:01]} Qd6 {[%emt 0:00:00]} 12. Nd4 {[%emt 0:00:06]} Re8 {[%emt 0:00:
+01]} 13. O-O {[%emt 0:00:02]} c5 {[%emt 0:00:01]} 14. Nf5 {[%emt 0:00:04]} Qxe6
+{[%emt 0:00:01]} 15. Qxe6+ {[%emt 0:00:02]} Bxe6 {[%emt 0:00:00]} 16. Ne3 {
+[%emt 0:00:05]} d4 {[%emt 0:00:02]} 17. Nd1 {[%emt 0:00:02]} Bc4 {[%emt 0:00:
+05]} 18. b3 {[%emt 0:00:07]} Bxf1 {[%emt 0:00:02]} 19. Kxf1 {[%emt 0:00:00]} f5
+{[%emt 0:00:01]} 20. Bb2 {[%emt 0:00:09]} a5 {[%emt 0:00:01]} 21. f3 {[%emt 0:
+00:03]} a4 {[%emt 0:00:02]} 22. a3 {[%emt 0:00:03]} axb3 {[%emt 0:00:02]} 23.
+cxb3 {[%emt 0:00:01]} Reb8 {[%emt 0:00:02]} 24. Rc1 {[%emt 0:00:07]} Rxb3 {
+[%emt 0:00:04]} 25. Rxc5 {[%emt 0:00:02]} Rab8 {[%emt 0:00:07]} 26. Bc1 {
+[%emt 0:00:08]} Rb1 {[%emt 0:00:03]} 27. Nf2 {[%emt 0:00:02]} Bf8 {[%emt 0:00:
+05]} 28. Rc4 {[%emt 0:00:03]} Bxa3 {[%emt 0:00:02]} 29. Nd3 {[%emt 0:00:01]}
+R8b3 {[%emt 0:00:02]} 30. Ke2 {[%emt 0:00:02]} Rxd3 {[%emt 0:00:01]} 31. Kxd3 {
+[%emt 0:00:04]} Rxc1 {[%emt 0:00:02]} 32. Ra4 {[%emt 0:00:01]} Bc5 {[%emt 0:00:
+05]} 33. Ra8+ {[%emt 0:00:05]} Kg7 {[%emt 0:00:02]} 34. Rc8 {[%emt 0:00:01]}
+Bb6 {[%emt 0:00:01] KarpovII Geeft op  (Lag: Av=0.5s, max=1s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.02"]
+[Round "?"]
+[White "Zayats"]
+[Black "KarpovII"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2615"]
+[BlackElo "2323"]
+[PlyCount "47"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:01]} c5 {[%emt 0:00:01]} 2. c3 {[%emt 0:00:01]} Nf6 {[%emt 0:
+00:02]} 3. e5 {[%emt 0:00:01]} Nd5 {[%emt 0:00:00]} 4. d4 {[%emt 0:00:00]} cxd4
+{[%emt 0:00:00]} 5. Qxd4 {[%emt 0:00:00]} e6 {[%emt 0:00:02]} 6. Qe4 {[%emt 0:
+00:00]} Nc6 {[%emt 0:00:03]} 7. Nf3 {[%emt 0:00:01]} Nde7 {[%emt 0:00:02]} 8.
+Nbd2 {[%emt 0:00:02]} Ng6 {[%emt 0:00:01]} 9. Nc4 {[%emt 0:00:01]} Qc7 {
+[%emt 0:00:02]} 10. h4 {[%emt 0:00:01]} b5 {[%emt 0:00:04]} 11. h5 {[%emt 0:00:
+01]} bxc4 {[%emt 0:00:16]} 12. hxg6 {[%emt 0:00:00]} fxg6 {[%emt 0:00:03]} 13.
+Rxh7 {[%emt 0:00:00]} Rxh7 {[%emt 0:00:05]} 14. Qxg6+ {[%emt 0:00:00]} Kd8 {
+[%emt 0:00:01]} 15. Bg5+ {[%emt 0:00:03]} Be7 {[%emt 0:00:03]} 16. Bxe7+ {
+[%emt 0:00:00]} Nxe7 {[%emt 0:00:02]} 17. Qxh7 {[%emt 0:00:01]} Qb6 {[%emt 0:
+00:05]} 18. O-O-O {[%emt 0:00:13]} Rb8 {[%emt 0:00:02]} 19. Rd2 {[%emt 0:00:02]
+} Nf5 {[%emt 0:00:08]} 20. g4 {[%emt 0:00:03]} Bb7 {[%emt 0:00:08]} 21. gxf5 {
+[%emt 0:00:02]} Bxf3 {[%emt 0:00:01]} 22. Qxg7 {[%emt 0:00:05]} Rb7 {[%emt 0:
+00:17]} 23. fxe6 {[%emt 0:00:01]} Qxe6 {[%emt 0:00:01]} 24. Qf8+ {[%emt 0:00:
+01] KarpovII Geeft op  (Lag: Av=0.49s, max=1.0s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.02"]
+[Round "?"]
+[White "KarpovII"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "C73"]
+[WhiteElo "2323"]
+[BlackElo "2615"]
+[PlyCount "64"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} Nc6 {[%emt 0:00:01]} 2. Nf3 {[%emt 0:00:01]} e5 {
+[%emt 0:00:00]} 3. Bb5 {[%emt 0:00:01]} a6 {[%emt 0:00:00]} 4. Ba4 {[%emt 0:00:
+01]} d6 {[%emt 0:00:00]} 5. Bxc6+ {[%emt 0:00:03]} bxc6 {[%emt 0:00:01]} 6. d4
+{[%emt 0:00:01]} f6 {[%emt 0:00:00]} 7. Nc3 {[%emt 0:00:02]} Rb8 {[%emt 0:00:
+01]} 8. O-O {[%emt 0:00:01]} Ne7 {[%emt 0:00:02]} 9. b3 {[%emt 0:00:04]} g6 {
+[%emt 0:00:02]} 10. Bb2 {[%emt 0:00:01]} Bg7 {[%emt 0:00:01]} 11. dxe5 {
+[%emt 0:00:02]} fxe5 {[%emt 0:00:01]} 12. Qd2 {[%emt 0:00:02]} O-O {[%emt 0:00:
+01]} 13. Rad1 {[%emt 0:00:02]} Qe8 {[%emt 0:00:01]} 14. a4 {[%emt 0:00:04]} Qf7
+{[%emt 0:00:02]} 15. Qe3 {[%emt 0:00:03]} Kh8 {[%emt 0:00:06]} 16. Ne2 {
+[%emt 0:00:13]} Ng8 {[%emt 0:00:04]} 17. Ne1 {[%emt 0:00:15]} Bh6 {[%emt 0:00:
+02]} 18. Qg3 {[%emt 0:00:10]} Nf6 {[%emt 0:00:05]} 19. Qh4 {[%emt 0:00:06]} Nh5
+{[%emt 0:00:05]} 20. g4 {[%emt 0:00:21]} Qf6 {[%emt 0:00:01]} 21. Qxf6+ {
+[%emt 0:00:06]} Nxf6 {[%emt 0:00:02]} 22. h3 {[%emt 0:00:07]} Kg8 {[%emt 0:00:
+01]} 23. Ng3 {[%emt 0:00:01]} Bf4 {[%emt 0:00:02]} 24. Ng2 {[%emt 0:00:16]}
+Bxg3 {[%emt 0:00:08]} 25. fxg3 {[%emt 0:00:01]} Be6 {[%emt 0:00:02]} 26. Rde1 {
+[%emt 0:00:03]} Rf7 {[%emt 0:00:03]} 27. Nh4 {[%emt 0:00:07]} Rbf8 {[%emt 0:00:
+02]} 28. Nf3 {[%emt 0:00:01]} Nxe4 {[%emt 0:00:10]} 29. Rxe4 {[%emt 0:00:04]}
+Rxf3 {[%emt 0:00:01]} 30. Rxf3 {[%emt 0:00:01]} Rxf3 {[%emt 0:00:01]} 31. Kg2 {
+[%emt 0:00:01]} Rf8 {[%emt 0:00:03]} 32. a5 {[%emt 0:00:07]} Bd5 {[%emt 0:00:
+02] KarpovII Geeft op  (Lag: Av=0.5s, max=1s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.02"]
+[Round "?"]
+[White "Zayats"]
+[Black "KarpovII"]
+[Result "1-0"]
+[ECO "A14"]
+[WhiteElo "2615"]
+[BlackElo "2323"]
+[PlyCount "47"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. Nf3 {[%emt 0:00:01]} Nf6 {[%emt 0:00:01]} 2. g3 {[%emt 0:00:00]} e6 {
+[%emt 0:00:01]} 3. Bg2 {[%emt 0:00:00]} d5 {[%emt 0:00:02]} 4. O-O {[%emt 0:00:
+00]} Be7 {[%emt 0:00:01]} 5. c4 {[%emt 0:00:00]} dxc4 {[%emt 0:00:03]} 6. Ne5 {
+[%emt 0:00:02]} c6 {[%emt 0:00:03]} 7. Nxc4 {[%emt 0:00:01]} Nbd7 {[%emt 0:00:
+01]} 8. Nc3 {[%emt 0:00:01]} e5 {[%emt 0:00:03]} 9. d3 {[%emt 0:00:01]} O-O {
+[%emt 0:00:02]} 10. Be3 {[%emt 0:00:01]} Qc7 {[%emt 0:00:01]} 11. Rc1 {[%emt 0:
+00:02]} Re8 {[%emt 0:00:03]} 12. a3 {[%emt 0:00:10]} Bf8 {[%emt 0:00:02]} 13.
+b4 {[%emt 0:00:01]} Nb6 {[%emt 0:00:06]} 14. Na5 {[%emt 0:00:02]} Qe7 {[%emt 0:
+00:07]} 15. Bc5 {[%emt 0:00:13]} Qe6 {[%emt 0:00:10]} 16. Bxf8 {[%emt 0:00:01]}
+Kxf8 {[%emt 0:00:02]} 17. Qc2 {[%emt 0:00:03]} Nbd5 {[%emt 0:00:05]} 18. Nxd5 {
+[%emt 0:00:03]} Nxd5 {[%emt 0:00:02]} 19. Qc5+ {[%emt 0:00:02]} Kg8 {[%emt 0:
+00:02]} 20. b5 {[%emt 0:00:02]} Bd7 {[%emt 0:00:12]} 21. Nxb7 {[%emt 0:00:03]}
+Rac8 {[%emt 0:00:20]} 22. Nd6 {[%emt 0:00:02]} cxb5 {[%emt 0:00:05]} 23. Nxc8 {
+[%emt 0:00:03]} Rxc8 {[%emt 0:00:01]} 24. Qxd5 {[%emt 0:00:01] KarpovII Geeft
+op  (Lag: Av=0.49s, max=1.0s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.02"]
+[Round "?"]
+[White "Zayats"]
+[Black "Schlafmütze"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2638"]
+[BlackElo "2685"]
+[PlyCount "122"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:01]} c5 {[%emt 0:00:01]} 2. c3 {[%emt 0:00:01]} d5 {[%emt 0:
+00:03]} 3. exd5 {[%emt 0:00:01]} Qxd5 {[%emt 0:00:00]} 4. d4 {[%emt 0:00:00]}
+e6 {[%emt 0:00:02]} 5. Na3 {[%emt 0:00:01]} Qd8 {[%emt 0:00:07]} 6. dxc5 {
+[%emt 0:00:03]} Qxd1+ {[%emt 0:00:01]} 7. Kxd1 {[%emt 0:00:00]} Bxc5 {[%emt 0:
+00:03]} 8. Nb5 {[%emt 0:00:01]} Na6 {[%emt 0:00:02]} 9. Be3 {[%emt 0:00:00]}
+Ke7 {[%emt 0:00:08]} 10. Bxc5+ {[%emt 0:00:09]} Nxc5 {[%emt 0:00:00]} 11. Nf3 {
+[%emt 0:00:01]} Bd7 {[%emt 0:00:03]} 12. Ne5 {[%emt 0:00:05]} Rd8 {[%emt 0:00:
+07]} 13. Nxd7 {[%emt 0:00:02]} Rxd7+ {[%emt 0:00:01]} 14. Kc2 {[%emt 0:00:01]}
+a6 {[%emt 0:00:02]} 15. Nd4 {[%emt 0:00:01]} Nf6 {[%emt 0:00:00]} 16. Be2 {
+[%emt 0:00:08]} Rc8 {[%emt 0:00:04]} 17. Rae1 {[%emt 0:00:08]} Nce4 {[%emt 0:
+00:06]} 18. Kb1 {[%emt 0:00:14]} Nxf2 {[%emt 0:00:07]} 19. Rhf1 {[%emt 0:00:01]
+} N2e4 {[%emt 0:00:01]} 20. Ka1 {[%emt 0:00:01]} b5 {[%emt 0:00:08]} 21. Bf3 {
+[%emt 0:00:07]} Nd2 {[%emt 0:00:03]} 22. Rf2 {[%emt 0:00:02]} Nxf3 {[%emt 0:00:
+01]} 23. Nxf3 {[%emt 0:00:04]} Rcd8 {[%emt 0:00:01]} 24. Kb1 {[%emt 0:00:02]}
+g6 {[%emt 0:00:05]} 25. Kc2 {[%emt 0:00:03]} Nd5 {[%emt 0:00:01]} 26. Ne5 {
+[%emt 0:00:03]} f6 {[%emt 0:00:21]} 27. Nxd7 {[%emt 0:00:02]} Rxd7 {[%emt 0:00:
+00]} 28. Kb3 {[%emt 0:00:04]} Rc7 {[%emt 0:00:03]} 29. Rd2 {[%emt 0:00:03]} Kd7
+{[%emt 0:00:03]} 30. Rd4 {[%emt 0:00:02]} Kd6 {[%emt 0:00:07]} 31. a4 {[%emt 0:
+00:09]} f5 {[%emt 0:00:08]} 32. axb5 {[%emt 0:00:04]} axb5 {[%emt 0:00:00]} 33.
+Ra1 {[%emt 0:00:03]} g5 {[%emt 0:00:07]} 34. Ra6+ {[%emt 0:00:05]} Rc6 {
+[%emt 0:00:01]} 35. Rxc6+ {[%emt 0:00:03]} Kxc6 {[%emt 0:00:00]} 36. c4 {
+[%emt 0:00:01]} bxc4+ {[%emt 0:00:11]} 37. Rxc4+ {[%emt 0:00:01]} Kd6 {[%emt 0:
+00:02]} 38. Rc8 {[%emt 0:00:04]} e5 {[%emt 0:00:04]} 39. Kc2 {[%emt 0:00:07]}
+e4 {[%emt 0:00:06]} 40. Kd2 {[%emt 0:00:01]} Ke5 {[%emt 0:00:02]} 41. Rh8 {
+[%emt 0:00:03]} Nf6 {[%emt 0:00:05]} 42. b4 {[%emt 0:00:01]} Kd4 {[%emt 0:00:
+02]} 43. b5 {[%emt 0:00:01]} Nd5 {[%emt 0:00:01]} 44. Rxh7 {[%emt 0:00:08]} g4
+{[%emt 0:00:03]} 45. Rg7 {[%emt 0:00:07]} e3+ {[%emt 0:00:02]} 46. Ke1 {
+[%emt 0:00:01]} Kc5 {[%emt 0:00:04]} 47. h4 {[%emt 0:00:01]} gxh3 {[%emt 0:00:
+02]} 48. gxh3 {[%emt 0:00:01]} Kxb5 {[%emt 0:00:00]} 49. h4 {[%emt 0:00:01]}
+Nf4 {[%emt 0:00:01]} 50. Rf7 {[%emt 0:00:07]} Ng2+ {[%emt 0:00:01]} 51. Ke2 {
+[%emt 0:00:01]} Nxh4 {[%emt 0:00:00]} 52. Kxe3 {[%emt 0:00:01]} Kc5 {[%emt 0:
+00:00]} 53. Kf4 {[%emt 0:00:01]} Kd5 {[%emt 0:00:01]} 54. Rf6 {[%emt 0:00:03]}
+Ng2+ {[%emt 0:00:02]} 55. Kf3 {[%emt 0:00:01]} Ne1+ {[%emt 0:00:00]} 56. Ke2 {
+[%emt 0:00:01]} Nc2 {[%emt 0:00:00]} 57. Kd3 {[%emt 0:00:01]} Nb4+ {[%emt 0:00:
+01]} 58. Kc3 {[%emt 0:00:01]} Nc6 {[%emt 0:00:00]} 59. Rxf5+ {[%emt 0:00:01]}
+Ne5 {[%emt 0:00:00]} 60. Rg5 {[%emt 0:00:03]} Ke4 {[%emt 0:00:00] .} 61. Rxe5+
+{[%emt 0:00:01]} Kxe5 {[%emt 0:00:01] (Lag: Av=0.48s, max=0.6s)} 1/2-1/2
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.02"]
+[Round "?"]
+[White "Schlafmütze"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "C47"]
+[WhiteElo "2685"]
+[BlackElo "2638"]
+[PlyCount "114"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} Nc6 {[%emt 0:00:02]} 2. Nc3 {[%emt 0:00:01]} e5 {
+[%emt 0:00:00]} 3. Nf3 {[%emt 0:00:02]} Nf6 {[%emt 0:00:01]} 4. g3 {[%emt 0:00:
+02]} Bc5 {[%emt 0:00:07]} 5. Bg2 {[%emt 0:00:01]} d6 {[%emt 0:00:00]} 6. d3 {
+[%emt 0:00:02]} a6 {[%emt 0:00:01]} 7. O-O {[%emt 0:00:02]} h6 {[%emt 0:00:01]}
+8. h3 {[%emt 0:00:02]} O-O {[%emt 0:00:02]} 9. Kh2 {[%emt 0:00:10]} Be6 {
+[%emt 0:00:01]} 10. Nh4 {[%emt 0:00:02]} Nd4 {[%emt 0:00:01]} 11. Be3 {[%emt 0:
+00:04]} d5 {[%emt 0:00:06]} 12. exd5 {[%emt 0:00:06]} Nxd5 {[%emt 0:00:01]} 13.
+Nxd5 {[%emt 0:00:08]} Bxd5 {[%emt 0:00:00]} 14. Bxd5 {[%emt 0:00:02]} Qxd5 {
+[%emt 0:00:00]} 15. Bxd4 {[%emt 0:00:06]} Bxd4 {[%emt 0:00:02]} 16. Qg4 {
+[%emt 0:00:07]} Kh7 {[%emt 0:00:09]} 17. Nf5 {[%emt 0:00:05]} g6 {[%emt 0:00:
+06]} 18. Nxd4 {[%emt 0:00:03]} Qxd4 {[%emt 0:00:11]} 19. Qxd4 {[%emt 0:00:02]}
+exd4 {[%emt 0:00:00]} 20. Rae1 {[%emt 0:00:02]} Rfe8 {[%emt 0:00:00]} 21. Kg2 {
+[%emt 0:00:01]} Kg7 {[%emt 0:00:01]} 22. f4 {[%emt 0:00:01]} Kf6 {[%emt 0:00:
+08]} 23. Kf3 {[%emt 0:00:01]} Rad8 {[%emt 0:00:01]} 24. g4 {[%emt 0:00:06]} Re6
+{[%emt 0:00:09]} 25. Rxe6+ {[%emt 0:00:02]} fxe6 {[%emt 0:00:00]} 26. Ke4 {
+[%emt 0:00:03]} Rd5 {[%emt 0:00:02]} 27. b3 {[%emt 0:00:04]} b5 {[%emt 0:00:02]
+} 28. a3 {[%emt 0:00:07]} a5 {[%emt 0:00:03]} 29. Rf2 {[%emt 0:00:02]} Ke7 {
+[%emt 0:00:03]} 30. f5 {[%emt 0:00:18]} gxf5+ {[%emt 0:00:02]} 31. gxf5 {
+[%emt 0:00:00]} a4 {[%emt 0:00:02]} 32. bxa4 {[%emt 0:00:04]} bxa4 {[%emt 0:00:
+01]} 33. fxe6 {[%emt 0:00:02]} Rh5 {[%emt 0:00:12]} 34. Rf3 {[%emt 0:00:14]} c5
+{[%emt 0:00:04]} 35. Rg3 {[%emt 0:00:11]} Kxe6 {[%emt 0:00:03]} 36. Rg6+ {
+[%emt 0:00:04]} Kf7 {[%emt 0:00:03]} 37. Rg3 {[%emt 0:00:02]} Kf6 {[%emt 0:00:
+02]} 38. Kf4 {[%emt 0:00:06]} Rh4+ {[%emt 0:00:01]} 39. Kf3 {[%emt 0:00:00]}
+Ke5 {[%emt 0:00:02]} 40. Kg2 {[%emt 0:00:03]} Rh5 {[%emt 0:00:18]} 41. Rg8 {
+[%emt 0:00:01]} Kf4 {[%emt 0:00:03]} 42. Re8 {[%emt 0:00:04]} Rf5 {[%emt 0:00:
+10]} 43. Re4+ {[%emt 0:00:02]} Kg5 {[%emt 0:00:01]} 44. Kg3 {[%emt 0:00:02]}
+Kg6 {[%emt 0:00:03]} 45. Kg4 {[%emt 0:00:01]} Rf1 {[%emt 0:00:01]} 46. Re6+ {
+[%emt 0:00:01]} Kf7 {[%emt 0:00:01]} 47. Rc6 {[%emt 0:00:00]} Rg1+ {[%emt 0:00:
+01]} 48. Kh5 {[%emt 0:00:01]} Ra1 {[%emt 0:00:04]} 49. Rxc5 {[%emt 0:00:01]}
+Rxa3 {[%emt 0:00:00]} 50. Rc4 {[%emt 0:00:00]} Ra1 {[%emt 0:00:03]} 51. Rxd4 {
+[%emt 0:00:00]} a3 {[%emt 0:00:01]} 52. Ra4 {[%emt 0:00:01]} a2 {[%emt 0:00:01]
+} 53. h4 {[%emt 0:00:00]} Kf6 {[%emt 0:00:01]} 54. Kxh6 {[%emt 0:00:01]} Rh1 {
+[%emt 0:00:01]} 55. Rf4+ {[%emt 0:00:03]} Ke5 {[%emt 0:00:01]} 56. Ra4 {
+[%emt 0:00:01]} a1=Q {[%emt 0:00:01]} 57. Rxa1 {[%emt 0:00:01]} Rxa1 {[%emt 0:
+00:00] Zeit  (Lag: Av=0.48s, max=0.6s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.02"]
+[Round "?"]
+[White "Zayats"]
+[Black "Schlafmütze"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2638"]
+[BlackElo "2685"]
+[PlyCount "117"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:01]} c5 {[%emt 0:00:01]} 2. c3 {[%emt 0:00:02]} d5 {[%emt 0:
+00:01]} 3. exd5 {[%emt 0:00:01]} Qxd5 {[%emt 0:00:00]} 4. d4 {[%emt 0:00:00]}
+e6 {[%emt 0:00:00]} 5. Na3 {[%emt 0:00:01]} Qd8 {[%emt 0:00:01]} 6. Bf4 {
+[%emt 0:00:08]} a6 {[%emt 0:00:05]} 7. dxc5 {[%emt 0:00:02]} Bxc5 {[%emt 0:00:
+08]} 8. Qxd8+ {[%emt 0:00:02]} Kxd8 {[%emt 0:00:00]} 9. Nc4 {[%emt 0:00:03]}
+Ke7 {[%emt 0:00:04]} 10. b4 {[%emt 0:00:04]} Ba7 {[%emt 0:00:03]} 11. Bd6+ {
+[%emt 0:00:01]} Ke8 {[%emt 0:00:07]} 12. Be5 {[%emt 0:00:01]} f6 {[%emt 0:00:
+03]} 13. Nd6+ {[%emt 0:00:01]} Kd7 {[%emt 0:00:06]} 14. O-O-O {[%emt 0:00:02]}
+fxe5 {[%emt 0:00:03]} 15. Nf7+ {[%emt 0:00:01]} Ke7 {[%emt 0:00:01]} 16. Nxh8 {
+[%emt 0:00:01]} Nf6 {[%emt 0:00:06]} 17. Nf3 {[%emt 0:00:02]} Ng4 {[%emt 0:00:
+17]} 18. Bd3 {[%emt 0:00:14]} Nxf2 {[%emt 0:00:07]} 19. Bxh7 {[%emt 0:00:01]}
+Nxh1 {[%emt 0:00:04]} 20. Rxh1 {[%emt 0:00:00]} Nc6 {[%emt 0:00:02]} 21. Ng6+ {
+[%emt 0:00:03]} Ke8 {[%emt 0:00:09]} 22. Ngxe5 {[%emt 0:00:05]} Bd7 {[%emt 0:
+00:08]} 23. Rd1 {[%emt 0:00:04]} Rd8 {[%emt 0:00:10]} 24. Bg6+ {[%emt 0:00:03]}
+Ke7 {[%emt 0:00:01]} 25. Nf7 {[%emt 0:00:04]} Rf8 {[%emt 0:00:06]} 26. Nd6 {
+[%emt 0:00:02]} Bc8 {[%emt 0:00:13]} 27. Be4 {[%emt 0:00:08]} Rd8 {[%emt 0:00:
+11]} 28. Nxc8+ {[%emt 0:00:03]} Rxc8 {[%emt 0:00:00]} 29. Kb2 {[%emt 0:00:01]}
+Rd8 {[%emt 0:00:05]} 30. Rxd8 {[%emt 0:00:05]} Nxd8 {[%emt 0:00:00]} 31. Kb3 {
+[%emt 0:00:01]} Bb8 {[%emt 0:00:01]} 32. a4 {[%emt 0:00:03]} Kd6 {[%emt 0:00:
+01]} 33. a5 {[%emt 0:00:01]} Bc7 {[%emt 0:00:03]} 34. Kc4 {[%emt 0:00:02]} b6 {
+[%emt 0:00:01]} 35. axb6 {[%emt 0:00:03]} Bxb6 {[%emt 0:00:00]} 36. h4 {
+[%emt 0:00:10]} Bc7 {[%emt 0:00:01]} 37. h5 {[%emt 0:00:04]} Nf7 {[%emt 0:00:
+03]} 38. g4 {[%emt 0:00:03]} Ne5+ {[%emt 0:00:06]} 39. Nxe5 {[%emt 0:00:03]}
+Kxe5 {[%emt 0:00:00]} 40. Bb7 {[%emt 0:00:01]} a5 {[%emt 0:00:00]} 41. b5 {
+[%emt 0:00:01]} Kf4 {[%emt 0:00:06]} 42. Bc8 {[%emt 0:00:07]} Kxg4 {[%emt 0:00:
+02]} 43. Kc5 {[%emt 0:00:02]} Kf5 {[%emt 0:00:05]} 44. b6 {[%emt 0:00:02]} Bb8
+{[%emt 0:00:04]} 45. Bd7 {[%emt 0:00:05]} a4 {[%emt 0:00:00]} 46. Bxa4 {
+[%emt 0:00:01]} e5 {[%emt 0:00:00]} 47. Bc2+ {[%emt 0:00:01]} e4 {[%emt 0:00:
+00]} 48. Kd5 {[%emt 0:00:01]} Kf4 {[%emt 0:00:01]} 49. Bxe4 {[%emt 0:00:01]}
+Ke3 {[%emt 0:00:00]} 50. c4 {[%emt 0:00:01]} Kd2 {[%emt 0:00:01]} 51. c5 {
+[%emt 0:00:01]} Kc3 {[%emt 0:00:00]} 52. c6 {[%emt 0:00:01]} Bc7 {[%emt 0:00:
+00]} 53. bxc7 {[%emt 0:00:01]} g6 {[%emt 0:00:00]} 54. Bxg6 {[%emt 0:00:01]}
+Kb4 {[%emt 0:00:00]} 55. c8=Q {[%emt 0:00:00]} Ka5 {[%emt 0:00:00]} 56. Qb7 {
+[%emt 0:00:01]} Ka4 {[%emt 0:00:00]} 57. c7 {[%emt 0:00:00]} Ka3 {[%emt 0:00:
+00]} 58. c8=Q {[%emt 0:00:01]} Ka4 {[%emt 0:00:00]} 59. Qca8# {[%emt 0:00:01] 
+(Lag: Av=0.48s, max=0.7s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.02"]
+[Round "?"]
+[White "Schlafmütze"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "C49"]
+[WhiteElo "2640"]
+[BlackElo "2683"]
+[PlyCount "76"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} Nc6 {[%emt 0:00:00]} 2. Nc3 {[%emt 0:00:01]} e5 {
+[%emt 0:00:00]} 3. Nf3 {[%emt 0:00:02]} Nf6 {[%emt 0:00:01]} 4. Bb5 {[%emt 0:
+00:02]} Bb4 {[%emt 0:00:05]} 5. O-O {[%emt 0:00:03]} O-O {[%emt 0:00:02]} 6.
+Bxc6 {[%emt 0:00:01]} bxc6 {[%emt 0:00:03]} 7. Nxe5 {[%emt 0:00:02]} Bxc3 {
+[%emt 0:00:02]} 8. dxc3 {[%emt 0:00:02]} Nxe4 {[%emt 0:00:00]} 9. Re1 {[%emt 0:
+00:07]} Nf6 {[%emt 0:00:03]} 10. Bg5 {[%emt 0:00:02]} h6 {[%emt 0:00:02]} 11.
+Bxf6 {[%emt 0:00:07]} Qxf6 {[%emt 0:00:10]} 12. Nxd7 {[%emt 0:00:01]} Bxd7 {
+[%emt 0:00:00]} 13. Qxd7 {[%emt 0:00:01]} Rad8 {[%emt 0:00:01]} 14. Qe7 {
+[%emt 0:00:06]} Qf5 {[%emt 0:00:06]} 15. Qe2 {[%emt 0:00:05]} Rfe8 {[%emt 0:00:
+04]} 16. Qxe8+ {[%emt 0:00:02]} Rxe8 {[%emt 0:00:01]} 17. Rxe8+ {[%emt 0:00:00]
+} Kh7 {[%emt 0:00:00]} 18. Re2 {[%emt 0:00:01]} Qb5 {[%emt 0:00:03]} 19. Ree1 {
+[%emt 0:00:10]} Qxb2 {[%emt 0:00:01]} 20. Rec1 {[%emt 0:00:01]} Qxc3 {[%emt 0:
+00:01]} 21. g3 {[%emt 0:00:01]} a5 {[%emt 0:00:01]} 22. a4 {[%emt 0:00:03]} h5
+{[%emt 0:00:01]} 23. h4 {[%emt 0:00:02]} Kg6 {[%emt 0:00:02]} 24. Rab1 {
+[%emt 0:00:11]} Qc4 {[%emt 0:00:10]} 25. Ra1 {[%emt 0:00:03]} Kf5 {[%emt 0:00:
+02]} 26. Ra3 {[%emt 0:00:04]} Kg4 {[%emt 0:00:04]} 27. Kh2 {[%emt 0:00:18]} Qe2
+{[%emt 0:00:02]} 28. Kg2 {[%emt 0:00:19]} Qd2 {[%emt 0:00:01]} 29. Rf1 {
+[%emt 0:00:17]} Qxc2 {[%emt 0:00:03]} 30. Re3 {[%emt 0:00:02]} Kf5 {[%emt 0:00:
+06]} 31. Rfe1 {[%emt 0:00:04]} f6 {[%emt 0:00:01]} 32. Rf3+ {[%emt 0:00:01]}
+Kg6 {[%emt 0:00:02]} 33. Rf4 {[%emt 0:00:00]} c5 {[%emt 0:00:02]} 34. Ree4 {
+[%emt 0:00:01]} Qd3 {[%emt 0:00:02]} 35. Rc4 {[%emt 0:00:00]} Qd5+ {[%emt 0:00:
+01]} 36. Kh2 {[%emt 0:00:01]} Kf7 {[%emt 0:00:01]} 37. Rfe4 {[%emt 0:00:02]} g5
+{[%emt 0:00:02]} 38. Kg2 {[%emt 0:00:03]} f5 {[%emt 0:00:05] Schlafmütze gibt
+auf  (Lag: Av=0.49s, max=0.8s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.04"]
+[Round "?"]
+[White "Zayats"]
+[Black "Norabelle"]
+[Result "0-1"]
+[ECO "B27"]
+[WhiteElo "2700"]
+[BlackElo "2582"]
+[PlyCount "54"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} c5 {[%emt 0:00:02]} 2. c3 {[%emt 0:00:01]} g6 {[%emt 0:
+00:02]} 3. Nf3 {[%emt 0:00:02]} Bg7 {[%emt 0:00:02]} 4. Bc4 {[%emt 0:00:00]} e6
+{[%emt 0:00:02]} 5. O-O {[%emt 0:00:01]} Ne7 {[%emt 0:00:02]} 6. d4 {[%emt 0:
+00:01]} cxd4 {[%emt 0:00:01]} 7. Nxd4 {[%emt 0:00:00]} O-O {[%emt 0:00:02]} 8.
+Re1 {[%emt 0:00:01]} Nbc6 {[%emt 0:00:01]} 9. Nb5 {[%emt 0:00:01]} d5 {[%emt 0:
+00:02]} 10. exd5 {[%emt 0:00:01]} exd5 {[%emt 0:00:01]} 11. Be2 {[%emt 0:00:01]
+} a6 {[%emt 0:00:01]} 12. N5a3 {[%emt 0:00:01]} Re8 {[%emt 0:00:03]} 13. Nc2 {
+[%emt 0:00:02]} Bf5 {[%emt 0:00:06]} 14. Nd2 {[%emt 0:00:03]} Rc8 {[%emt 0:00:
+05]} 15. Nf3 {[%emt 0:00:02]} Qb6 {[%emt 0:00:14]} 16. Ne3 {[%emt 0:00:11]} Be4
+{[%emt 0:00:04]} 17. Ng5 {[%emt 0:00:06]} Ne5 {[%emt 0:00:05]} 18. Qb3 {
+[%emt 0:00:03]} Qxb3 {[%emt 0:00:06]} 19. axb3 {[%emt 0:00:01]} h6 {[%emt 0:00:
+01]} 20. Nxe4 {[%emt 0:00:02]} dxe4 {[%emt 0:00:03]} 21. Rd1 {[%emt 0:00:01]}
+Red8 {[%emt 0:00:06]} 22. Ra4 {[%emt 0:00:06]} f5 {[%emt 0:00:05]} 23. Nc4 {
+[%emt 0:00:04]} Rxd1+ {[%emt 0:00:05]} 24. Bxd1 {[%emt 0:00:00]} b5 {[%emt 0:
+00:06]} 25. Rxa6 {[%emt 0:00:08]} bxc4 {[%emt 0:00:03]} 26. bxc4 {[%emt 0:00:
+00]} Nd3 {[%emt 0:00:06]} 27. Re6 {[%emt 0:00:08]} Kf7 {[%emt 0:00:05] Zayats
+gibt auf  (Lag: Av=0.77s, max=1.1s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.04"]
+[Round "?"]
+[White "Norabelle"]
+[Black "Zayats"]
+[Result "1-0"]
+[ECO "A22"]
+[WhiteElo "2582"]
+[BlackElo "2700"]
+[PlyCount "47"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. c4 {[%emt 0:00:01]} e5 {[%emt 0:00:02]} 2. Nc3 {[%emt 0:00:02]} Nf6 {
+[%emt 0:00:00]} 3. Nf3 {[%emt 0:00:01]} e4 {[%emt 0:00:01]} 4. Ng5 {[%emt 0:00:
+02]} b5 {[%emt 0:00:00]} 5. d3 {[%emt 0:00:01]} bxc4 {[%emt 0:00:02]} 6. dxe4 {
+[%emt 0:00:04]} Bb7 {[%emt 0:00:03]} 7. e5 {[%emt 0:00:14]} Ng4 {[%emt 0:00:02]
+} 8. Qd4 {[%emt 0:00:04]} h6 {[%emt 0:00:08]} 9. Nxf7 {[%emt 0:00:06]} Kxf7 {
+[%emt 0:00:00]} 10. Qxc4+ {[%emt 0:00:04]} Kg6 {[%emt 0:00:04]} 11. Qxg4+ {
+[%emt 0:00:06]} Kh7 {[%emt 0:00:00]} 12. e3 {[%emt 0:00:03]} g6 {[%emt 0:00:02]
+} 13. Bd3 {[%emt 0:00:03]} Rg8 {[%emt 0:00:01]} 14. h4 {[%emt 0:00:06]} Nc6 {
+[%emt 0:00:03]} 15. h5 {[%emt 0:00:19]} Nxe5 {[%emt 0:00:02]} 16. hxg6+ {
+[%emt 0:00:04]} Kg7 {[%emt 0:00:06]} 17. Qd4 {[%emt 0:00:12]} Qf6 {[%emt 0:00:
+01]} 18. Be4 {[%emt 0:00:06]} c5 {[%emt 0:00:02]} 19. Qa4 {[%emt 0:00:06]} Bxe4
+{[%emt 0:00:06]} 20. Qxe4 {[%emt 0:00:01]} Re8 {[%emt 0:00:05]} 21. f4 {
+[%emt 0:00:05]} d5 {[%emt 0:00:05]} 22. fxe5 {[%emt 0:00:06]} Qg5 {[%emt 0:00:
+05]} 23. Qf4 {[%emt 0:00:04]} Qxe5 {[%emt 0:00:02]} 24. Qf7+ {[%emt 0:00:03]
+Zayats gibt auf  (Lag: Av=0.75s, max=1.3s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.04"]
+[Round "?"]
+[White "Zayats"]
+[Black "Norabelle"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteElo "2700"]
+[BlackElo "2582"]
+[PlyCount "137"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:02]} 2. Nf3 {[%emt 0:00:02]} Nc6 {
+[%emt 0:00:02]} 3. c3 {[%emt 0:00:01]} Nf6 {[%emt 0:00:03]} 4. d4 {[%emt 0:00:
+01]} Nxe4 {[%emt 0:00:04]} 5. d5 {[%emt 0:00:01]} Nb8 {[%emt 0:00:04]} 6. Nxe5
+{[%emt 0:00:01]} Nf6 {[%emt 0:00:02]} 7. Be2 {[%emt 0:00:05]} d6 {[%emt 0:00:
+02]} 8. Nf3 {[%emt 0:00:01]} Be7 {[%emt 0:00:01]} 9. O-O {[%emt 0:00:00]} O-O {
+[%emt 0:00:00]} 10. c4 {[%emt 0:00:00]} Na6 {[%emt 0:00:03]} 11. Nc3 {[%emt 0:
+00:00]} Bf5 {[%emt 0:00:03]} 12. h3 {[%emt 0:00:01]} Re8 {[%emt 0:00:02]} 13.
+Be3 {[%emt 0:00:01]} Nc5 {[%emt 0:00:02]} 14. Nd4 {[%emt 0:00:02]} Bg6 {
+[%emt 0:00:07]} 15. b4 {[%emt 0:00:03]} Nce4 {[%emt 0:00:03]} 16. Nxe4 {
+[%emt 0:00:01]} Nxe4 {[%emt 0:00:04]} 17. Bf3 {[%emt 0:00:01]} Bg5 {[%emt 0:00:
+19]} 18. Bxe4 {[%emt 0:00:12]} Bxe4 {[%emt 0:00:04]} 19. Qg4 {[%emt 0:00:03]}
+Bxe3 {[%emt 0:00:10]} 20. fxe3 {[%emt 0:00:00]} Bd3 {[%emt 0:00:01]} 21. Nf5 {
+[%emt 0:00:03]} Bxf5 {[%emt 0:00:06]} 22. Rxf5 {[%emt 0:00:02]} Qe7 {[%emt 0:
+00:04]} 23. Re1 {[%emt 0:00:07]} f6 {[%emt 0:00:07]} 24. e4 {[%emt 0:00:02]}
+Qf7 {[%emt 0:00:02]} 25. Ref1 {[%emt 0:00:02]} Qg6 {[%emt 0:00:01]} 26. R5f4 {
+[%emt 0:00:05]} Qxg4 {[%emt 0:00:05]} 27. Rxg4 {[%emt 0:00:01]} a5 {[%emt 0:00:
+01]} 28. b5 {[%emt 0:00:02]} b6 {[%emt 0:00:01]} 29. Kf2 {[%emt 0:00:01]} Re5 {
+[%emt 0:00:01]} 30. Ke3 {[%emt 0:00:01]} Rae8 {[%emt 0:00:03]} 31. Kd4 {
+[%emt 0:00:02]} Kf7 {[%emt 0:00:16]} 32. h4 {[%emt 0:00:01]} h5 {[%emt 0:00:01]
+} 33. Rgf4 {[%emt 0:00:01]} Rg8 {[%emt 0:00:02]} 34. R1f3 {[%emt 0:00:02]} Ke7
+{[%emt 0:00:01]} 35. g4 {[%emt 0:00:01]} hxg4 {[%emt 0:00:02]} 36. Rxg4 {
+[%emt 0:00:00]} Kf7 {[%emt 0:00:01]} 37. Rff4 {[%emt 0:00:04]} Rh8 {[%emt 0:00:
+01]} 38. Rf3 {[%emt 0:00:05]} Rh7 {[%emt 0:00:01]} 39. Ke3 {[%emt 0:00:04]}
+Reh5 {[%emt 0:00:02]} 40. Rff4 {[%emt 0:00:02]} R7h6 {[%emt 0:00:05]} 41. Kf3 {
+[%emt 0:00:01]} Rg6 {[%emt 0:00:01]} 42. Rxg6 {[%emt 0:00:03]} Kxg6 {[%emt 0:
+00:01]} 43. Rg4+ {[%emt 0:00:00]} Kf7 {[%emt 0:00:01]} 44. Kf4 {[%emt 0:00:01]}
+Re5 {[%emt 0:00:01]} 45. Rg1 {[%emt 0:00:02]} g6 {[%emt 0:00:02]} 46. Rg2 {
+[%emt 0:00:03]} Kg7 {[%emt 0:00:01]} 47. Rh2 {[%emt 0:00:07]} Kh6 {[%emt 0:00:
+02]} 48. Rf2 {[%emt 0:00:08]} Rh5 {[%emt 0:00:02]} 49. Kg3 {[%emt 0:00:02]} Kg7
+{[%emt 0:00:02]} 50. Rf4 {[%emt 0:00:01]} Kf7 {[%emt 0:00:02]} 51. Rg4 {
+[%emt 0:00:01]} g5 {[%emt 0:00:03]} 52. hxg5 {[%emt 0:00:02]} Rxg5 {[%emt 0:00:
+01]} 53. Rxg5 {[%emt 0:00:23]} fxg5 {[%emt 0:00:01]} 54. Kg4 {[%emt 0:00:00]}
+Kf6 {[%emt 0:00:02]} 55. a4 {[%emt 0:00:02]} Ke5 {[%emt 0:00:02]} 56. Kxg5 {
+[%emt 0:00:01]} Kxe4 {[%emt 0:00:03]} 57. Kf6 {[%emt 0:00:00]} Kd4 {[%emt 0:00:
+00]} 58. Ke6 {[%emt 0:00:00]} Kxc4 {[%emt 0:00:00]} 59. Kd7 {[%emt 0:00:01]}
+Kxd5 {[%emt 0:00:01]} 60. Kxc7 {[%emt 0:00:00]} Kc5 {[%emt 0:00:00]} 61. Kd7 {
+[%emt 0:00:02]} d5 {[%emt 0:00:01]} 62. Ke6 {[%emt 0:00:01]} d4 {[%emt 0:00:00]
+} 63. Ke5 {[%emt 0:00:01]} d3 {[%emt 0:00:00]} 64. Ke4 {[%emt 0:00:00]} d2 {
+[%emt 0:00:00]} 65. Ke3 {[%emt 0:00:00]} d1=Q {[%emt 0:00:01]} 66. Ke4 {
+[%emt 0:00:00]} Qd5+ {[%emt 0:00:01]} 67. Ke3 {[%emt 0:00:01]} Qf5 {[%emt 0:00:
+01]} 68. Kd2 {[%emt 0:00:01]} Qf3 {[%emt 0:00:01]} 69. Ke1 {[%emt 0:00:01]
+Zayats gibt auf  (Lag: Av=0.74s, max=1.3s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.04"]
+[Round "?"]
+[White "Norabelle"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2582"]
+[BlackElo "2700"]
+[PlyCount "124"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. Nf3 {[%emt 0:00:01]} Nc6 {[%emt 0:00:01]} 2. g3 {[%emt 0:00:03]} e5 {
+[%emt 0:00:01]} 3. d3 {[%emt 0:00:01]} d5 {[%emt 0:00:01]} 4. Bg2 {[%emt 0:00:
+01]} Bg4 {[%emt 0:00:00]} 5. h3 {[%emt 0:00:03]} Be6 {[%emt 0:00:02]} 6. O-O {
+[%emt 0:00:02]} Qd7 {[%emt 0:00:01]} 7. Ng5 {[%emt 0:00:02]} Bf5 {[%emt 0:00:
+01]} 8. e4 {[%emt 0:00:01]} dxe4 {[%emt 0:00:01]} 9. dxe4 {[%emt 0:00:01]} Qxd1
+{[%emt 0:00:01]} 10. Rxd1 {[%emt 0:00:01]} Bg6 {[%emt 0:00:00]} 11. Nc3 {
+[%emt 0:00:05]} Nd4 {[%emt 0:00:07]} 12. Be3 {[%emt 0:00:26]} Nxc2 {[%emt 0:00:
+04]} 13. Nb5 {[%emt 0:00:03]} Bd6 {[%emt 0:00:09]} 14. Rac1 {[%emt 0:00:10]}
+Nxe3 {[%emt 0:00:02]} 15. fxe3 {[%emt 0:00:00]} h6 {[%emt 0:00:01]} 16. Rxc7 {
+[%emt 0:00:09]} Bxc7 {[%emt 0:00:06]} 17. Nxc7+ {[%emt 0:00:02]} Ke7 {[%emt 0:
+00:00]} 18. Nxf7 {[%emt 0:00:04]} Bxf7 {[%emt 0:00:04]} 19. Nxa8 {[%emt 0:00:
+04]} Nf6 {[%emt 0:00:02]} 20. Nc7 {[%emt 0:00:01]} Bxa2 {[%emt 0:00:00]} 21.
+Ra1 {[%emt 0:00:11]} Rc8 {[%emt 0:00:09]} 22. Rxa2 {[%emt 0:00:14]} Rxc7 {
+[%emt 0:00:02]} 23. Rxa7 {[%emt 0:00:01]} Kd6 {[%emt 0:00:01]} 24. b3 {[%emt 0:
+00:11]} Nd7 {[%emt 0:00:02]} 25. b4 {[%emt 0:00:04]} Rc1+ {[%emt 0:00:10]} 26.
+Kf2 {[%emt 0:00:06]} b6 {[%emt 0:00:02]} 27. Bf1 {[%emt 0:00:03]} Rc2+ {
+[%emt 0:00:02]} 28. Kf3 {[%emt 0:00:06]} Rc7 {[%emt 0:00:05]} 29. Rxc7 {
+[%emt 0:00:03]} Kxc7 {[%emt 0:00:01]} 30. Bc4 {[%emt 0:00:01]} Kd6 {[%emt 0:00:
+03]} 31. Kg4 {[%emt 0:00:02]} g6 {[%emt 0:00:06]} 32. Bf7 {[%emt 0:00:06]} Nf8
+{[%emt 0:00:02]} 33. h4 {[%emt 0:00:03]} Ke7 {[%emt 0:00:00]} 34. Bd5 {[%emt 0:
+00:02]} Nd7 {[%emt 0:00:04]} 35. Bc4 {[%emt 0:00:05]} Nf6+ {[%emt 0:00:01]} 36.
+Kf3 {[%emt 0:00:01]} g5 {[%emt 0:00:01]} 37. hxg5 {[%emt 0:00:01]} hxg5 {
+[%emt 0:00:01]} 38. g4 {[%emt 0:00:00]} Kd6 {[%emt 0:00:07]} 39. Bb3 {[%emt 0:
+00:01]} Nd7 {[%emt 0:00:01]} 40. Bc4 {[%emt 0:00:01]} Kc7 {[%emt 0:00:06]} 41.
+Ke2 {[%emt 0:00:02]} Kd8 {[%emt 0:00:03]} 42. Be6 {[%emt 0:00:02]} Nb8 {
+[%emt 0:00:02]} 43. b5 {[%emt 0:00:03]} Ke7 {[%emt 0:00:03]} 44. Bf5 {[%emt 0:
+00:01]} Kd6 {[%emt 0:00:01]} 45. Kd3 {[%emt 0:00:02]} Kc5 {[%emt 0:00:00]} 46.
+Kc3 {[%emt 0:00:01]} Kxb5 {[%emt 0:00:00]} 47. Kb3 {[%emt 0:00:02]} Kc5 {
+[%emt 0:00:00]} 48. Kc3 {[%emt 0:00:00]} Nc6 {[%emt 0:00:00]} 49. Be6 {[%emt 0:
+00:00]} Nb4 {[%emt 0:00:02]} 50. Bc4 {[%emt 0:00:01]} Nc6 {[%emt 0:00:01]} 51.
+Be2 {[%emt 0:00:01]} b5 {[%emt 0:00:01]} 52. Kb3 {[%emt 0:00:00]} Ne7 {[%emt 0:
+00:02]} 53. Kc3 {[%emt 0:00:01]} Ng8 {[%emt 0:00:01]} 54. Kd3 {[%emt 0:00:01]}
+Nf6 {[%emt 0:00:00]} 55. Bf3 {[%emt 0:00:00]} b4 {[%emt 0:00:01]} 56. Be2 {
+[%emt 0:00:02]} Ne8 {[%emt 0:00:03] .} 57. Bd1 {[%emt 0:00:00]} Nc7 {[%emt 0:
+00:00]} 58. Bb3 {[%emt 0:00:00]} Nb5 {[%emt 0:00:01]} 59. Bf7 {[%emt 0:00:00]}
+Nc3 {[%emt 0:00:01]} 60. Bg8 {[%emt 0:00:00]} Nd1 {[%emt 0:00:01]} 61. Bf7 {
+[%emt 0:00:00]} Nf2+ {[%emt 0:00:01]} 62. Ke2 {[%emt 0:00:01]} Nxg4 {[%emt 0:
+00:00] Time  (Lag: Av=0.75s, max=1.4s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.04"]
+[Round "?"]
+[White "Zayats"]
+[Black "Norabelle"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2700"]
+[BlackElo "2582"]
+[PlyCount "45"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} c6 {[%emt 0:00:04]} 2. d4 {[%emt 0:00:01]} d5 {[%emt 0:
+00:01]} 3. f3 {[%emt 0:00:00]} g6 {[%emt 0:00:02]} 4. Nc3 {[%emt 0:00:01]} Bg7
+{[%emt 0:00:00]} 5. Be3 {[%emt 0:00:00]} Nh6 {[%emt 0:00:02]} 6. Qd2 {[%emt 0:
+00:01]} Ng8 {[%emt 0:00:01]} 7. O-O-O {[%emt 0:00:01]} e6 {[%emt 0:00:02]} 8.
+h4 {[%emt 0:00:01]} h6 {[%emt 0:00:02]} 9. h5 {[%emt 0:00:02]} g5 {[%emt 0:00:
+01]} 10. Kb1 {[%emt 0:00:02]} Ne7 {[%emt 0:00:01]} 11. Nge2 {[%emt 0:00:03]} a5
+{[%emt 0:00:01]} 12. f4 {[%emt 0:00:05]} b5 {[%emt 0:00:10]} 13. fxg5 {[%emt 0:
+00:02]} hxg5 {[%emt 0:00:00]} 14. Bxg5 {[%emt 0:00:01]} a4 {[%emt 0:00:02]} 15.
+exd5 {[%emt 0:00:05]} cxd5 {[%emt 0:00:05]} 16. h6 {[%emt 0:00:01]} Bf8 {
+[%emt 0:00:04]} 17. Bf6 {[%emt 0:00:04]} Rh7 {[%emt 0:00:07]} 18. Nxb5 {
+[%emt 0:00:01]} Qb6 {[%emt 0:00:21]} 19. Nec3 {[%emt 0:00:01]} Ng6 {[%emt 0:00:
+05]} 20. Bd3 {[%emt 0:00:07]} Nd7 {[%emt 0:00:01]} 21. Bxg6 {[%emt 0:00:06]}
+fxg6 {[%emt 0:00:02]} 22. Qg5 {[%emt 0:00:00]} Nxf6 {[%emt 0:00:08]} 23. Qxf6 {
+[%emt 0:00:02] Norabelle resigns  (Lag: Av=0.74s, max=1.5s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.04"]
+[Round "?"]
+[White "Norabelle"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteElo "2582"]
+[BlackElo "2700"]
+[PlyCount "102"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:05]} Nc6 {[%emt 0:00:01]} 2. Nf3 {[%emt 0:00:03]} e5 {
+[%emt 0:00:00]} 3. d4 {[%emt 0:00:02]} Nxd4 {[%emt 0:00:01]} 4. Nxd4 {[%emt 0:
+00:02]} exd4 {[%emt 0:00:00]} 5. Qxd4 {[%emt 0:00:00]} Ne7 {[%emt 0:00:00]} 6.
+Bc4 {[%emt 0:00:04]} Nc6 {[%emt 0:00:01]} 7. Qd5 {[%emt 0:00:03]} Qf6 {[%emt 0:
+00:01]} 8. Bg5 {[%emt 0:00:20]} Qg6 {[%emt 0:00:01]} 9. O-O {[%emt 0:00:05]} d6
+{[%emt 0:00:02]} 10. Bb5 {[%emt 0:00:04]} Bd7 {[%emt 0:00:02]} 11. Nc3 {
+[%emt 0:00:01]} h6 {[%emt 0:00:15]} 12. Bh4 {[%emt 0:00:02]} Qg4 {[%emt 0:00:
+05]} 13. Bg3 {[%emt 0:00:05]} Be7 {[%emt 0:00:01]} 14. e5 {[%emt 0:00:06]} a6 {
+[%emt 0:00:16]} 15. exd6 {[%emt 0:00:06]} cxd6 {[%emt 0:00:06]} 16. Ba4 {
+[%emt 0:00:05]} O-O {[%emt 0:00:02]} 17. Bxd6 {[%emt 0:00:05]} Be6 {[%emt 0:00:
+01]} 18. Qc5 {[%emt 0:00:06]} Bxd6 {[%emt 0:00:05]} 19. Qxd6 {[%emt 0:00:02]}
+Rad8 {[%emt 0:00:04]} 20. Qc7 {[%emt 0:00:07]} Nd4 {[%emt 0:00:02]} 21. Qxb7 {
+[%emt 0:00:09]} Rb8 {[%emt 0:00:05]} 22. Qxa6 {[%emt 0:00:09]} Bc4 {[%emt 0:00:
+01]} 23. Qd6 {[%emt 0:00:04]} Bxf1 {[%emt 0:00:02]} 24. Rxf1 {[%emt 0:00:04]}
+Rxb2 {[%emt 0:00:01]} 25. Bb3 {[%emt 0:00:10]} Rc8 {[%emt 0:00:19]} 26. h3 {
+[%emt 0:00:07]} Qh4 {[%emt 0:00:07]} 27. Qd7 {[%emt 0:00:04]} Rf8 {[%emt 0:00:
+06]} 28. Na4 {[%emt 0:00:02]} Rxb3 {[%emt 0:00:13]} 29. cxb3 {[%emt 0:00:02]}
+Ne2+ {[%emt 0:00:01]} 30. Kh1 {[%emt 0:00:04]} Nf4 {[%emt 0:00:01]} 31. Qg4 {
+[%emt 0:00:04]} Qf6 {[%emt 0:00:01]} 32. Qf3 {[%emt 0:00:03]} Qe5 {[%emt 0:00:
+03]} 33. Rd1 {[%emt 0:00:03]} Rc8 {[%emt 0:00:02]} 34. Nb6 {[%emt 0:00:01]} Rc2
+{[%emt 0:00:03]} 35. Nc4 {[%emt 0:00:02]} Qc7 {[%emt 0:00:04]} 36. Ne3 {
+[%emt 0:00:02]} Rxa2 {[%emt 0:00:02]} 37. Nd5 {[%emt 0:00:01]} Nxd5 {[%emt 0:
+00:01]} 38. Qxd5 {[%emt 0:00:01]} Rb2 {[%emt 0:00:03]} 39. Qd8+ {[%emt 0:00:01]
+} Qxd8 {[%emt 0:00:01]} 40. Rxd8+ {[%emt 0:00:00]} Kh7 {[%emt 0:00:00]} 41. Rb8
+{[%emt 0:00:00]} f5 {[%emt 0:00:01]} 42. f3 {[%emt 0:00:03]} f4 {[%emt 0:00:02]
+} 43. Kh2 {[%emt 0:00:00]} Kg6 {[%emt 0:00:01]} 44. b4 {[%emt 0:00:00]} Kg5 {
+[%emt 0:00:02]} 45. b5 {[%emt 0:00:00]} h5 {[%emt 0:00:01]} 46. b6 {[%emt 0:00:
+00]} h4 {[%emt 0:00:01]} 47. b7 {[%emt 0:00:03]} Rb1 {[%emt 0:00:01]} 48. Rg8 {
+[%emt 0:00:02]} Rxb7 {[%emt 0:00:01]} 49. Rd8 {[%emt 0:00:00]} Rf7 {[%emt 0:00:
+01]} 50. Rd5+ {[%emt 0:00:02]} Rf5 {[%emt 0:00:01]} 51. Rxf5+ {[%emt 0:00:02]}
+Kxf5 {[%emt 0:00:01] Time  (Lag: Av=0.77s, max=6.7s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.04"]
+[Round "?"]
+[White "Zayats"]
+[Black "Norabelle"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2700"]
+[BlackElo "2582"]
+[PlyCount "46"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:01]} d5 {[%emt 0:00:03]} 2. Nc3 {[%emt 0:00:01]} dxe4 {
+[%emt 0:00:03]} 3. Nxe4 {[%emt 0:00:00]} Nf6 {[%emt 0:00:00]} 4. Nxf6+ {
+[%emt 0:00:01]} exf6 {[%emt 0:00:01]} 5. g3 {[%emt 0:00:01]} Bd6 {[%emt 0:00:
+00]} 6. Bg2 {[%emt 0:00:01]} O-O {[%emt 0:00:00]} 7. Ne2 {[%emt 0:00:01]} Re8 {
+[%emt 0:00:00]} 8. O-O {[%emt 0:00:00]} c6 {[%emt 0:00:00]} 9. d4 {[%emt 0:00:
+01]} Nd7 {[%emt 0:00:01]} 10. Nf4 {[%emt 0:00:01]} Nf8 {[%emt 0:00:02]} 11. c3
+{[%emt 0:00:02]} Ng6 {[%emt 0:00:01]} 12. Nxg6 {[%emt 0:00:01]} hxg6 {[%emt 0:
+00:01]} 13. Re1 {[%emt 0:00:00]} Be6 {[%emt 0:00:06]} 14. a4 {[%emt 0:00:03]}
+Qd7 {[%emt 0:00:01]} 15. a5 {[%emt 0:00:02]} a6 {[%emt 0:00:02]} 16. Be3 {
+[%emt 0:00:05]} Bd5 {[%emt 0:00:01]} 17. Qd2 {[%emt 0:00:01]} Re7 {[%emt 0:00:
+02]} 18. Bf4 {[%emt 0:00:01]} Bxg2 {[%emt 0:00:03]} 19. Bxd6 {[%emt 0:00:03]}
+Rxe1+ {[%emt 0:00:04]} 20. Rxe1 {[%emt 0:00:01]} Qh3 {[%emt 0:00:09]} 21. f4 {
+[%emt 0:00:06]} Bd5 {[%emt 0:00:09]} 22. Qe2 {[%emt 0:00:05]} Kh7 {[%emt 0:00:
+11]} 23. Bc5 {[%emt 0:00:04]} Re8 {[%emt 0:00:06] Zayats gibt auf  (Lag: Av=0.
+75s, max=3.1s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.04"]
+[Round "?"]
+[White "Norabelle"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "2582"]
+[BlackElo "2700"]
+[PlyCount "64"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} Nc6 {[%emt 0:00:01]} 2. Nf3 {[%emt 0:00:02]} e5 {
+[%emt 0:00:00]} 3. d4 {[%emt 0:00:01]} exd4 {[%emt 0:00:00]} 4. Bc4 {[%emt 0:
+00:01]} Nf6 {[%emt 0:00:02]} 5. e5 {[%emt 0:00:01]} d5 {[%emt 0:00:01]} 6. Bb5
+{[%emt 0:00:00]} Ne4 {[%emt 0:00:00]} 7. Nxd4 {[%emt 0:00:00]} Bc5 {[%emt 0:00:
+01]} 8. Be3 {[%emt 0:00:02]} Bd7 {[%emt 0:00:01]} 9. Bxc6 {[%emt 0:00:02]} bxc6
+{[%emt 0:00:01]} 10. Nd2 {[%emt 0:00:01]} Nxd2 {[%emt 0:00:02]} 11. Qxd2 {
+[%emt 0:00:02]} Bb6 {[%emt 0:00:00]} 12. Nb3 {[%emt 0:00:02]} Bf5 {[%emt 0:00:
+05]} 13. Qc3 {[%emt 0:00:11]} O-O {[%emt 0:00:01]} 14. Nd4 {[%emt 0:00:13]} Be4
+{[%emt 0:00:04]} 15. O-O {[%emt 0:00:05]} c5 {[%emt 0:00:02]} 16. Nc6 {[%emt 0:
+00:08]} Qd7 {[%emt 0:00:03]} 17. Bxc5 {[%emt 0:00:05]} Qxc6 {[%emt 0:00:01]}
+18. Bxf8 {[%emt 0:00:02]} Qxc3 {[%emt 0:00:01]} 19. bxc3 {[%emt 0:00:00]} Kxf8
+{[%emt 0:00:01]} 20. a4 {[%emt 0:00:02]} a5 {[%emt 0:00:05]} 21. c4 {[%emt 0:
+00:02]} dxc4 {[%emt 0:00:02]} 22. c3 {[%emt 0:00:00]} Bd3 {[%emt 0:00:02]} 23.
+Rfe1 {[%emt 0:00:01]} Rd8 {[%emt 0:00:01]} 24. Rad1 {[%emt 0:00:06]} Ke7 {
+[%emt 0:00:01]} 25. g3 {[%emt 0:00:03]} Ke6 {[%emt 0:00:01]} 26. Kg2 {[%emt 0:
+00:01]} g5 {[%emt 0:00:01]} 27. f4 {[%emt 0:00:01]} gxf4 {[%emt 0:00:01]} 28.
+gxf4 {[%emt 0:00:00]} Rg8+ {[%emt 0:00:03]} 29. Kf3 {[%emt 0:00:01]} Kf5 {
+[%emt 0:00:02]} 30. e6 {[%emt 0:00:05]} fxe6 {[%emt 0:00:03]} 31. Re5+ {
+[%emt 0:00:00]} Kf6 {[%emt 0:00:00]} 32. Rde1 {[%emt 0:00:01]} Bf5 {[%emt 0:00:
+02] Norabelle resigns  (Lag: Av=0.78s, max=6.7s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.04"]
+[Round "?"]
+[White "Zayats"]
+[Black "Norabelle"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2700"]
+[BlackElo "2582"]
+[PlyCount "62"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} d5 {[%emt 0:00:02]} 2. exd5 {[%emt 0:00:03]} Nf6 {
+[%emt 0:00:00]} 3. d4 {[%emt 0:00:02]} Nxd5 {[%emt 0:00:01]} 4. Nf3 {[%emt 0:
+00:00]} Bg4 {[%emt 0:00:02]} 5. Be2 {[%emt 0:00:00]} Nc6 {[%emt 0:00:02]} 6.
+O-O {[%emt 0:00:00]} e6 {[%emt 0:00:01]} 7. c4 {[%emt 0:00:01]} Nb6 {[%emt 0:
+00:01]} 8. Be3 {[%emt 0:00:00]} Bxf3 {[%emt 0:00:01]} 9. Bxf3 {[%emt 0:00:01]}
+Nxc4 {[%emt 0:00:00]} 10. Qa4 {[%emt 0:00:01]} Nb6 {[%emt 0:00:01]} 11. Bxc6+ {
+[%emt 0:00:01]} bxc6 {[%emt 0:00:00]} 12. Qxc6+ {[%emt 0:00:00]} Qd7 {[%emt 0:
+00:00]} 13. Qf3 {[%emt 0:00:00]} Bd6 {[%emt 0:00:05]} 14. Nc3 {[%emt 0:00:01]}
+O-O {[%emt 0:00:01]} 15. Ne4 {[%emt 0:00:02]} Nd5 {[%emt 0:00:02]} 16. Rac1 {
+[%emt 0:00:02]} a5 {[%emt 0:00:05]} 17. Nc5 {[%emt 0:00:11]} Bxc5 {[%emt 0:00:
+09]} 18. Rxc5 {[%emt 0:00:02]} a4 {[%emt 0:00:00]} 19. Rfc1 {[%emt 0:00:01]}
+Rfb8 {[%emt 0:00:06]} 20. Qe2 {[%emt 0:00:02]} Rb4 {[%emt 0:00:07]} 21. h3 {
+[%emt 0:00:02]} Rab8 {[%emt 0:00:04]} 22. R1c2 {[%emt 0:00:01]} R4b5 {[%emt 0:
+00:17]} 23. R5c4 {[%emt 0:00:02]} R5b7 {[%emt 0:00:05]} 24. Qd2 {[%emt 0:00:04]
+} Nb4 {[%emt 0:00:05]} 25. R2c3 {[%emt 0:00:06]} Nxa2 {[%emt 0:00:03]} 26. Ra3
+{[%emt 0:00:01]} Rxb2 {[%emt 0:00:08]} 27. Qd3 {[%emt 0:00:02]} Rb1+ {[%emt 0:
+00:07]} 28. Kh2 {[%emt 0:00:01]} Qd6+ {[%emt 0:00:02]} 29. g3 {[%emt 0:00:04]}
+Qd5 {[%emt 0:00:04]} 30. g4 {[%emt 0:00:06]} Qf3 {[%emt 0:00:06]} 31. Bc1 {
+[%emt 0:00:05]} Qxd3 {[%emt 0:00:03] Zayats gibt auf  (Lag: Av=0.76s, max=3.1s)
+} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.04"]
+[Round "?"]
+[White "Norabelle"]
+[Black "Zayats"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2582"]
+[BlackElo "2700"]
+[PlyCount "35"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:01]} 2. Nf3 {[%emt 0:00:02]} d6 {[%emt 0:
+00:01]} 3. d4 {[%emt 0:00:01]} Nf6 {[%emt 0:00:00]} 4. dxe5 {[%emt 0:00:02]}
+Nxe4 {[%emt 0:00:01]} 5. Nbd2 {[%emt 0:00:00]} Bf5 {[%emt 0:00:04]} 6. Nxe4 {
+[%emt 0:00:10]} Bxe4 {[%emt 0:00:01]} 7. Bg5 {[%emt 0:00:11]} Bxf3 {[%emt 0:00:
+03]} 8. Qxf3 {[%emt 0:00:04]} Qxg5 {[%emt 0:00:01]} 9. Qxb7 {[%emt 0:00:01]}
+Qxe5+ {[%emt 0:00:01]} 10. Be2 {[%emt 0:00:07]} Be7 {[%emt 0:00:09]} 11. Qxa8 {
+[%emt 0:00:08]} O-O {[%emt 0:00:00]} 12. Qf3 {[%emt 0:00:09]} Bf6 {[%emt 0:00:
+08]} 13. O-O {[%emt 0:00:13]} Qxb2 {[%emt 0:00:01]} 14. Bd3 {[%emt 0:00:06]} g6
+{[%emt 0:00:18]} 15. Rab1 {[%emt 0:00:02]} Qd4 {[%emt 0:00:02]} 16. Rb7 {
+[%emt 0:00:07]} Nd7 {[%emt 0:00:06]} 17. Rxc7 {[%emt 0:00:05]} Ne5 {[%emt 0:00:
+01]} 18. Qxf6 {[%emt 0:00:05] Zayats gibt auf  (Lag: Av=0.78s, max=6.7s)} 1-0
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.04"]
+[Round "?"]
+[White "OldInChess"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "2563"]
+[BlackElo "2633"]
+[PlyCount "44"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. Nf3 {[%emt 0:00:02]} Nc6 {[%emt 0:00:00]} 2. g3 {[%emt 0:00:01]} e5 {
+[%emt 0:00:01]} 3. Bg2 {[%emt 0:00:01]} d5 {[%emt 0:00:01]} 4. O-O {[%emt 0:00:
+07]} Nf6 {[%emt 0:00:01]} 5. c4 {[%emt 0:00:07]} d4 {[%emt 0:00:02]} 6. e3 {
+[%emt 0:00:05]} a5 {[%emt 0:00:02]} 7. exd4 {[%emt 0:00:05]} exd4 {[%emt 0:00:
+00]} 8. Re1+ {[%emt 0:00:04]} Be7 {[%emt 0:00:01]} 9. Qe2 {[%emt 0:00:05]} O-O
+{[%emt 0:00:02]} 10. Na3 {[%emt 0:00:04]} d3 {[%emt 0:00:07]} 11. Qf1 {[%emt 0:
+00:08]} Nb4 {[%emt 0:00:03]} 12. h4 {[%emt 0:00:10]} c6 {[%emt 0:00:02]} 13.
+Ne5 {[%emt 0:00:06]} Bc5 {[%emt 0:00:03]} 14. Kh2 {[%emt 0:00:06]} Re8 {
+[%emt 0:00:05]} 15. f4 {[%emt 0:00:07]} Rxe5 {[%emt 0:00:04]} 16. Rxe5 {
+[%emt 0:00:06]} Ng4+ {[%emt 0:00:01]} 17. Kh1 {[%emt 0:00:04]} Nxe5 {[%emt 0:
+00:10]} 18. fxe5 {[%emt 0:00:01]} Qd4 {[%emt 0:00:03]} 19. Qe1 {[%emt 0:00:05]}
+Bg4 {[%emt 0:00:05]} 20. Qe3 {[%emt 0:00:05]} Re8 {[%emt 0:00:01]} 21. Qxd4 {
+[%emt 0:00:05]} Bxd4 {[%emt 0:00:00]} 22. e6 {[%emt 0:00:04]} Rxe6 {[%emt 0:00:
+01] OldInChess resigns  (Lag: Av=1.0s, max=1s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.04"]
+[Round "?"]
+[White "Zayats"]
+[Black "OldInChess"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2649"]
+[BlackElo "2547"]
+[PlyCount "36"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e3 {[%emt 0:00:00]} Nf6 {[%emt 0:00:04]} 2. c4 {[%emt 0:00:02]} g6 {[%emt 0:
+00:01]} 3. Nc3 {[%emt 0:00:00]} Bg7 {[%emt 0:00:02]} 4. g3 {[%emt 0:00:01]} d5
+{[%emt 0:00:06]} 5. Bg2 {[%emt 0:00:00]} c6 {[%emt 0:00:02]} 6. cxd5 {[%emt 0:
+00:06]} Nxd5 {[%emt 0:00:05]} 7. Nge2 {[%emt 0:00:00]} O-O {[%emt 0:00:12]} 8.
+O-O {[%emt 0:00:02]} Bg4 {[%emt 0:00:03]} 9. Nxd5 {[%emt 0:00:03]} cxd5 {
+[%emt 0:00:05]} 10. d4 {[%emt 0:00:02]} Qd7 {[%emt 0:00:06]} 11. f3 {[%emt 0:
+00:05]} Bf5 {[%emt 0:00:03]} 12. Qb3 {[%emt 0:00:02]} Rc8 {[%emt 0:00:11]} 13.
+Nc3 {[%emt 0:00:03]} Bd3 {[%emt 0:00:06]} 14. Qxd5 {[%emt 0:00:16]} Bxf1 {
+[%emt 0:00:02]} 15. Bxf1 {[%emt 0:00:00]} Qxd5 {[%emt 0:00:06]} 16. Nxd5 {
+[%emt 0:00:01]} Nc6 {[%emt 0:00:02]} 17. Bb5 {[%emt 0:00:05]} Kf8 {[%emt 0:00:
+06]} 18. b3 {[%emt 0:00:01]} Nxd4 {[%emt 0:00:07] Zayats gibt auf  (Lag: Av=1.
+01s, max=1.5s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.04"]
+[Round "?"]
+[White "OldInChess"]
+[Black "Zayats"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2547"]
+[BlackElo "2649"]
+[PlyCount "72"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. Nf3 {[%emt 0:00:01]} d6 {[%emt 0:00:02]} 2. g3 {[%emt 0:00:02]} g6 {[%emt 0:
+00:00]} 3. Bg2 {[%emt 0:00:03]} Bg7 {[%emt 0:00:00]} 4. O-O {[%emt 0:00:02]} e5
+{[%emt 0:00:01]} 5. d4 {[%emt 0:00:05]} e4 {[%emt 0:00:01]} 6. Nfd2 {[%emt 0:
+00:04]} f5 {[%emt 0:00:00]} 7. c4 {[%emt 0:00:06]} Nc6 {[%emt 0:00:04]} 8. d5 {
+[%emt 0:00:05]} Ne5 {[%emt 0:00:02]} 9. Nc3 {[%emt 0:00:02]} Nf6 {[%emt 0:00:
+02]} 10. f4 {[%emt 0:00:16]} Neg4 {[%emt 0:00:02]} 11. Nb3 {[%emt 0:00:03]} O-O
+{[%emt 0:00:03]} 12. h3 {[%emt 0:00:06]} Nh6 {[%emt 0:00:01]} 13. Bd2 {[%emt 0:
+00:10]} c5 {[%emt 0:00:01]} 14. dxc6 {[%emt 0:00:09]} bxc6 {[%emt 0:00:00]} 15.
+Be1 {[%emt 0:00:05]} a5 {[%emt 0:00:02]} 16. Bf2 {[%emt 0:00:06]} Be6 {[%emt 0:
+00:11]} 17. c5 {[%emt 0:00:05]} Bxb3 {[%emt 0:00:13]} 18. axb3 {[%emt 0:00:06]}
+d5 {[%emt 0:00:00]} 19. Bd4 {[%emt 0:00:05]} Nd7 {[%emt 0:00:05]} 20. Bxg7 {
+[%emt 0:00:06]} Kxg7 {[%emt 0:00:00]} 21. Na4 {[%emt 0:00:05]} Qf6 {[%emt 0:00:
+04]} 22. e3 {[%emt 0:00:04]} Rfb8 {[%emt 0:00:02]} 23. Rf2 {[%emt 0:00:06]} Rb5
+{[%emt 0:00:02]} 24. Bf1 {[%emt 0:00:07]} Rb4 {[%emt 0:00:04]} 25. Rd2 {
+[%emt 0:00:03]} Nf7 {[%emt 0:00:06]} 26. Be2 {[%emt 0:00:06]} Rab8 {[%emt 0:00:
+02]} 27. Ra3 {[%emt 0:00:03]} Nd8 {[%emt 0:00:01]} 28. Qc2 {[%emt 0:00:04]} Ne6
+{[%emt 0:00:02]} 29. Rd1 {[%emt 0:00:04]} d4 {[%emt 0:00:04]} 30. exd4 {
+[%emt 0:00:05]} Nxd4 {[%emt 0:00:02]} 31. Qd2 {[%emt 0:00:01]} R8b7 {[%emt 0:
+00:06]} 32. Kh2 {[%emt 0:00:05]} Nxb3 {[%emt 0:00:03]} 33. Qe3 {[%emt 0:00:02]}
+Nd4 {[%emt 0:00:03]} 34. Rd2 {[%emt 0:00:03]} h6 {[%emt 0:00:10]} 35. Bd1 {
+[%emt 0:00:04]} g5 {[%emt 0:00:01]} 36. Ra1 {[%emt 0:00:05]} Nf8 {[%emt 0:00:
+03] OldInChess resigns  (Lag: Av=1.0s, max=1s)} 0-1
+
+[Event "Rated game, 3m + 0s"]
+[Site "Main Playing Hall"]
+[Date "2002.08.04"]
+[Round "?"]
+[White "Zayats"]
+[Black "OldInChess"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2649"]
+[BlackElo "2547"]
+[PlyCount "78"]
+[SourceTitle "playchess.com"]
+[TimeControl "180"]
+
+1. e4 {[%emt 0:00:00]} d5 {[%emt 0:00:01]} 2. Nc3 {[%emt 0:00:02]} d4 {[%emt 0:
+00:09]} 3. Nce2 {[%emt 0:00:02]} e5 {[%emt 0:00:05]} 4. Ng3 {[%emt 0:00:01]}
+Nc6 {[%emt 0:00:05]} 5. Nf3 {[%emt 0:00:01]} h5 {[%emt 0:00:12]} 6. h4 {
+[%emt 0:00:05]} Bg4 {[%emt 0:00:03]} 7. Bc4 {[%emt 0:00:04]} Qf6 {[%emt 0:00:
+12]} 8. c3 {[%emt 0:00:02]} O-O-O {[%emt 0:00:04]} 9. O-O {[%emt 0:00:17]} Be7
+{[%emt 0:00:09]} 10. d3 {[%emt 0:00:05]} Bxf3 {[%emt 0:00:05]} 11. Qxf3 {
+[%emt 0:00:02]} Qxf3 {[%emt 0:00:02]} 12. gxf3 {[%emt 0:00:00]} Bxh4 {[%emt 0:
+00:04]} 13. Nf5 {[%emt 0:00:01]} Bf6 {[%emt 0:00:04]} 14. cxd4 {[%emt 0:00:02]}
+exd4 {[%emt 0:00:05]} 15. Bxf7 {[%emt 0:00:02]} g6 {[%emt 0:00:03]} 16. Ng3 {
+[%emt 0:00:31]} h4 {[%emt 0:00:02]} 17. Ne2 {[%emt 0:00:03]} Ne5 {[%emt 0:00:
+02]} 18. Be6+ {[%emt 0:00:02]} Kb8 {[%emt 0:00:01]} 19. f4 {[%emt 0:00:00]}
+Nxd3 {[%emt 0:00:05]} 20. e5 {[%emt 0:00:01]} Nxc1 {[%emt 0:00:07]} 21. Raxc1 {
+[%emt 0:00:02]} d3 {[%emt 0:00:05]} 22. Nc3 {[%emt 0:00:03]} Bg7 {[%emt 0:00:
+01]} 23. Rfd1 {[%emt 0:00:05]} Bh6 {[%emt 0:00:09]} 24. Nd5 {[%emt 0:00:19]} c6
+{[%emt 0:00:03]} 25. Rxd3 {[%emt 0:00:00]} cxd5 {[%emt 0:00:06]} 26. Rxd5 {
+[%emt 0:00:00]} Ne7 {[%emt 0:00:05]} 27. Rxd8+ {[%emt 0:00:02]} Rxd8 {[%emt 0:
+00:02]} 28. Rc4 {[%emt 0:00:01]} Rd2 {[%emt 0:00:05]} 29. b4 {[%emt 0:00:01]}
+b5 {[%emt 0:00:04]} 30. Re4 {[%emt 0:00:10]} Bf8 {[%emt 0:00:01]} 31. Kg2 {
+[%emt 0:00:03]} Nf5 {[%emt 0:00:03]} 32. Bf7 {[%emt 0:00:03]} Ng3 {[%emt 0:00:
+05]} 33. Re1 {[%emt 0:00:06]} Ne2 {[%emt 0:00:04]} 34. Kf3 {[%emt 0:00:03]}
+Nxf4 {[%emt 0:00:05]} 35. e6 {[%emt 0:00:04]} Nd3 {[%emt 0:00:04]} 36. Re3 {
+[%emt 0:00:02]} Rxf2+ {[%emt 0:00:04]} 37. Kg4 {[%emt 0:00:01]} Rg2+ {[%emt 0:
+00:04]} 38. Kh3 {[%emt 0:00:03]} Nf4+ {[%emt 0:00:06]} 39. Kxh4 {[%emt 0:00:03]
+} g5# {[%emt 0:00:01] (Lag: Av=1.01s, max=1.6s)} 0-1

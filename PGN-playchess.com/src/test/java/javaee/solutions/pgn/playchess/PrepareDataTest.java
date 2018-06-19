@@ -42,7 +42,7 @@ public class PrepareDataTest {
 
     @Test
     public void testCleanup() throws IOException {
-        final File input = new File(BaseConstants.RESOURCES + "playchess.com", "PC_Zayats71.pgn");
+        final File input = new File(BaseConstants.RESOURCES + "playchess.com", Constants.FILE1);
         final File output = new File(Constants.PGN1);
         final IPrepareData prepareData = new PrepareData();
         prepareData.cleanup(input, output);

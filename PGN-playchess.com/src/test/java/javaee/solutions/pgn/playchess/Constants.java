@@ -37,8 +37,11 @@ import javaee.solutions.pgn.base.BaseConstants;
  */
 public final class Constants extends BaseConstants {
 
-    // chess.com
-    public static final String PGN1 = TARGET + "PC_Zayats71.pgn";
+    public static final String FILE1 = "PC_Zayats71-1.pgn";
+
+    // playchess.com
+    public static final String PGN1 = TARGET + FILE1;
+    public static final String PGN2 = TARGET + "PC_Zayats71-2.pgn";
 
     private Constants() {
         // no instance of this class allowed.
