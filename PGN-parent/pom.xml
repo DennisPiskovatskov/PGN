@@ -18,6 +18,7 @@
     <module>../PGN-playchess.com</module>
     <module>../PGN-chessclub.com</module>
     <module>../PGN-lichess.org</module>
+    <module>../PGN-converter</module>
   </modules>
 
   <dependencies>

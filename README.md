@@ -1,4 +1,4 @@
-# ANTLR Portable Game Notification (PGN) Parser
+# ANTLR Portable Game Notification (PGN) Parser & Converter to Stockfish
 
 A Portable Game Notation (PGN) ANTLR 4 grammar and parser for
 + http://chess.com
