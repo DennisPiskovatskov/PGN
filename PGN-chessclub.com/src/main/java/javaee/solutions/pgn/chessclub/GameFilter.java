@@ -28,32 +28,29 @@
  *                and parser for {@link http://chess.com}
  * Developed by : Dennis Piskovatskov, dennis.piskovatskov@javaee.solutions
  */
-package javaee.solutions.pgn.playchess;
+package javaee.solutions.pgn.chessclub;
 
 import java.util.List;
 
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
-
+import javaee.solutions.pgn.base.IGameFilter;
 import javaee.solutions.pgn.base.entity.PGNGame;
-import javaee.solutions.pgn.base.enumeration.EResult;
-import javaee.solutions.pgn.playchess.util.ParserUtil;
+import javaee.solutions.pgn.base.entity.Tag;
 
 /**
- * Test for <code>DataCollector</code>.
+ * Game filter for {@link http://chessclub.com}.
  */
-public class DataCollectorTest {
+public class GameFilter implements IGameFilter {
 
-    @Test
-    public void testParse() throws Exception {
-        final DataCollector collector = new DataCollector();
-        ParserUtil.parse(Constants.PGN1, collector);
+    @Override
+    public boolean accept(final PGNGame pgnGame) {
+        final List<Tag> tags = pgnGame.getTags();
+        for (final Tag tag : tags) {
+            if ("FEN".equals(tag.getName())) { // NOTE: ignore Fisher chess
+                return false;
+            }
+        }
 
-        final List<PGNGame> pgnGames = collector.getGames();
-        Assertions.assertEquals(6066, pgnGames.size());
-        Assertions.assertEquals(13, pgnGames.get(0).getTags().size());
-        Assertions.assertEquals(68, pgnGames.get(0).getMoves().size());
-        Assertions.assertEquals(EResult.WHITE_WINS, pgnGames.get(0).getResult());
+        return true;
     }
 
 }
