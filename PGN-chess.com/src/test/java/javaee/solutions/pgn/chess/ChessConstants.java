@@ -38,10 +38,11 @@ import javaee.solutions.pgn.base.BaseConstants;
 public final class ChessConstants extends BaseConstants {
 
     // chess.com
-    public static final String TEST1 = RESOURCES + "chess.com/1.pgn";
-    public static final String TEST2 = RESOURCES + "chess.com/chess_com_games_2018-06-15_tribrack.pgn";
-    public static final String TEST3 = RESOURCES + "chess.com/chess_com_games_2018-06-07_tribrack.pgn";
-    public static final String TEST4 = RESOURCES + "chess.com/chess_com_games_2018-06-15_Hikaru.pgn";
+    public static final String PGN1 = RESOURCES + "chess.com/1.pgn";
+    public static final String PGN2 = RESOURCES + "chess.com/chess_com_games_2018-06-15_tribrack.pgn";
+    public static final String PGN3 = RESOURCES + "chess.com/chess_com_games_2018-06-07_tribrack.pgn";
+    public static final String PGN4 = RESOURCES + "chess.com/chess_com_games_2018-06-15_Hikaru.pgn";
+    public static final String PGN4_EXTERNAL = "../PGN-chess.com/" + PGN4;
 
     private ChessConstants() {
         // no instance of this class allowed.

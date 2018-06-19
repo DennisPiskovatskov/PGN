@@ -25,38 +25,26 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  *
  * Project      : A Portable Game Notation (PGN) ANTLR 4 grammar
- *                and parser for {@link http://chess.com}
+ *                and parser for {@link http://chessclub.com}
  * Developed by : Dennis Piskovatskov, dennis.piskovatskov@javaee.solutions
  */
-package javaee.solutions.pgn.chess;
+package javaee.solutions.pgn.chessclub;
 
-import java.util.List;
-
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
-
-import javaee.solutions.pgn.base.IGameFilter;
-import javaee.solutions.pgn.base.entity.PGNGame;
-import javaee.solutions.pgn.base.enumeration.EResult;
-import javaee.solutions.pgn.base.filter.AcceptAllGamesFilter;
-import javaee.solutions.pgn.chess.util.ParserUtil;
+import javaee.solutions.pgn.base.BaseConstants;
 
 /**
- * Test for <code>DataCollector</code>.
+ * Constants for tests.
  */
-public class ChessDataCollectorTest {
+public final class ChessclubConstants extends BaseConstants {
 
-    @Test
-    public void testParse() throws Exception {
-        final IGameFilter gameFilter = new AcceptAllGamesFilter();
-        final ChessDataCollector collector = new ChessDataCollector(gameFilter);
-        ParserUtil.parse(ChessConstants.PGN1, collector);
+    public static final String FILE1 = "icc_Zayats71.pgn";
 
-        final List<PGNGame> pgnGames = collector.getGames();
-        Assertions.assertEquals(1, pgnGames.size());
-        Assertions.assertEquals(12, pgnGames.get(0).getTags().size());
-        Assertions.assertEquals(95, pgnGames.get(0).getMoves().size());
-        Assertions.assertEquals(EResult.DRAW, pgnGames.get(0).getResult());
+    // lichess.com
+    public static final String PGN1 = BaseConstants.RESOURCES + "chessclub.com/" + FILE1;
+    public static final String PGN1_EXTERNAL = "../PGN-chessclub.com/" + PGN1;
+
+    private ChessclubConstants() {
+        // no instance of this class allowed.
     }
 
 }

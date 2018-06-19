@@ -41,6 +41,11 @@
       <artifactId>PGN-lichess.org</artifactId>
       <version>0.0.1-SNAPSHOT</version>
     </dependency>
+    <dependency>
+      <groupId>com.github.bhlangonijr</groupId>
+      <artifactId>chesslib</artifactId>
+      <version>1.1.1</version>
+    </dependency>
   </dependencies>
 
   <build>

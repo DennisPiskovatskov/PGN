@@ -43,8 +43,8 @@ public class ParserUtilTest {
 
     @Test
     public void testParse() throws Exception {
-        final String[] fileNames = { ChessConstants.TEST1, ChessConstants.TEST2, ChessConstants.TEST3,
-                ChessConstants.TEST4 };
+        final String[] fileNames = { ChessConstants.PGN1, ChessConstants.PGN2, ChessConstants.PGN3,
+                ChessConstants.PGN4 };
         for (final String fileName : fileNames) {
             ParserUtil.parse(fileName, new ExampleListener());
         }
