@@ -30,6 +30,15 @@
  */
 grammar PGN;
 
+/// This rule allows ANTLR 4 to parse grammars using the UTF-8 encoding with a
+/// byte order mark. Since this Unicode character doesn't appear as a token
+/// anywhere else in the grammar, we can simply skip all instances of it without
+/// problem. This rule will not break usage of \uFEFF inside a LEXER_CHAR_SET or
+/// STRING_LITERAL.
+UnicodeBOM
+ : '\uFEFF' -> skip
+ ;
+
 /// The entry point of the grammar.
 parse
  : game* EOF
@@ -70,14 +79,19 @@ movetext_section
  : element_sequence* game_termination
  ;
 
-/// 1. e4 {[%clk 0:02:59.2]}
+/// 1. e4 {[%emt 0:02:59]}
 element_sequence
- : move_number BLANK* move BLANK* clock?
+ : move_number BLANK* move_element move_element?
  ;
 
 /// 1.
 move_number
  : MOVE_NUMBER
+ ;
+
+/// e4 {[%emt 0:00:00]}
+ move_element
+ : move BLANK? emt? BLANK*
  ;
 
 /// .
@@ -86,8 +100,8 @@ move
  ;
 
 /// .
-clock
- : '{[%clk' BLANK* time ']}' BLANK*
+emt
+ : '{' WS? '[%emt' BLANK time ']' WS? '}' BLANK*
  ;
 
 /// .
@@ -104,7 +118,7 @@ game_termination
 
 /// .
 MOVE_NUMBER
- : INTEGER PERIOD+
+ : INTEGER PERIOD
  ; 
 
 /// Nce6+ | O-O | O-O-O
@@ -112,9 +126,9 @@ MOVE
  : MOVE_PIECE_TO_FIELD [+#]? | 'O-O' | 'O-O-O'
  ;
 
-/// e4 | Nf3 | Nxc6 | Nce6 | exd4 | b1=Q | Ndxe | R8e3 | Rfxd3 | R2xc3
+/// e4 | Nf3 | Nxc6 | Nce6 | exd4 | b1=Q | Ndxe | R8e3 | Rfxd3 | R2xc3 | dxc8=Q+
 MOVE_PIECE_TO_FIELD
- : (BOARD_LETTER [x])? BOARD_FIELD /// e4 | exd4
+ : (BOARD_LETTER [x])? BOARD_FIELD ([=] PIECE)? /// e4 | exd4 | dxc8=Q+
  | (PIECE (BOARD_LETTER | BOARD_NUMBER)? [x]? BOARD_FIELD) /// Nf3 | Nxc6 | Rfxd3 R2xc3
  | (PIECE (BOARD_LETTER | BOARD_NUMBER) (([x] BOARD_LETTER) | BOARD_FIELD)) /// Ndxe | Nce6 | R8e3
  | (BOARD_FIELD [=] PIECE) /// b1=Q
@@ -140,9 +154,9 @@ BOARD_LETTER
  : [abcdefgh]
  ;
  
-/// [0:9] ':' [0-9][0-9] ':' [0-9][0-9] '.' [0-9]
+/// [0:9] ':' [0-9][0-9] ':' [0-9][0-9]
 TIME
- : INTEGER ':' INTEGER ':' INTEGER ('.' INTEGER)?
+ : INTEGER ':' WS? INTEGER ':' WS? INTEGER
  ;
 
 // BlackElo
@@ -180,9 +194,9 @@ BLANK
  : ' '
  ;
 
-/// Skip all \r and \n
-SPACE
- : [\r\n]+ -> skip
+/// Skip all \r and \n -> channel(HIDDEN)
+WS
+ : [ \r\n]+ -> skip
  ;
 
 /// Digit
@@ -204,3 +218,5 @@ LEFT_BRACKET
 RIGHT_BRACKET
  : ']'
  ;
+
+ 
