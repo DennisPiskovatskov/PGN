@@ -1,0 +1,2302 @@
+﻿[Event "Rated Chess960 game"]
+[Site "https://lichess.org/sbbY2VEs"]
+[Date "2018.06.07"]
+[Round "?"]
+[White "Zayats71"]
+[Black "FredrikLarsson"]
+[Result "1-0"]
+[WhiteElo "2349"]
+[BlackElo "2217"]
+[SetUp "1"]
+[FEN "nrqkrnbb/pppppppp/8/8/8/8/PPPPPPPP/NRQKRNBB w - - 0 1"]
+[PlyCount "28"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. g3 e5 2. f4 exf4 3. d3 fxg3 4. Nxg3 Ne6 5. Nb3 g6 6. Qh6 Nb6 7. Ne4 d5 8.
+Qh4+ Re7 9. Nec5 Ke8 {O-O-O h5} 10. e4 d4 11. e5 c6 12. Nxe6 Qxe6 13. Bxd4 Rd8
+14. Bg2 Qg4+ {Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/6WH2Kmlf"]
+[Date "2018.06.07"]
+[Round "?"]
+[White "FredrikLarsson"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2224"]
+[BlackElo "2340"]
+[SetUp "1"]
+[FEN "nrqkrnbb/pppppppp/8/8/8/8/PPPPPPPP/NRQKRNBB w - - 0 1"]
+[PlyCount "35"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. e4 g6 2. Ng3 d6 3. Nb3 Nb6 4. c3 f5 5. f3 fxe4 6. Nxe4 Ne6 7. Qc2 Qd7 {
+O-O-O Qa4 Kb1 O-O-O} 8. d4 Nf4 9. g3 Nfd5 10. Bg2 Nc4 11. Bf1 {Kb8 Bd3} Ndb6
+12. h4 Qc6 13. Bf2 Na4 14. Bxc4 Qxc4 15. Ned2 Qa6 16. Ne4 Nb6 17. Ng5 Nc4 18.
+Ne6+ {Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/41wohi1D"]
+[Date "2018.06.07"]
+[Round "?"]
+[White "Zayats71"]
+[Black "yreyesq"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "2641"]
+[BlackElo "2249"]
+[PlyCount "117"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 f6 5. Bb5 Nge7 6. O-O Bd7 7. exd5 Nxd5 8.
+d4 Nb6 9. Qb3 exd4 10. Re1+ Be7 11. cxd4 Na5 12. Qd3 a6 13. Bxd7+ Qxd7 14. Qe4
+Nd5 15. Nc3 c6 16. Bd2 Nc4 17. Nxd5 cxd5 18. Qd3 Nxb2 19. Qb3 Nc4 20. Bb4 Nd6
+21. Qxd5 O-O-O 22. Rab1 Rhe8 23. Ba5 Nb5 24. Qc4+ Kb8 25. Bxd8 Rxd8 26. Re3 Rc8
+27. Qf7 Rc7 28. Rbe1 Bb4 29. Re8+ Ka7 30. Qxd7 Rxd7 31. Rd1 Nc3 32. Ra1 Ba3 33.
+g3 a5 34. Kg2 b5 35. Rae1 Bd6 36. Nd2 a4 37. Ne4 Nxe4 38. R1xe4 b4 39. d5 Ka6
+40. Rc4 Kb5 41. Rc6 b3 42. axb3 axb3 43. Re3 Ka4 44. Ra6+ Kb4 45. Rb6+ Kc4 46.
+Rbxb3 Kxd5 47. Rbd3+ Kc6 48. Re6 Kc7 49. h4 h6 50. h5 Kc6 51. Kh3 Kc7 52. Kg4
+Kc6 53. Kf5 Kc7 54. Kg6 Kc6 55. Rdxd6+ Rxd6 56. Rxd6+ Kxd6 57. Kxg7 Ke6 58.
+Kxh6 f5 59. Kg6 {Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/KUDA5bZB"]
+[Date "2018.06.07"]
+[Round "?"]
+[White "BilllyBones"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2091"]
+[BlackElo "2334"]
+[SetUp "1"]
+[FEN "bbnqrnkr/pppppppp/8/8/8/8/PPPPPPPP/BBNQRNKR w - - 0 1"]
+[PlyCount "35"]
+[EventDate "2018.??.??"]
+[TimeControl "180+1"]
+
+1. c4 b6 2. d4 e6 3. b3 c5 4. d5 Ng6 5. e4 Be5 6. Bxe5 Nxe5 7. f4 Ng6 8. g3 h5
+9. Ne3 d6 {O-O} 10. h4 {Qg4 hxg3 hxg3} Qf6 11. Ne2 Nce7 12. Kg2 {O-O-O} Qg5 {
+Qb2 Rf2 exd5 exd5 Rde8} 13. Ng1 {Qc3 Ree2} Rh6 {Nd1} 14. Qc1 {Bf5+ Kc7 Rf1}
+Nxd5 15. cxd5 Bxd5 16. Kf2 {Rh2+ Ke1 Rhxe2+ Nxe2 Qa1 Bxg6 Qxa2 Bh5} Bxb3 {Nc3}
+17. Qc2 {Qxg7} Re7 {Kf2 Bc4 Re1} 18. Qd3 {Time forfeit} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/sjcAMK0f"]
+[Date "2018.06.07"]
+[Round "?"]
+[White "dreamteamer"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2254"]
+[BlackElo "2320"]
+[SetUp "1"]
+[FEN "nbbrknqr/pppppppp/8/8/8/8/PPPPPPPP/NBBRKNQR w Kk - 0 1"]
+[PlyCount "35"]
+[EventDate "2018.??.??"]
+[TimeControl "120+3"]
+
+1. d4 d5 2. Bf4 Nb6 3. Nb3 Ng6 4. Bg3 h5 5. h3 h4 6. Bh2 Qh7 7. c3 Qh5 8. e3
+Nc4 9. g4 hxg3 10. Nxg3 Qg5 {O-O-O Nh4} 11. f4 Qf6 12. Qf2 a5 13. Nc5 b6 14.
+Nd3 {Nf5 Ne5 Nfxe3 Rde1 Nf5 Nxc4 dxc4 Ne4 Qh6 Ng5} O-O 15. Rg1 e6 16. Qe2 b5
+17. Qg4 b4 {Nf3 c5 dxc5 Rd5} 18. Ne5 {Normal} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/Mi39M23R"]
+[Date "2018.06.07"]
+[Round "?"]
+[White "Isaev_Anton"]
+[Black "Zayats71"]
+[Result "1-0"]
+[WhiteElo "2099"]
+[BlackElo "2369"]
+[SetUp "1"]
+[FEN "qrnbknbr/pppppppp/8/8/8/8/PPPPPPPP/QRNBKNBR w Kk - 0 1"]
+[PlyCount "79"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. b3 f6 2. c4 b5 3. f3 bxc4 4. bxc4 Bxc4 5. Ne3 Be6 6. Bf2 Ng6 7. O-O O-O 8.
+Nd3 d6 9. Bb3 Bxb3 10. axb3 c5 11. Qa4 Nb6 12. Qg4 Qc6 13. Qe6+ Kh8 14. h4 Qd7
+15. Qxd7 Nxd7 16. h5 Nge5 17. Nxe5 fxe5 18. Nd5 e6 19. Nc3 Bg5 20. Rfd1 Rb7 21.
+Ne4 Be7 22. d3 Rfb8 23. Nd2 Nb6 24. Ra1 Nd5 25. Rdb1 Kg8 26. Ra6 Nc7 27. Rc6
+Ne8 28. g4 Rxb3 29. Rxb3 Ra8 30. Rb7 Bf8 31. Ne4 h6 32. Ra6 Rc8 33. Raxa7 c4
+34. dxc4 Rxc4 35. Rb8 Rxe4 36. fxe4 Nf6 37. Raa8 Nh7 38. Bh4 Kf7 39. Rb7+ Kg8
+40. Be7 {Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/GxT9V1qK"]
+[Date "2018.06.07"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Isaev_Anton"]
+[Result "1-0"]
+[WhiteElo "2364"]
+[BlackElo "2103"]
+[SetUp "1"]
+[FEN "qrnbknbr/pppppppp/8/8/8/8/PPPPPPPP/QRNBKNBR w Kk - 0 1"]
+[PlyCount "45"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. b4 Ne6 2. f3 f6 3. e4 Nb6 4. Nb3 Na4 5. c4 b6 6. d4 Nf4 7. Ne3 Nd3+ 8. Kf1
+Nxb4 9. d5 Nc5 10. Nd4 a5 11. a3 Nbd3 12. Qc3 e5 13. Ndf5 g6 14. Nh6 Be7 15. g3
+a4 16. Be2 Nf4 17. gxf4 exf4 18. Neg4 {O-O-O Nxf6} c6 {Nfxg8 Rhxg8} 19. Nxg8
+Rxg8 20. Rxb6 Qa7 21. Rb4 Qc7 22. e5 d6 23. Bxc5 {Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/3PnPNkCA"]
+[Date "2018.06.03"]
+[Round "?"]
+[White "Zayats71"]
+[Black "RemiTarrakji"]
+[Result "1-0"]
+[WhiteElo "2360"]
+[BlackElo "2008"]
+[SetUp "1"]
+[FEN "brkbnnqr/pppppppp/8/8/8/8/PPPPPPPP/BRKBNNQR w - - 0 1"]
+[PlyCount "43"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. b3 Ng6 2. e3 e5 3. Bf3 b6 4. Bxa8 Rxa8 5. h4 Bf6 6. g4 h6 7. h5 Nf8 8. Ng3
+Nd6 9. Qg2 c6 10. Nd3 Ne6 11. Nxe5 Bxe5 12. Bxe5 Ne8 13. Nf5 Qf8 {O-O-O f6} 14.
+Bb2 d5 15. c4 N6c7 {Kb1} 16. Nd6+ {Ba3 c5 cxd5 Nxf5 gxf5} Qxd6 17. e4 Qe5 {
+Bb2 Qd6} 18. d4 {cxd4 Rxd4} Nb5 {Rc1+ Kb7 Rdc4 Rac8 Rc6 Rxc6 dxc6+ Kc7} 19. a4
+{Qd3+ Ka2} Nxd4 20. Qg3 Qxg3 21. fxg3 {Nxc6 e5} Rf8 {e6 Kb7} 22. Rd1 {Normal}
+1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/keeh0Ko3"]
+[Date "2018.06.03"]
+[Round "?"]
+[White "Amir_Arya"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2074"]
+[BlackElo "2355"]
+[SetUp "1"]
+[FEN "bbrkqnrn/pppppppp/8/8/8/8/PPPPPPPP/BBRKQNRN w - - 0 1"]
+[PlyCount "36"]
+[EventDate "2018.??.??"]
+[TimeControl "300"]
+
+1. b3 Nhg6 2. c4 c5 3. Ne3 Be5 4. Bxg6 Bxa1 5. Bxf7 Qxf7 6. Rxa1 b6 7. f3 Ne6
+8. Nc2 {O-O Ng3} Nf4 9. d3 d5 10. cxd5 Qxd5 {Ne4 Rc6} 11. g3 Nxd3 12. exd3 {
+Rxf3 Nd2 Re6 Nxf3} Qxf3+ 13. Kd2 {Rxe1 Raxe1} e5 {Re2 e4 dxe4 Bxe4 Rge1 Qd3+}
+14. Kc1 {Bg6 Rd2 Qc3 Re3} Qf6 {Rde2 h5} 15. h4 Qf1 16. Kb2 Qf5 {Re5 Qf6} 17.
+Na3 {Bd3 Re3} Qf2+ 18. Kc3 {Bg6 Re2} Qd4+ {Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sxvrRCWP"]
+[Date "2018.06.03"]
+[Round "?"]
+[White "Zayats71"]
+[Black "platre"]
+[Result "1-0"]
+[ECO "D01"]
+[WhiteElo "2628"]
+[BlackElo "2613"]
+[PlyCount "189"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nc3 d5 2. d4 Nf6 3. Bg5 Nbd7 4. f3 c5 5. dxc5 Nxc5 6. Bxf6 exf6 7. Qxd5 Qb6
+8. O-O-O Be6 9. Qd4 Be7 10. Na4 Qc7 11. Nxc5 Bxc5 12. Qa4+ Bd7 13. Qb3 Be6 14.
+Qb5+ Ke7 15. e4 Rhc8 16. Qe2 b5 17. Qd2 a5 18. Bd3 Bxa2 19. Ne2 a4 20. Nc3 Bb4
+21. Nd5+ Bxd5 22. Qxb4+ Qc5 23. Qxc5+ Rxc5 24. exd5 Kd6 25. Kd2 b4 26. Ra1 a3
+27. bxa3 bxa3 28. Rhb1 Rxd5 29. Rb5 Rxb5 30. Bxb5 Kc5 31. Bd3 Kb4 32. Rb1+ Kc5
+33. Kc3 a2 34. Ra1 Ra3+ 35. Kb2 Kb4 36. Be4 g6 37. Bd5 Ra5 38. Bxf7 Kc5 39.
+Rxa2 Rb5+ 40. Bb3 Rb7 41. Ra5+ Kd4 42. Ra6 f5 43. Re6 Rc7 44. Kc1 Kc3 45. Re3+
+Kb4 46. Kd2 Rd7+ 47. Rd3 Re7 48. Rd5 Ka3 49. h4 Kb2 50. h5 gxh5 51. Rxf5 Rg7
+52. Rxh5 Rxg2+ 53. Ke3 Rg7 54. f4 Re7+ 55. Kf3 Kc3 56. f5 Re5 57. Kf4 Kd4 58.
+Rxh7 Re4+ 59. Kg5 Re1 60. Rd7+ Kc5 61. f6 Kc6 62. Re7 Rg1+ 63. Kh6 Kd6 64. Re3
+Kd7 65. f7 Rh1+ 66. Kg7 Rg1+ 67. Kf6 Rf1+ 68. Ke5 Ke7 69. Rh3 Re1+ 70. Kd4 Rd1+
+71. Kc3 Rf1 72. Rh8 Rf3+ 73. Kb2 Rf2 74. Re8+ Kd7 75. f8=Q Rxf8 76. Rxf8 Ke7
+77. Rf3 Kd6 78. Rd3+ Kc7 79. c4 Kc6 80. Kc3 Kc5 81. Rd5+ Kc6 82. c5 Kc7 83. Kc4
+Kb7 84. Rd6 Kc7 85. Kd5 Kc8 86. c6 Kc7 87. Kc5 Kc8 88. Rd7 Kb8 89. Kd6 Kc8 90.
+Re7 Kd8 91. c7+ Kc8 92. Be6+ Kb7 93. c8=Q+ Kb6 94. Rb7+ Ka5 95. Qa8# {Normal}
+1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7MPZcN47"]
+[Date "2018.06.03"]
+[Round "?"]
+[White "platre"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "A09"]
+[WhiteElo "2624"]
+[BlackElo "2614"]
+[PlyCount "108"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nf3 d5 2. c4 c6 3. g3 Nf6 4. Bg2 g6 5. b3 Bg7 6. Bb2 O-O 7. O-O Bf5 8. d4
+Ne4 9. Nc3 Nxc3 10. Bxc3 Be4 11. e3 b5 12. Qe2 bxc4 13. bxc4 Nd7 14. Bh3 Nb6
+15. Nd2 Bf5 16. Bxf5 gxf5 17. a4 c5 18. a5 Nxc4 19. Nxc4 dxc4 20. Qxc4 cxd4 21.
+Bxd4 Rc8 22. Qb4 Bxd4 23. exd4 e6 24. a6 Rc7 25. Rfd1 Rd7 26. Rab1 Qf6 27. Qc5
+Rfd8 28. Rb7 Rxd4 29. Rxd4 Qxd4 30. Qxd4 Rxd4 31. Rxa7 Ra4 32. Ra8+ Kg7 33. Kf1
+h5 34. f4 h4 35. Kg2 Ra3 36. Kh3 hxg3 37. hxg3 f6 38. Kh4 Ra1 39. Kh3 e5 40.
+fxe5 fxe5 41. Re8 Kf6 42. Rf8+ Ke6 43. Re8+ Kd5 44. Rd8+ Ke4 45. Rd6 Ra3 46.
+Kh4 f4 47. gxf4 Kxf4 48. Rf6+ Ke3 49. Kg3 e4 50. Kg2 Ke2 51. Rf2+ Kd3 52. Rf6
+Ra2+ 53. Kg3 e3 54. Kf3 Rf2+ {Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tXdgZCEV"]
+[Date "2018.06.03"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Gifer64"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2636"]
+[BlackElo "2397"]
+[PlyCount "86"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. g3 d5 2. Bh3 Bxh3 3. Nxh3 Nf6 4. d4 e6 5. Nc3 c5 6. dxc5 Bxc5 7. O-O O-O 8.
+Bg5 h6 9. Bxf6 Qxf6 10. Nf4 Nc6 11. e4 d4 12. Nce2 Ne7 13. Nd3 Bb6 14. f4 Rfd8
+15. g4 Rac8 16. Ng3 Qh4 17. Rf2 Rc7 18. f5 exf5 19. gxf5 Rc6 20. Qf3 Rdc8 21.
+Nb4 Rc4 22. f6 Qxf6 23. Qxf6 gxf6 24. Nd3 Rxc2 25. Raf1 Rxf2 26. Rxf2 Ng6 27.
+Nh5 Bd8 28. Nxf6+ Bxf6 29. Rxf6 Rc2 30. Rd6 Rd2 31. Nf2 Kg7 32. b4 Nf4 33. h4
+b5 34. e5 Rxa2 35. Ne4 d3 36. Kf1 Re2 37. Ng3 Rxe5 38. Rd4 Rd5 39. Rxf4 d2 40.
+Kg2 d1=Q 41. Kh3 Rd3 42. Rg4+ Kh7 43. h5 Qh1# {Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0IYEsF0n"]
+[Date "2018.06.03"]
+[Round "?"]
+[White "Gifer64"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "A06"]
+[WhiteElo "2402"]
+[BlackElo "2630"]
+[PlyCount "84"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nf3 d5 2. b3 g6 3. Bb2 Nf6 4. e3 Bg7 5. Be2 O-O 6. O-O a5 7. a3 Nbd7 8. d4
+Ne4 9. c4 Ndf6 10. Nc3 c6 11. b4 Nxc3 12. Bxc3 Ne4 13. Bb2 Bg4 14. c5 f6 15.
+Nd2 Bxe2 16. Qxe2 Nxd2 17. Qxd2 e5 18. Bc3 a4 19. b5 h5 20. Rab1 h4 21. h3 e4
+22. bxc6 bxc6 23. Rb6 Rc8 24. Qd1 f5 25. Qxa4 Qf6 26. Qa7 f4 27. exf4 Qxf4 28.
+Qd7 Rce8 29. Rb7 Qf6 30. Kh2 Ra8 31. Bb2 Ra4 32. Rc7 Rf7 33. Qe8+ Bf8 34. Rxf7
+Qxf7 35. Qxc6 Rc4 36. Qb6 Rc2 37. c6 Bd6+ 38. Kh1 e3 39. Qd8+ Bf8 40. Qxh4 Rxf2
+41. Rxf2 exf2 42. Kh2 Bd6+ {Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KPpVEXyQ"]
+[Date "2018.06.03"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Gifer64"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2623"]
+[BlackElo "2407"]
+[PlyCount "47"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nc3 d5 2. a4 Nf6 3. g4 d4 4. Nb5 Nxg4 5. Bg2 c6 6. Na3 e5 7. c3 Qf6 8. Nh3
+Bxa3 9. Rxa3 O-O 10. cxd4 exd4 11. Rg3 Nh6 12. d3 Nf5 13. Rf3 h6 14. Rg1 Be6
+15. Nf4 Nd7 16. Nh5 Qh4 17. Rh3 Qe7 18. Be4 g6 19. Ng3 Nxg3 20. Rhxg3 Kh7 21.
+e3 f5 22. Rxg6 fxe4 23. Qh5 Qb4+ 24. Bd2 {Normal} 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eKChZsRC"]
+[Date "2018.06.03"]
+[Round "?"]
+[White "Gifer64"]
+[Black "Zayats71"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2389"]
+[BlackElo "2646"]
+[PlyCount "83"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nf3 Nc6 2. e3 e5 3. d3 f5 4. c4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 8. Rb1
+d6 9. b4 f4 10. b5 Ne7 11. exf4 Nh5 12. fxe5 dxe5 13. Bg5 Nf4 14. Re1 h6 15.
+Bxf4 Rxf4 16. Bf1 Bg4 17. Be2 Qf8 18. Ne4 Rd8 19. Qa4 Bxf3 20. Bxf3 Rxf3 21.
+gxf3 Qxf3 22. Ng3 h5 23. Re3 Qf4 24. Qa3 Bf8 25. d4 h4 26. Rf3 Qg5 27. c5 exd4
+28. Qb3+ Nd5 29. Re1 Kh8 30. Qd3 Nf4 31. Qe4 Bh6 32. Qxb7 hxg3 33. hxg3 Nd5 34.
+Qc6 Bg7 35. Kg2 Qg4 36. Rh1+ Kg8 37. b6 Qd7 38. Qb7 cxb6 39. Qa6 bxc5 40. Qxg6
+Ne3+ 41. fxe3 dxe3 42. Qh7# {Normal} 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TpQqCwHH"]
+[Date "2018.06.03"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Gifer64"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2641"]
+[BlackElo "2393"]
+[PlyCount "81"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nc3 d6 2. d4 Nf6 3. e4 Nbd7 4. f4 e5 5. dxe5 dxe5 6. fxe5 Nxe5 7. Qxd8+ Kxd8
+8. Nf3 Nxf3+ 9. gxf3 c6 10. Bf4 Bb4 11. O-O-O+ Ke7 12. a3 Bxc3 13. Bd6+ Ke8 14.
+bxc3 Be6 15. Rg1 Rg8 16. Be5 Ke7 17. Bd6+ Ke8 18. f4 Nxe4 19. Be5 g6 20. Bg2
+Nf2 21. Rde1 Ng4 22. Bd4 Nh6 23. Bf6 Ng4 24. Bh4 Nh6 25. Be4 Kd7 26. Rd1+ Kc7
+27. Bf6 Nf5 28. Be5+ Kb6 29. Kd2 Rad8+ 30. Bd3 c5 31. Rb1+ Kc6 32. Kc1 b6 33.
+Bb5+ Kb7 34. a4 Bd5 35. a5 Be4 36. Bc4 Ne3 37. Bxf7 Bxc2 38. a6+ Kxa6 39. Ra1+
+Kb7 40. Bxg8 Rxg8 41. Re1 {Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/MLgspV5a"]
+[Date "2018.06.03"]
+[Round "?"]
+[White "TinyMinnow"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2050"]
+[BlackElo "2348"]
+[SetUp "1"]
+[FEN "brknqbnr/pppppppp/8/8/8/8/PPPPPPPP/BRKNQBNR w - - 0 1"]
+[PlyCount "25"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. b3 Nf6 2. Nf3 Nc6 3. g3 e6 4. Bg2 Ba3+ 5. Bb2 Bxb2+ 6. Kxb2 Qe7 7. c3 {
+O-O e4} a5 {e5 Nd5} 8. Ne3 {Nxe3 Qxe3} b5 {Rhe1} 9. b4 {c4} a4 10. d4 d6 {
+exd6 cxd6} 11. Nd2 {Qf6 Bxc6 Bxc6 f4 Ra8} Ne4 {Qe7 Ng5 h6} 12. Nf3 {Qa7 Kc2
+Bxf3 Qxf3 Qxd4 Rbd1} Qf6 {Rb1} 13. d5 {Normal} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/QKY0n7g6"]
+[Date "2018.06.03"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Former_Player"]
+[Result "0-1"]
+[WhiteElo "2355"]
+[BlackElo "2557"]
+[SetUp "1"]
+[FEN "rbknqnbr/pppppppp/8/8/8/8/PPPPPPPP/RBKNQNBR w - - 0 1"]
+[PlyCount "42"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. Ng3 d5 2. e4 c6 3. c3 Nd7 4. f3 f6 5. d4 e5 6. exd5 Bxd5 7. Ne3 exd4 8. cxd4
+Bf4 9. Bf5 g6 10. Bc2 f5 11. Bf2 Nb6 12. Qc3 Ne6 {O-O Bxe3 Qxe3 f4 Qe5 Nc4 Qf6
+Rf8 Qh4 fxg3 Bxg3 Qf7 Rfe1 O-O-O Rac1 Nd6} 13. Bd3 {Nf5 Bxf5 gxf5} Be5 {Rg8 Qf2
+} 14. f4 {b4 Rg5 b5 Rdg8 g3 fxg3 hxg3 Qxf3 Qxf3} Bf3 {bxc6 bxc6} 15. Rb1 Nc7 {
+Kf2 Bd5 Bf4 R5g7 Re5 Rf7 Ke2 Nb5 Kd3 a6} 16. a4 {Nc7 Rh5 Re8 Rb2} Be4 {Kc4
+Bd5+ Kc5 Ne6+ Kd6 Nxf4 gxf4 Rd8+ Kc5 Rb7 Rxb7 Kxb7 Rxh7+ Kc8 f5 Rd7 Rh8+ Kb7
+Rh5 Rf7} 17. a5 {Kc7 Rh6 Be4 f6} Bd5 {Kb4 Kd6 Kc3 Ke6 Kb4 Rxf6 Rh8} 18. Rf1 {
+Kc5} Kd7 {Rh7+ Ke6 Kb6} 19. Ra1 {Kxa6} Bc4 {Kb6 Kd5 Rh4 Bd3 Rh5+ Kc4 Kxc6} 20.
+Be4 Kd6 21. Rg1 {Rc5+ Kxd4 Rb5 Rg6+ Kc7 Kc4 Rb6 Rg7+ Kb8} Bd5 {Time forfeit}
+0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/5ZroieMk"]
+[Date "2018.06.03"]
+[Round "?"]
+[White "Former_Player"]
+[Black "Zayats71"]
+[Result "1-0"]
+[WhiteElo "2550"]
+[BlackElo "2363"]
+[SetUp "1"]
+[FEN "bbrkqnrn/pppppppp/8/8/8/8/PPPPPPPP/BBRKQNRN w - - 0 1"]
+[PlyCount "31"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. c4 Nhg6 2. g3 b6 3. f4 e6 4. Nf2 d5 5. b3 dxc4 6. Rxc4 Nd7 7. e4 c5 8. Ne3
+Qe7 9. e5 {O-O h4 Rfd8} h5 {Ngf8} 10. Qe2 b5 11. Rc1 Nb6 {h6 gxh6} 12. Nfg4 Nd5
+13. Nxd5 Bxd5 14. Nf6 {Kh8 Qh5} c4 {Qxh6 Qa3} 15. Rc3 cxb3 {Bxh7 Bf3+} 16. Ke1
+{Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/HhEcZnZC"]
+[Date "2018.06.03"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Former_Player"]
+[Result "0-1"]
+[WhiteElo "2371"]
+[BlackElo "2542"]
+[SetUp "1"]
+[FEN "bbrkqnrn/pppppppp/8/8/8/8/PPPPPPPP/BBRKQNRN w - - 0 1"]
+[PlyCount "37"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. b3 c5 2. Nhg3 b6 3. c4 f6 4. Ne3 g6 5. d4 cxd4 6. Bxd4 Ne6 7. Bb2 Nf7 8. Qd2
+Be5 {O-O Bxb2 Qxb2 d6} 9. Be4 Bxe4 10. Nxe4 f5 11. Nc3 {Qd7 Ned5 O-O e4} f4 12.
+f3 {Ne5 Rfd1} g5 13. Nb5 g4 {Nxb6 Nxf3+ gxf3 axb6 Kh1 Ng5} 14. fxg4 f3 15. Nd4
+{Nxe4 Nf5 e5 Rf1} h5 16. Qc2 hxg4 {Nh6+ Kh7} 17. Qe4 {Kxh6 Rg1 Rf4 Qe3} f2 {Rg2
+} 18. Qc6 {Rf1 Qc5 Qxc5 dxc5 Rgxf2 Kg5 Kg2 Rd8 Re2 Kf5 Rfe1 e4 Re3 Rd3 Rxd3
+exd3 Re8 d2} Rf8 {Kg5 Rg8+ Kh6 Rd8 Rd4 Rh8+ Kg7 Re8 d1=Q Re3 Qd2+ Kg3 Qxe3+ Kh4
+} 19. g3 {Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WpCkEh14"]
+[Date "2018.06.03"]
+[Round "?"]
+[White "AlexSh_95"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "A28"]
+[WhiteElo "2230"]
+[BlackElo "2636"]
+[PlyCount "50"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nf3 Nc6 2. c4 e5 3. Nc3 Nf6 4. d3 Bb4 5. g3 d6 6. Bg2 Bxc3+ 7. bxc3 O-O 8.
+O-O Re8 9. Bg5 h6 10. Bxf6 Qxf6 11. Nd2 Ne7 12. Ne4 Qg6 13. Rb1 f5 14. Nd2 c6
+15. e3 Kh8 16. f4 Ng8 17. d4 exf4 18. exf4 Nf6 19. Rf3 Qf7 20. Qf1 Be6 21. Qd3
+Re7 22. Rff1 Rae8 23. h3 Bc8 24. Qf3 Re3 25. Qf2 Re2 {Normal} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/1zJODg3F"]
+[Date "2018.05.24"]
+[Round "?"]
+[White "Ti-Ga"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2219"]
+[BlackElo "2362"]
+[SetUp "1"]
+[FEN "rknrbqnb/pppppppp/8/8/8/8/PPPPPPPP/RKNRBQNB w - - 0 1"]
+[PlyCount "43"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. d4 g6 2. Nf3 Nb6 3. e4 d6 4. Nb3 f5 5. exf5 Qxf5 6. Qd3 Qxd3 7. Rxd3 Bb5 8.
+Re3 Nd5 9. Re6 Bc4 10. Re4 Ngf6 11. Rh4 h5 12. Bd2 Ng4 13. Na5 Be2 14. Ng1 Bf6
+15. Nxe2 Bxh4 16. g3 Bf6 17. Bxd5 c6 18. Bg2 Nxf2 19. Be3 Ng4 20. Bg1 Kc7 {
+O-O-O Rf8} 21. Nf4 Bg5 {Rf1 e5 dxe5 dxe5} 22. h3 {Normal} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/y7vRtqdt"]
+[Date "2018.05.23"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Balashnikow"]
+[Result "1-0"]
+[WhiteElo "2357"]
+[BlackElo "2011"]
+[SetUp "1"]
+[FEN "qnbbrkrn/pppppppp/8/8/8/8/PPPPPPPP/QNBBRKRN w - - 0 1"]
+[PlyCount "32"]
+[EventDate "2018.??.??"]
+[TimeControl "180+3"]
+
+1. Ng3 b6 2. e4 e6 3. d4 Ng6 4. c4 Nc6 5. b3 {O-O O-O} d5 6. e5 dxc4 7. bxc4
+Na5 8. Ba4 Nh4 9. f3 Nxc4 10. Bxe8 {Rxe8 Qc3} Ba6 11. Re4 Qd5 {Rd1 Be7 Qc2 Rd8}
+12. Nc3 Qa5 13. Rg4 g6 14. Nce4 Nf5 15. Nf6 Bxf6 16. exf6 Nce3+ {Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/q7T11ir3"]
+[Date "2018.05.23"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Former_Player"]
+[Result "1/2-1/2"]
+[WhiteElo "2349"]
+[BlackElo "2462"]
+[SetUp "1"]
+[FEN "nbbqrnkr/pppppppp/8/8/8/8/PPPPPPPP/NBBQRNKR w - - 0 1"]
+[PlyCount "24"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. Nb3 e5 2. d4 d6 3. c3 Nb6 4. Ng3 c6 {O-O Ng6} 5. e4 {O-O Nf5} d5 6. exd5
+Nxd5 7. dxe5 Bxe5 8. Qh5 Qf6 9. Bg5 Nf4 10. Bxf6 Nxh5 {Ne7+ Nxe7} 11. Bxe5 Ng6
+12. Bd6 Rxe1+ {Normal} 1/2-1/2
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jiTGUxSV"]
+[Date "2018.05.23"]
+[Round "?"]
+[White "smurf42"]
+[Black "Zayats71"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2501"]
+[BlackElo "2642"]
+[PlyCount "175"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. d4 d5 2. Nc3 c5 3. e4 dxe4 4. d5 Nf6 5. Nge2 a6 6. Ng3 e6 7. Bg5 Be7 8. dxe6
+Qxd1+ 9. Rxd1 Bxe6 10. Ngxe4 Nxe4 11. Nxe4 Bxg5 12. Nxg5 Bf5 13. Bd3 Bxd3 14.
+Rxd3 O-O 15. O-O Nc6 16. Rfd1 h6 17. Ne4 b6 18. Rd6 Rac8 19. c3 Rfe8 20. f3 a5
+21. Kf2 Rc7 22. Rd7 Rxd7 23. Rxd7 Ne5 24. Rd5 Re6 25. b3 f5 26. Nd6 g6 27. h3
+Kf8 28. Nb5 a4 29. Rd8+ Ke7 30. Rb8 axb3 31. axb3 Nd7 32. Rb7 Rc6 33. Na7 Re6
+34. b4 cxb4 35. cxb4 f4 36. b5 Re3 37. Nc6+ Kd6 38. Nd4 Rd3 39. Ne2 g5 40. g3
+fxg3+ 41. Nxg3 Rd2+ 42. Ke3 Rb2 43. Nf5+ Ke6 44. Nd4+ Ke7 45. Ke4 Rb1 46. Kd5
+Rd1 47. Ra7 Ke8 48. Ke4 Nf6+ 49. Ke5 Nd7+ 50. Ke4 Re1+ 51. Kd5 Nf6+ 52. Kd6 Kf8
+53. Ne6+ Kg8 54. Rg7+ Kh8 55. Rf7 Ne8+ 56. Ke7 Nc7 57. Rf8+ Kh7 58. Rf7+ Kg6
+59. Rf6+ Kh5 60. Kf7 Nd5 61. Kg7 Nxf6 62. Kxf6 Rf1 63. Ng7+ Kh4 64. Ne6 Kxh3
+65. Ke5 Rxf3 66. Nd4 Re3+ 67. Kd5 Rc3 68. Nc6 Rc5+ 69. Kd6 Rxb5 70. Kc7 Rc5 71.
+Kd6 Rxc6+ 72. Kxc6 g4 73. Kd5 g3 74. Kd4 g2 75. Kd3 g1=Q 76. Ke2 Qg2+ 77. Kd3
+Kg3 78. Kd4 h5 79. Kd3 h4 80. Kd4 h3 81. Ke5 h2 82. Kf5 h1=Q 83. Kg5 Qhf1 84.
+Kg6 Qge2 85. Kh6 Qfd1 86. Kg5 Qd5+ 87. Kh6 Qee6+ 88. Kg7 {Time forfeit} 1/2-1/2
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/QTYRginm"]
+[Date "2018.05.23"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Amir_Arya"]
+[Result "1-0"]
+[WhiteElo "2343"]
+[BlackElo "2093"]
+[SetUp "1"]
+[FEN "brqkrbnn/pppppppp/8/8/8/8/PPPPPPPP/BRQKRBNN w - - 0 1"]
+[PlyCount "48"]
+[EventDate "2018.??.??"]
+[TimeControl "300"]
+
+1. Ng3 b6 2. Nf3 Bxf3 3. exf3 Nf6 4. b3 e6 5. Ne4 Nxe4 6. fxe4 Ng6 7. Bc3 f6 8.
+d4 c5 9. Qd2 Bd6 10. g3 cxd4 11. Bxd4 Be5 {O-O-O Bxd4 Qxd4 Re7} 12. f4 Qc5 {
+Kb2 Rc8 Qxc5 Rxc5} 13. c4 a5 {Kc3 Kc7} 14. a3 d5 15. exd5 exd5 16. b4 axb4 17.
+axb4 {Rxe1 Rxe1 Rc6} b5 {Rc5 Kd4 dxc4 Bxc4 Kd6 Re6+ Kc7} 18. Bd3 Kd7 {Rxb6 Rc7}
+19. Bf5+ Ke7 {Re6+ Kd8 b6 Re7 Rd6+ Ke8} 20. Bxg6 hxg6 {Kc5} 21. Re2 {b7 Rb2}
+Rb6 {Rc2+ Kd4 Rd2+ Ke3 Rd8 b8=Q Rxb8 Rxb8+ Kf7 Rb7+ Kg8 Ke4 Kh7} 22. g4 {
+Kh6 h4 Kh7} g5 23. fxg5 {hxg5 Kg8} f5 {Kh7 Rb6} 24. gxf5 {Kxf5} g6 {Time
+forfeit} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/NZ3lYTRN"]
+[Date "2018.05.23"]
+[Round "?"]
+[White "Amir_Arya"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2097"]
+[BlackElo "2337"]
+[SetUp "1"]
+[FEN "nrnqbkrb/pppppppp/8/8/8/8/PPPPPPPP/NRNQBKRB w - - 0 1"]
+[PlyCount "22"]
+[EventDate "2018.??.??"]
+[TimeControl "300"]
+
+1. g3 Nab6 {O-O d6} 2. d4 e6 3. b3 {Bc6 Bxc6 bxc6 c4} Ne7 4. Nd3 g6 {Nc2 O-O}
+5. Bc3 c5 6. Qd2 cxd4 {Nxd4 Nd7 Nf3 Bxc3 Qxc3 Qc8 c5 Qa6} 7. Rb2 {Nd5 Qc1 Rfc8
+Qh6 dxc5 Ng5 N5f6 Rd2 Qd6 Rfd1 Qf8 Qh4} h6 {Ne4 Nxe4 Qxe4 Qe7} 8. Nf4 {Nf6 Qc6
+Rb6 Qf3 Rd6 e4 Rcd8 Rxd6 cxd6 Kg2} Kg7 9. h3 g5 {Ne2 Nd7 Qc3+ Kg8 f4 Nf8 Qa5
+d5 Nc3 gxf4 exd5 exd5 gxf4} 10. Ng6 {Rf1 d4} Na4 {Qe2+ Rf2} 11. Nf4 {Kg3 Nh5+
+Kg2 Rd5 h4 Qg4+ Kf1 Ng3+ Kg1 Qxh4 Rg2 Qh1+ Kf2 Rf5+ Kxg3 Rg5+ Kf4 Qxg2 Qd8+}
+Kh7 {Time forfeit} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/llThwgc4"]
+[Date "2018.05.23"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Amir_Arya"]
+[Result "0-1"]
+[WhiteElo "2363"]
+[BlackElo "2079"]
+[SetUp "1"]
+[FEN "nrnqbkrb/pppppppp/8/8/8/8/PPPPPPPP/NRNQBKRB w - - 0 1"]
+[PlyCount "41"]
+[EventDate "2018.??.??"]
+[TimeControl "300"]
+
+1. g3 Nab6 {O-O O-O} 2. Nab3 d5 3. Nc5 e6 4. b4 Nd7 5. N1b3 Nxc5 6. bxc5 c6 7.
+d3 b5 8. e4 g6 9. Bd2 Bg7 10. Bf4 Ra8 11. exd5 exd5 {Re1 Bd7} 12. Be5 Bxe5 {
+Rxe5 Re8} 13. Qe2 {Rxe5 Qxe5} Qe7 14. Re1 {Qxe5 Rxe5} a5 15. f4 f6 {Re1 Kf7}
+16. Nd4 {Ne7 Kf2 Nf5 Nxb5} Rb8 {Nd6+ Nxd6 cxd6 Be6 Re2 Rd8 Ke3 c5 d4} 17. c4 {
+c3 Rb8} f5 {gxf5} 18. Bf3 {Ke8 Rf2 Kd7 Bd1 Kxd6 Bc2 Rb2} a4 {Ra2 Bd1 Ra3 Kd2
+Bd7 Kc1} 19. Ra1 {Kd2 Bxa4 Bxa4 Rxa4 Rxf5 Ke6 Rh5 Ra2+ Kc1 a4 Rxh7} a3 {
+Kb1 Rb2+ Ka1 Rb3} 20. g4 {Rxc3 Rh6} Kf7 {Rh5 Ke6 Rh6 Rf3} 21. g5 {Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1trVKZPo"]
+[Date "2018.05.23"]
+[Round "?"]
+[White "AmatorAleNaNiby"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "D06"]
+[WhiteElo "2277"]
+[BlackElo "2638"]
+[PlyCount "70"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. d4 d5 2. c4 c5 3. cxd5 Nf6 4. Nc3 Nxd5 5. e4 Nxc3 6. bxc3 cxd4 7. cxd4 e5 8.
+Nf3 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 exd4 11. Qxd4 O-O 12. Bc4 Nc6 13. Qxd8 Rxd8 14.
+h3 Be6 15. Bxe6 fxe6 16. Ke2 Kf8 17. Rhd1 Ke7 18. Rxd8 Rxd8 19. Rd1 Rxd1 20.
+Kxd1 Kd6 21. Kd2 Ne5 22. Nd4 a6 23. f4 Nd7 24. Ke3 g6 25. g4 e5 26. Nf3 exf4+
+27. Kxf4 b5 28. Kg5 Ne5 29. Nd4 Kc5 30. Ne6+ Kc4 31. Kh6 b4 32. Kxh7 a5 33. Nf4
+a4 34. Ne2 b3 35. axb3+ axb3 {Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CcaePnws"]
+[Date "2018.05.23"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Aliyev_E"]
+[Result "1-0"]
+[ECO "D01"]
+[WhiteElo "2635"]
+[BlackElo "2263"]
+[PlyCount "99"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nc3 d5 2. d4 Nf6 3. Bg5 c6 4. Bxf6 exf6 5. e3 Bd6 6. Bd3 O-O 7. Nf3 Re8 8.
+O-O Nd7 9. Ne2 Nf8 10. Ng3 g6 11. c4 dxc4 12. Bxc4 b5 13. Bb3 Bb7 14. a4 a6 15.
+Rc1 Rc8 16. Qd3 Kg7 17. Ne4 Ne6 18. Rfd1 f5 19. Nxd6 Qxd6 20. Ne5 c5 21. axb5
+cxd4 22. Rxc8 Rxc8 23. exd4 Nf4 24. Qd2 Nxg2 25. Nxf7 Qf4 26. Qxf4 Nxf4 27. Nd6
+Rb8 28. Re1 Bd5 29. Bxd5 Nxd5 30. bxa6 Rxb2 31. Ra1 Rb8 32. a7 Ra8 33. Ra5 Nb6
+34. Nb5 Nc8 35. Ra6 Kh6 36. Kg2 Kg5 37. d5 Nxa7 38. Rxa7 Rd8 39. d6 Kf4 40.
+Rxh7 g5 41. Re7 g4 42. d7 Kg5 43. Nd4 Kf6 44. Nc6 f4 45. f3 gxf3+ 46. Kxf3 Rh8
+47. Re2 Rh3+ 48. Kxf4 Rh4+ 49. Kg3 Rh8 50. Re8 {Time forfeit} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/oMPGW8eB"]
+[Date "2018.05.03"]
+[Round "?"]
+[White "Ljuma"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2058"]
+[BlackElo "2358"]
+[SetUp "1"]
+[FEN "qnbrkbrn/pppppppp/8/8/8/8/PPPPPPPP/QNBRKBRN w - - 0 1"]
+[PlyCount "29"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. d4 b6 2. Ng3 Bb7 3. f3 d5 4. Nc3 Nc6 5. e3 e6 6. a3 Ng6 7. Bd3 Bd6 {O-O a6}
+8. b4 {O-O Nce2} b5 9. e4 e5 10. exd5 Nxd4 {Nxd4 exd4 Qxd4 Be5 Qg4 Rxd5} 11.
+Nf5 {Qd8 Rde1 Bc3 Re2} Bc8 12. h4 Bxf5 13. Bxf5 {Qxh4 Bxg6 Bd4+ Be3 Bxe3+ Rxe3
+Qxg4 Bxh7+ Kxh7 fxg4} Rd7 {g5 Kg6} 14. a4 {Rfd8 axb5 axb5 Re5 Rd5 Rfe1 R8d7
+Kf2 Rd4 Rxb5 Rc4 Re2 Rdd4 Rc5 Rxc5 bxc5 Rd5 Ke3 Re5+ Kd3 Rxc5} Re7 {c6 Rc7
+Rxg5 Rxc6+ f6 c4 Rg3+ Kd4 Rxg2 c5} 15. Rd2 {Time forfeit} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/ChtRZoIl"]
+[Date "2018.05.03"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Ljuma"]
+[Result "1-0"]
+[WhiteElo "2353"]
+[BlackElo "2061"]
+[SetUp "1"]
+[FEN "qnbrkbrn/pppppppp/8/8/8/8/PPPPPPPP/QNBRKBRN w - - 0 1"]
+[PlyCount "46"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. Ng3 e5 2. b3 Ng6 3. c4 Nc6 4. Nc3 b6 5. Nd5 Qb8 6. e3 Bb7 7. Bd3 Nb4 8. Nxb4
+Bxb4 9. Bxg6 hxg6 10. Qxe5+ Be7 11. Ba3 d6 12. Qf4 {O-O Bb2} d5 13. h4 dxc4 14.
+bxc4 c5 15. Qxb8 Rxb8 16. h5 gxh5 17. Nf5 Bf6 {Bxf6 gxf6} 18. Rh1 Be4 19. Rxh5
+Bxf5 20. Rxf5 {Kg7 Ke2} Rh8 21. g4 Rh4 {Rg1 Rd8} 22. g5 {fxg5 Rgxg5+} Kf8 23.
+d3 Rh1+ {Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/TV6e9dHl"]
+[Date "2018.05.03"]
+[Round "?"]
+[White "Ljuma"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2065"]
+[BlackElo "2348"]
+[SetUp "1"]
+[FEN "qrnkbbrn/pppppppp/8/8/8/8/PPPPPPPP/QRNKBBRN w - - 0 1"]
+[PlyCount "16"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. e4 Ng6 2. Ng3 e6 3. d4 c5 4. c3 b6 5. b3 Nd6 6. Bd3 Nf4 7. Bc2 Be7 8. Bd2 g5
+{Normal} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/wsN2YOjc"]
+[Date "2018.05.03"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Ljuma"]
+[Result "0-1"]
+[WhiteElo "2374"]
+[BlackElo "2046"]
+[SetUp "1"]
+[FEN "qrnkbbrn/pppppppp/8/8/8/8/PPPPPPPP/QRNKBBRN w - - 0 1"]
+[PlyCount "31"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. b3 Ng6 2. Ng3 b6 3. e3 c5 4. Be2 d5 5. c4 dxc4 6. Bf3 Bc6 7. Bxc6 Qxc6 8.
+bxc4 Nd6 9. d3 e5 10. Bc3 f6 {O-O Be7} 11. Nce2 {O-O} e4 {b5 cxb5 Nxb5} 12. f4
+{exf4} Nf5 {Bd6 Nxf4 Nxc3 Rxb8 Rxb8 Qxc3 Nxf4 Rxf4 Bf8} 13. Rf1 {Rd8 Qc4+ Kh8
+Qf7} Qd7 {Qxd7 Rxd7 Rb1 Rxd3 Rb7 c4 Rc7 c3} 14. a4 {g6 Nh4} a5 {Nf3} 15. Bb4 {
+Kf2 Rd1 e5 fxe5} Ne5 {Rd2+ Kf3 c2 Ng4 Rd3+ Ke4 Rc3 Rd7 c1=Q Rd8+ Kg7 Rd7+ Kf8
+Nf6 Qe3+ Kd5 Rc5+ Kd6} 16. Qxe5 {Normal} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/39DjszUc"]
+[Date "2018.05.03"]
+[Round "?"]
+[White "Ljuma"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2061"]
+[BlackElo "2370"]
+[SetUp "1"]
+[FEN "nrqbnkbr/pppppppp/8/8/8/8/PPPPPPPP/NRQBNKBR w - - 0 1"]
+[PlyCount "27"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. d4 d5 2. Nb3 f6 3. Nd3 Bf7 4. f3 b6 5. e4 Qa6 6. Bf2 Nd6 7. exd5 Bxd5 {
+O-O O-O Nb4 Qb7 Nxd5 Qxd5} 8. Be2 b5 9. Qd2 Nb6 {Nc5 c6 b3 Bc7} 10. c3 e5 {
+Bd3 exd4 Bxd4 Rbd8} 11. Re1 {Qh5 g3 Rfe8 Ne6} Rc8 {Nxc7 Rxc7 Rxe8+ Qxe8 Re1
+Re7 Rxe7 Qxe7} 12. Qe3 {Qxe3+ Bxe3} g6 {Kf2 Kf7 Bc5 Ke6 Ke2 Ndc8 Ke3 Nd5+ Kd4
+a6} 13. c4 {Nc7} Be4 {Kd7} 14. h4 {Normal} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/Jt2Y0LGL"]
+[Date "2018.05.03"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Ljuma"]
+[Result "1-0"]
+[WhiteElo "2365"]
+[BlackElo "2064"]
+[SetUp "1"]
+[FEN "nrqbnkbr/pppppppp/8/8/8/8/PPPPPPPP/NRQBNKBR w - - 0 1"]
+[PlyCount "15"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. Nb3 Nb6 2. c4 f6 3. c5 Nd5 4. e4 Nf4 5. d4 e5 6. d5 d6 7. h3 dxc5 8. Bg4 {
+Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/DYUTfvsL"]
+[Date "2018.04.15"]
+[Round "?"]
+[White "Zayats71"]
+[Black "max067"]
+[Result "1-0"]
+[WhiteElo "2359"]
+[BlackElo "2121"]
+[SetUp "1"]
+[FEN "rkbnrnqb/pppppppp/8/8/8/8/PPPPPPPP/RKBNRNQB w - - 0 1"]
+[PlyCount "59"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. g3 g6 2. Nfe3 f5 3. Nc3 e5 4. Bd5 Nde6 5. d3 c6 6. Bb3 d5 7. Ng2 Nd7 8. e4
+Nd4 9. exd5 Nxb3 10. axb3 cxd5 11. f4 e4 12. dxe4 dxe4 13. Ne3 b6 14. Nc4 Qe6
+15. Be3 Bb7 16. Bd4 Bxd4 17. Qxd4 Nc5 18. Nb5 a6 19. Nbd6 Rd8 20. Rd1 Kc7 21.
+b4 Nd7 22. Qc3 Bc6 23. b5 axb5 24. Rxa8 Rxa8 25. Na3 Kb8 26. Qh8+ Ka7 27.
+Ndxb5+ Bxb5 28. Nxb5+ Kb7 29. Qxa8+ Kxa8 30. Nc7+ {Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/27bXGVuP"]
+[Date "2018.04.15"]
+[Round "?"]
+[White "max067"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2126"]
+[BlackElo "2352"]
+[SetUp "1"]
+[FEN "rkbnrnqb/pppppppp/8/8/8/8/PPPPPPPP/RKBNRNQB w - - 0 1"]
+[PlyCount "36"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. f4 g6 2. g4 Nc6 3. e4 d6 4. Nc3 Ne6 5. f5 Ned4 6. d3 gxf5 7. exf5 Nxf5 8.
+Bxc6 bxc6 9. Bf4 Nd4 {O-O-O Nf3} 10. Qe3 {Nxe1 Rxe1} e5 11. h3 f5 12. g5 Bb7
+13. Bh2 c5 14. Nd2 {O-O-O Nc4} f4 15. Qg1 Rf8 {Na5 Qe6} 16. h4 f3 17. Qf2 {
+Ba8 Ne4} Qxa2+ {Nb3 Bd5 Nc3 Qa6 Nxd5 Qb7 Nc3 Rf7 Bg3 Rdf8 Ne4 Qb6 Nbd2 a5 Re3
+a4 Rxf3 Rxf3 Nxf3 a3 bxa3 Qa5 Kb2 Qb5+} 18. Kxa2 c4 {Time forfeit} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/pN4oOB48"]
+[Date "2018.04.15"]
+[Round "?"]
+[White "Zayats71"]
+[Black "ahkashefi2000"]
+[Result "1-0"]
+[WhiteElo "2346"]
+[BlackElo "2089"]
+[SetUp "1"]
+[FEN "bnrnqbkr/pppppppp/8/8/8/8/PPPPPPPP/BNRNQBKR w - - 0 1"]
+[PlyCount "26"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. b3 g6 2. Bxh8 Kxh8 3. Nbc3 b6 4. e4 Bg7 5. Bc4 e6 {O-O Ndc6} 6. a3 {Ne7 b4}
+d5 7. exd5 exd5 {Bb3 c5 bxc5 bxc5 Ba4 Qd8} 8. Rb1 d4 9. Ne4 f5 10. Ng5 {Qd5 f3}
+Bf6 {Qh4 h5 Qg3 Nbc6 Re1 Kg7} 11. Ne6 {Kh7 Nf2 Ne5 Nf4} Qf7 {N2d3 Nxd3 Nxd3
+Nd5 Ne5 Qg7 Nd7 Bd8 Qd6 Bc7 Qe6} 12. Nf4 {Nf6+ Kh6 Qxc8 Qxf6 Qxc7 Qg5 g3 Nh3+
+Kf1 Qxd2 Re2 Qc3} Bc6 {Bxc6 Qxc6} 13. d3 {cxd3 Qxd3 Rc1} Qxc4 {Time forfeit}
+1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/O9ImPKHg"]
+[Date "2018.04.14"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Moriesz"]
+[Result "1-0"]
+[WhiteElo "2340"]
+[BlackElo "2079"]
+[SetUp "1"]
+[FEN "bnnrkbrq/pppppppp/8/8/8/8/PPPPPPPP/BNNRKBRQ w - - 0 1"]
+[PlyCount "25"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. b3 b6 2. Nc3 Nd6 3. Nd3 Nc6 {O-O-O e6} 4. g3 Nb4 5. Bg2 Nxd3+ 6. exd3 Bxg2
+7. Qxg2 h5 {Rde1 Qh6} 8. Qf3 {Be7} Ne4 {O-O} 9. g4 {Nxe4 dxe4 Bg5 Bc3} h4 {
+Qd3 Bf4} 10. h3 e5 11. g5 {Qe6 Rg4} d5 {Rxh4 Bxg5 Rh5 Qg6} 12. Qe2 {dxe4 Kb1
+Bf4 Bxe5 Bxe5 Rxe5 Rfe8 Rxe4 Rxe4 Qxe4 Qxe4 Rxe4 Rxd2 Re8+ Kh7 Re7 Rxf2 Rxc7
+Kg6 Rxa7 Kh5 Rb7 Rf6 a4 Kh4 b4 g5} a5 {bxa5 bxa5 Kxh3 Rb6 Rf5 a6 g4 Rb3+ Rf3
+a7 Rxb3+ cxb3 g3 a8=Q g2} 13. Qf3 {Time forfeit} 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IPzRJlQx"]
+[Date "2018.04.13"]
+[Round "?"]
+[White "dark-man"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "2509"]
+[BlackElo "2620"]
+[PlyCount "80"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bc4 Nf6 4. d3 Be7 5. Nc3 O-O 6. O-O d6 7. h3 Na5 8. Bb5
+c6 9. Ba4 b5 10. Bb3 h6 11. Ne1 Nh7 12. f4 Nxb3 13. axb3 f5 14. Qh5 Nf6 15. Qe2
+b4 16. Nd1 c5 17. Nf3 fxe4 18. dxe4 Nh5 19. fxe5 d5 20. Qe3 d4 21. Qd3 a5 22.
+c3 dxc3 23. Qxd8 Rxd8 24. bxc3 Ng3 25. Re1 Nxe4 26. cxb4 cxb4 27. Bf4 Bc5+ 28.
+Kh1 Nf2+ 29. Nxf2 Bxf2 30. Red1 Be6 31. Rf1 Bb6 32. Rab1 Rd3 33. Nd2 Rf8 34.
+Nc4 Rxb3 35. Rxb3 Bxc4 36. Rbf3 Bxf1 37. Rxf1 Bc7 38. Rf3 a4 39. g3 a3 40. Rb3
+a2 {Normal} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/TqiunuJc"]
+[Date "2018.03.21"]
+[Round "?"]
+[White "SiNsUaT12"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2026"]
+[BlackElo "2335"]
+[SetUp "1"]
+[FEN "qrnkbrnb/pppppppp/8/8/8/8/PPPPPPPP/QRNKBRNB w - - 0 1"]
+[PlyCount "21"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. g3 g6 2. Nf3 d5 3. d3 Nd6 4. Bc3 Bxc3 5. bxc3 Nf6 {O-O Bd7} 6. Ne5 {Bh3 Re1
+O-O e3} c6 7. Nb3 Nd7 8. c4 dxc4 9. dxc4 Nxe5 10. Qxe5 Nxc4 11. Qxe7+ {Time
+forfeit} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ouxLfmGe"]
+[Date "2018.03.21"]
+[Round "?"]
+[White "Zayats71"]
+[Black "scorpion1988"]
+[Result "1-0"]
+[ECO "C12"]
+[WhiteElo "2616"]
+[BlackElo "2349"]
+[PlyCount "29"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nc3 e6 2. d4 d5 3. e4 Nf6 4. Bg5 Bb4 5. exd5 Bxc3+ 6. bxc3 Qxd5 7. Bxf6 gxf6
+8. Qg4 Qg5 9. Qg3 Qxg3 10. hxg3 Nc6 11. Bd3 h6 12. Ne2 Ne7 13. Nf4 Bd7 14. Nh5
+Ng8 15. Be4 {Time forfeit} 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sThT4Ezc"]
+[Date "2018.03.19"]
+[Round "?"]
+[White "dmitrisilver"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "D06"]
+[WhiteElo "2279"]
+[BlackElo "2612"]
+[PlyCount "118"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180+1"]
+
+1. d4 d5 2. c4 c5 3. e3 cxd4 4. Qxd4 Nf6 5. cxd5 Qxd5 6. Qxd5 Nxd5 7. a3 Nc6 8.
+Bc4 Nb6 9. Ba2 Ne5 10. Nc3 a6 11. Nf3 Nxf3+ 12. gxf3 g6 13. b4 Bg7 14. Bb2 O-O
+15. O-O-O Bd7 16. Kb1 Bc6 17. e4 Rac8 18. Nd5 Nxd5 19. Bxd5 e6 20. Bxg7 Kxg7
+21. Bb3 Kf6 22. Rd6 Ke5 23. Rhd1 g5 24. Kb2 h6 25. a4 Rc7 26. R6d3 Rfc8 27. Rc1
+Be8 28. Rxc7 Rxc7 29. Rd8 Bc6 30. Rh8 Kf4 31. Rxh6 Kxf3 32. h4 gxh4 33. Rxh4
+Kxf2 34. e5 Ke3 35. Bc2 Bd5 36. a5 Rc4 37. Rxc4 Bxc4 38. Kc3 Bd5 39. Bh7 Be4
+40. Bg8 Bg6 41. Kc4 Ke4 42. Kc5 Kxe5 43. Kb6 Be4 44. Bxf7 Kd6 45. Bh5 e5 46. b5
+axb5 47. Kxb5 Bd3+ 48. Kb6 Be4 49. a6 bxa6 50. Kxa6 Kc5 51. Ka5 Bc2 52. Bf3 Bb3
+53. Ka6 Bd5 54. Bg4 e4 55. Ka5 Bb3 56. Bh5 e3 57. Bg4 Kc4 58. Bh5 Kc3 59. Bg4
+Bc4 {Time forfeit} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/XXsZlPXc"]
+[Date "2018.03.19"]
+[Round "?"]
+[White "kotgo"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2035"]
+[BlackElo "2330"]
+[SetUp "1"]
+[FEN "bnnqrbkr/pppppppp/8/8/8/8/PPPPPPPP/BNNQRBKR w - - 0 1"]
+[PlyCount "20"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. b3 e5 2. c4 Nc6 3. e3 b6 4. d4 Bb4 5. Bc3 Bxc3 6. Nxc3 exd4 7. exd4 Rxe1 8.
+Qxe1 Nxd4 9. Bd3 {O-O O-O} Qg5 10. Nd5 Nf3+ {Normal} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/t7f2sb4a"]
+[Date "2018.03.19"]
+[Round "?"]
+[White "Zayats71"]
+[Black "kotgo"]
+[Result "1-0"]
+[WhiteElo "2324"]
+[BlackElo "2039"]
+[SetUp "1"]
+[FEN "rqbkrnnb/pppppppp/8/8/8/8/PPPPPPPP/RQBKRNNB w - - 0 1"]
+[PlyCount "29"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. g3 g6 2. Ne3 c6 3. Nf3 d5 {O-O Bf6} 4. b3 Bxa1 5. Qxa1 f6 6. c4 Qd6 7. a4 e5
+8. Ba3 Qd7 9. cxd5 cxd5 {Rc1 Ne6} 10. Nxe5 fxe5 11. Qxe5 Ne7 12. Nxd5 Nxd5 13.
+Bxd5 a5 14. Qf6+ Re7 {Rc3 Ra6 Rd3 Ke8} 15. Qh8 {Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/MFAkZQsD"]
+[Date "2018.03.19"]
+[Round "?"]
+[White "kotgo"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2044"]
+[BlackElo "2318"]
+[SetUp "1"]
+[FEN "rqbkrnnb/pppppppp/8/8/8/8/PPPPPPPP/RQBKRNNB w - - 0 1"]
+[PlyCount "62"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. c3 d5 2. Nf3 c6 3. g3 Nf6 4. d4 Ne4 5. Bf4 Nxf2+ 6. Kc1 e5 7. Nxe5 Qc7 8.
+Ng6 Qd7 9. Nxh8 Nxh1 10. e4 Nf2 11. e5 Qf5 12. Qxf5 Bxf5 13. Nxf7+ Ke7 14. Nd6
+Bg6 15. Nxe8 Nd3+ 16. Kd2 Rxe8 17. Re2 Nxb2 18. Rf2 Ne6 19. Bg5+ Nxg5 20. Ke3
+Nc4+ 21. Ke2 Bh5+ 22. Ke1 Nf3+ 23. Ke2 Nxd4+ 24. Kd3 Ne6 25. Ne3 Nc5+ 26. Kd4
+Ne4 27. Rf5 Bg6 28. Nxc4 Bxf5 29. Nd6 Nxd6 30. exd6+ Kxd6 31. Rf1 c5# {Normal}
+0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/pX4ppDyh"]
+[Date "2018.03.19"]
+[Round "?"]
+[White "Zayats71"]
+[Black "kotgo"]
+[Result "1-0"]
+[WhiteElo "2312"]
+[BlackElo "2042"]
+[SetUp "1"]
+[FEN "rnbbnkrq/pppppppp/8/8/8/8/PPPPPPPP/RNBBNKRQ w - - 0 1"]
+[PlyCount "40"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. Nc3 g6 2. d3 d6 3. Bh6+ Ng7 4. e4 Nc6 5. Nf3 e5 6. h4 Bf6 7. Ng5 Bxg5 8.
+Bxg5 Be6 9. Bf6 h6 10. h5 g5 11. g4 Qh7 12. Nd5 Bxd5 13. exd5 Nb4 14. a3 Na6
+15. Bf3 Ne8 16. Be4 Nxf6 17. Bxh7 Nxh7 18. b4 {O-O-O O-O-O Rgf8 Qe4} Nf6 {
+Qf5+ Nd7} 19. f4 exf4 {Rge1 Kb8 Re7 Nb6 Rde1 f6} 20. c4 {Nc8 Rh7 Rfe8 Re6} c6 {
+Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/2kfoBlnB"]
+[Date "2018.03.19"]
+[Round "?"]
+[White "kotgo"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2047"]
+[BlackElo "2306"]
+[SetUp "1"]
+[FEN "rnbbnkrq/pppppppp/8/8/8/8/PPPPPPPP/RNBBNKRQ w - - 0 1"]
+[PlyCount "32"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. e4 Nc6 2. Nc3 e6 3. g3 g6 4. Bf3 Nd4 5. Bg2 f5 6. d3 Nd6 7. Bh6+ Ke8 {
+O-O Rb8} 8. f4 b5 9. e5 b4 10. Nd1 Nf7 11. Bg5 Nxg5 12. fxg5 Qxe5 13. Bf3 Bxg5
+14. c3 bxc3 15. bxc3 Ne2 16. Bxe2 Qxe2+ {Normal} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/JG6I25XN"]
+[Date "2018.03.19"]
+[Round "?"]
+[White "Zayats71"]
+[Black "svenos"]
+[Result "1-0"]
+[WhiteElo "2281"]
+[BlackElo "2450"]
+[SetUp "1"]
+[FEN "rnnqkbbr/pppppppp/8/8/8/8/PPPPPPPP/RNNQKBBR w KQkq - 0 1"]
+[PlyCount "59"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. g3 d5 2. Bg2 e5 3. c4 c6 4. cxd5 cxd5 5. Nc3 Nb6 6. Nd3 f6 7. f4 e4 8. Bxb6
+Qxb6 9. Qa4+ Nc6 10. Nf2 f5 11. O-O d4 12. Ncxe4 fxe4 13. Nxe4 Be7 14. Rac1 Bf7
+15. Nd6+ Bxd6 16. Bxc6+ bxc6 17. Rxc6 Qb4 18. Rc8+ Ke7 19. Rc7+ Kf6 20. Qc6 Qb6
+21. Rxf7+ Kxf7 22. Qd5+ Kf6 23. Qg5+ Ke6 24. f5+ Kf7 25. f6 d3+ 26. e3 Ke6 27.
+Qf5+ Kf7 28. Qd7+ Kg6 29. Qxg7+ Kh5 30. Rf5# {Normal} 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eYsQNuua"]
+[Date "2018.03.19"]
+[Round "?"]
+[White "Monkey_King"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "2496"]
+[BlackElo "2603"]
+[PlyCount "68"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Be7 6. Bc4 O-O 7. O-O Re8 8.
+f3 c6 9. Bb3 Na6 10. Be3 Nc5 11. Bf2 Nxb3 12. axb3 a6 13. Qd2 d5 14. exd5 Nxd5
+15. Nxd5 Qxd5 16. Rad1 Bf6 17. Ne2 Bf5 18. Qxd5 cxd5 19. Rd2 Bxb2 20. c3 Ba3
+21. b4 a5 22. Nd4 Bd7 23. Nc2 axb4 24. cxb4 Bb2 25. Rxd5 Bc6 26. Rd6 Be5 27.
+Rd2 Bf4 28. Rd4 Be5 29. Rd2 Ra2 30. Rfd1 Ba4 31. Re1 g5 32. Bd4 Bxd4+ 33. Rxd4
+Rxc2 34. Rxe8+ Bxe8 {Normal} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/1E8odUEO"]
+[Date "2018.03.19"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Danirod"]
+[Result "0-1"]
+[WhiteElo "2297"]
+[BlackElo "2288"]
+[SetUp "1"]
+[FEN "nbrkbrnq/pppppppp/8/8/8/8/PPPPPPPP/NBRKBRNQ w - - 0 1"]
+[PlyCount "22"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. g3 c6 2. d3 d5 3. e4 e6 {O-O-O Nf6} 4. f4 {O-O-O Nf3} Nb6 5. Bf2 dxe4 6.
+dxe4 {Rxd1+ Rxd1 Nxe4 Bd4} Nf6 7. Nb3 h6 8. c3 Bd7 {Ne5 Nfd5} 9. Nc5 Be8 10. c4
+Be5 {cxd5} 11. Bd4 {dxe6 Bxc5 Qe4 fxe6 Qe5 Nd7 Qxe6} Qg8 {Normal} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/hYHOIggi"]
+[Date "2018.03.19"]
+[Round "?"]
+[White "Danirod"]
+[Black "Zayats71"]
+[Result "1-0"]
+[WhiteElo "2281"]
+[BlackElo "2317"]
+[SetUp "1"]
+[FEN "nnrkbbrq/pppppppp/8/8/8/8/PPPPPPPP/NNRKBBRQ w - - 0 1"]
+[PlyCount "14"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. g3 Nc6 2. Bg2 g6 3. Nc3 Nb6 4. Nb3 Bh6 5. f4 Nc4 {O-O-O b5} 6. d3 Nxb2+ {
+Kxb2 b4 Bxc6 bxc3+ Bxc3 Bg7 d4 dxc6 e4 Bd7 Nc5 Bg4 Rb1 O-O h3 Be2 Nb3 Rb8 e5
+Rb6 Rge1 Bc4 Kc1 Bd5 Qf1 f6 e6 h5 h4 Kh7 Bd2 Qg8 f5 Bxb3 axb3 Bh6 Ra1 Bxd2+} 7.
+Kd2 {Rd8 Kc3 Rb5 Rxa7 Rxf5 Qc4 c5 dxc5 Rf3+ Kb2 Rd2 Re2 Qd8 Rxd2 Qxd2 Rxc7 Rf1
+Rxe7+ Kh6 Qxf1} Qd4 {Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/1YAjyVHV"]
+[Date "2018.03.19"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Danirod"]
+[Result "1-0"]
+[WhiteElo "2298"]
+[BlackElo "2291"]
+[SetUp "1"]
+[FEN "nnrkbbrq/pppppppp/8/8/8/8/PPPPPPPP/NNRKBBRQ w - - 0 1"]
+[PlyCount "54"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. Nb3 c5 2. d3 e6 3. g3 Nc6 4. Bg2 d5 5. e3 g6 6. Bc3 Bg7 7. Bxg7 Qxg7 8. Nc3
+b6 {O-O-O O-O-O} 9. f4 Nc7 10. e4 d4 11. Ne2 e5 12. Nd2 f6 13. Rf1 Bf7 14. a3
+Be6 15. f5 Bf7 16. fxg6 hxg6 17. g4 Be6 18. Bf3 Rh8 19. Qg2 Rh4 20. Rh1 {
+Rdh8 Rdg1} Qh6 21. g5 fxg5 22. Qxg5+ Qxg5 {Rxg5 Rxh2 Rxh2 Rxh2 Rxg6 Kd7} 23. b3
+Ne8 24. Ng3 Ne7 {Rg5 Kd6} 25. Bg4 Bxg4+ {Rxg4 Nf6 Nc4+ Ke6 Rg5 Rg2 Rxe5+ Kf7
+Nd6+ Kf8 Ngf5 Nxf5 Nxf5 Ng4 Re6 Kf7 Re7+ Kf6 Rxa7 Ne3 Nxe3 dxe3 Kd1 Rd2+} 26.
+Ke1 {Rxc2 Rb7 Ke5 Rxb6 Rc3 Ke2 Kd4 Rd6+ Ke5 Rd5+ Ke6 Kxe3 Rxb3 Rxc5 Rxa3} Rc6 {
+Kd7 Rg6 Ke7 Kd4} 27. Ra1 {Ke5 Ra4 d4 Kf8} Rd6 {Normal} 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vNumZGVw"]
+[Date "2018.03.19"]
+[Round "?"]
+[White "Stein55"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2452"]
+[BlackElo "2595"]
+[PlyCount "108"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. d4 d5 2. Nf3 c5 3. c4 cxd4 4. Qxd4 Nf6 5. cxd5 Qxd5 6. Nc3 Qxd4 7. Nxd4 a6
+8. Bf4 Nbd7 9. Nf3 b5 10. a4 b4 11. Na2 e6 12. e3 Nd5 13. Bg3 Bb7 14. Rc1 Nc5
+15. Be2 Nxa4 16. e4 Nf6 17. Rc7 Bxe4 18. Ng5 Bg6 19. Bf3 Nd5 20. Bxd5 exd5 21.
+O-O Bc5 22. Re1+ Kf8 23. Rxc5 Nxc5 24. Bd6+ Kg8 25. Bxc5 a5 26. Nc1 h6 27. Nf3
+Kh7 28. Rd1 Rhc8 29. Bd4 a4 30. Ne2 a3 31. bxa3 bxa3 32. Nc3 Be4 33. Nd2 a2 34.
+Ra1 Bd3 35. f3 Bc4 36. Kf2 Rcb8 37. Ke3 Re8+ 38. Kf2 f6 39. Nxc4 dxc4 40. Rxa2
+Rxa2+ 41. Nxa2 Kg6 42. Nc3 Kf5 43. g4+ Ke6 44. Ke3 Rb8 45. Ne4 Rb1 46. Ke2 Rh1
+47. Kd2 Rxh2+ 48. Kc3 Rh3 49. Nd2 Kd5 50. Be3 h5 51. gxh5 f5 52. Kc2 Rxh5 53.
+Kc3 Rh3 54. Bf4 g6 {Time forfeit} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/Mih8eKx5"]
+[Date "2018.03.19"]
+[Round "?"]
+[White "PchelkinVK"]
+[Black "Zayats71"]
+[Result "1/2-1/2"]
+[WhiteElo "2212"]
+[BlackElo "2303"]
+[SetUp "1"]
+[FEN "nrbbkrqn/pppppppp/8/8/8/8/PPPPPPPP/NRBBKRQN w - - 0 1"]
+[PlyCount "44"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. Ng3 Nb6 2. e4 d5 3. exd5 Nxd5 4. Nb3 Ng6 5. d4 f6 6. Bd2 e5 7. c4 Ndf4 8.
+Bxf4 exf4 9. Ne4 Qxc4 10. f3 c6 11. Be2 Qb4+ 12. Nc3 {O-O O-O-O} Bb6 13. g3 Be6
+14. Bd3 Bxb3 15. axb3 Bxd4 16. Bc4 Qxc4 17. bxc4 Bxg1 18. Rxg1 Rd8 19. Ne4 fxg3
+20. hxg3 Ne5 21. Nd6+ {Nxf3 Rgf1 Ne5 Nxb7 Rxd1+ Rxd1 Rb8 Na5 h5} Rxd6 {Rc8 Kd2
+Kf7 Ke3 g5 Ke4 Kg6} 22. b3 {h4 gxh4 gxh4 Nb7 h3 Nc5 h2} Rd1+ {Normal} 1/2-1/2
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/IywogSpB"]
+[Date "2018.03.19"]
+[Round "?"]
+[White "Zayats71"]
+[Black "PchelkinVK"]
+[Result "0-1"]
+[WhiteElo "2331"]
+[BlackElo "2197"]
+[SetUp "1"]
+[FEN "nrbbkrqn/pppppppp/8/8/8/8/PPPPPPPP/NRBBKRQN w - - 0 1"]
+[PlyCount "31"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. Nb3 Ng6 2. Ng3 Nb6 3. d3 e5 4. e4 d5 5. exd5 Nxd5 6. Bf3 f5 7. Bd2 Be7 {
+O-O-O Be6 Kb1 O-O-O} 8. Bxd5 {Bxd5} f4 {exf4} 9. Nh5 f3 {Qxa7 fxg2 Rfe1 b6} 10.
+Nf4 Bf6 {Nxd5 Qxd5} 11. a4 exf4 12. a5 {Qb7 axb6 cxb6 Qa4 f3 Be3} Be5 {Nd2
+Bxh2 Qg4+ Qd7 Qc4+ Kb7 Bf2 Rfe8 Re4 Ne5 Qb4 Qd6 Qb5 g5 Rb4 Nd7 Nxf3} 13. Bxf4 {
+Nd4 Re5 Qa4 Nc5 Nb5 Nxa4 Nxd6+ Rxd6 Rxa4} h5 14. d4 {Re2 Bg1} h4 {d5} 15. h3 {
+Ra3 h2 Bxh2 Bxh2 Rf3 g1=Q} Rf7 {Ka6 Rxg1 Bxg1 Rg7 Rxd5} 16. c3 {Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/t8qEuURb"]
+[Date "2018.03.19"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Stein55"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2586"]
+[BlackElo "2450"]
+[PlyCount "71"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nc3 g6 2. h4 Nf6 3. h5 Nxh5 4. Rxh5 gxh5 5. e4 h4 6. Qh5 e6 7. Nf3 Be7 8. d4
+d6 9. Ng5 Rf8 10. Nxh7 Rh8 11. e5 dxe5 12. dxe5 Nd7 13. Ne4 Nf8 14. Bb5+ c6 15.
+Bd3 Nxh7 16. Be3 Qa5+ 17. Nc3 Bb4 18. Bd2 Bd7 19. Bxh7 O-O-O 20. a3 f5 21.
+O-O-O Bxa3 22. bxa3 Qxa3+ 23. Kb1 Qe7 24. Bg5 Qb4+ 25. Kc1 Qxc3 26. Bxd8 Qa1+
+27. Kd2 Qd4+ 28. Ke1 Qxe5+ 29. Kf1 Kxd8 30. Qxh4+ Kc7 31. Qe7 Rd8 32. Kg1 Qc3
+33. Qd6+ Kc8 34. Bg8 Qf6 35. Qc5 Qg7 36. Qxa7 {Time forfeit} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/hPbl6WQ5"]
+[Date "2018.03.19"]
+[Round "?"]
+[White "zizu5"]
+[Black "Zayats71"]
+[Result "1-0"]
+[WhiteElo "2021"]
+[BlackElo "2367"]
+[SetUp "1"]
+[FEN "nqrnkrbb/pppppppp/8/8/8/8/PPPPPPPP/NQRNKRBB w - - 0 1"]
+[PlyCount "25"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. e4 Nb6 2. d4 Nc6 3. c3 d5 4. e5 f6 5. f4 fxe5 6. fxe5 Rxf1+ 7. Kxf1 {
+O-O-O Bf2 Rf8 g3} Nc4 8. Qd3 Be6 {Bg2 Bf5} 9. Qe2 {e6 Kg1} Kd7 10. Ne3 Nxe3+
+11. Bxe3 {Qe8 c4 dxc4 Rxc4 Qg6 Nb3 Bd3 Nc5+ Ke7 Qxd3 Qxd3 Nxd3} g6 {Bxc6 bxc6
+Rxc6 Kd7 Ra6 Rb8 Nc5+ Kc8} 12. b3 {Rb6 Rxb6 axb6 Nxe6 Kd7 Nf8+ Ke7 Nxh7 Ke6
+Ng5+ Kd5 Kf2 c5 dxc5 bxc5 Bf4} Bg7 {Ke3 Bf8 Kd3 Be7} 13. h4 {Normal} 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0lkVCJQn"]
+[Date "2018.03.18"]
+[Round "?"]
+[White "kingstar70"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "2293"]
+[BlackElo "2582"]
+[PlyCount "44"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Be7 6. Bd3 Nbd7 7. O-O Nc5 8.
+h3 O-O 9. Bg5 h6 10. Bh4 Nfxe4 11. Bxe7 Nxc3 12. Bxd8 Nxd1 13. Bxc7 Nxd3 14.
+cxd3 Nxb2 15. Nb5 Nxd3 16. Bxd6 Rd8 17. Bg3 Bd7 18. Nc7 Rac8 19. Rfd1 Bc6 20.
+Rd2 Nc5 21. Rad1 Rxd2 22. Rxd2 Ne4 {Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wwarhPQf"]
+[Date "2018.03.18"]
+[Round "?"]
+[White "Adminbrucefan"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "2402"]
+[BlackElo "2574"]
+[PlyCount "124"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. d3 Nf6 5. O-O c6 6. h3 O-O 7. c3 d5 8. exd5
+cxd5 9. Bb3 Nc6 10. Re1 Qc7 11. Bg5 Be6 12. Nbd2 Rfe8 13. Rc1 h6 14. Bh4 a5 15.
+Bg3 Bd6 16. Ba4 Bf5 17. d4 exd4 18. Bxd6 Qxd6 19. Rxe8+ Rxe8 20. Nxd4 Bd7 21.
+N2f3 Ne4 22. Bc2 Qc5 23. Qd3 Nf6 24. Qd2 b5 25. a3 Ne5 26. Nxe5 Rxe5 27. Qf4
+Qe7 28. Bd3 b4 29. cxb4 axb4 30. axb4 Re1+ 31. Rxe1 Qxe1+ 32. Kh2 Qxb4 33. b3
+Qc3 34. Qe3 Qc7+ 35. Kg1 Kf8 36. b4 Qb8 37. b5 Ne8 38. Bf5 Bxb5 39. Qa3+ Qd6
+40. Nxb5 Qxa3 41. Nxa3 Ke7 42. Nb5 Kf6 43. Bd3 Ke5 44. Kf1 g5 45. g3 f5 46. Ke2
+f4 47. Kf3 Nf6 48. gxf4+ gxf4 49. Bg6 Ng8 50. Nc7 Ne7 51. Bd3 Nc6 52. Ne8 Nd4+
+53. Kg4 Ne6 54. f3 Nd4 55. Ng7 Kf6 56. Nh5+ Ke5 57. Nxf4 Nc6 58. Ng6+ Kd4 59.
+f4 Nb4 60. Bf5 Nc6 61. Ne7 Nxe7 62. Bh7 Ke3 {Time forfeit} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EylBxQta"]
+[Date "2018.03.18"]
+[Round "?"]
+[White "kingstar70"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "2295"]
+[BlackElo "2569"]
+[PlyCount "104"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Rg1 O-O 7. g4 d5 8. e5
+Nfd7 9. Bf4 Bb4 10. Nf5 Re8 11. Qxd5 Nxe5 12. O-O-O Nbc6 13. Qxd8 Nxd8 14. Nd5
+Bd6 15. Nxd6 cxd6 16. Nc7 Bxg4 17. Rxg4 Nxg4 18. Nxe8 Nxf2 19. Rxd6 Ne6 20.
+Rxe6 fxe6 21. Nc7 Rd8 22. Be2 Kf7 23. Be3 Ne4 24. Bc4 Rd6 25. Nb5 Rc6 26. Bd3
+Nc5 27. Bxc5 Rxc5 28. Nxa7 Rh5 29. Nc8 Kf6 30. Nd6 b6 31. Nc4 b5 32. Ne3 Ke5
+33. Bxb5 Kf4 34. Nf1 Rxb5 35. a4 Ra5 36. b3 Kf3 37. Kb2 Kg2 38. Ne3+ Kxh2 39.
+Nc4 Ra6 40. Ka3 g5 41. b4 g4 42. b5 Ra8 43. Ne3 g3 44. Kb4 g2 45. Nxg2 Kxg2 46.
+c4 h5 47. c5 h4 48. c6 h3 49. b6 h2 50. b7 Rb8 51. Kc5 h1=Q 52. c7 Qg1+ {
+Time forfeit} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LGnayJPt"]
+[Date "2018.03.18"]
+[Round "?"]
+[White "Zayats71"]
+[Black "TheWeeknd"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2565"]
+[BlackElo "2259"]
+[PlyCount "65"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nc3 d5 2. d4 c5 3. Bg5 Nc6 4. e3 h6 5. Bh4 g5 6. Bg3 Bg7 7. Nf3 Nf6 8. dxc5
+Qa5 9. Bd3 Qxc5 10. h4 Bg4 11. hxg5 hxg5 12. Rxh8+ Bxh8 13. Qd2 Bxf3 14. gxf3
+O-O-O 15. O-O-O Nh5 16. Bh2 Be5 17. Bxe5 Nxe5 18. Kb1 Nf6 19. Be2 e6 20. Nb5
+Kb8 21. Qa5 Rc8 22. Qa4 Nfd7 23. c3 a6 24. Nd4 Nb6 25. Qc2 Nec4 26. Nb3 Qe7 27.
+e4 Rd8 28. Qc1 Qf6 29. Nc5 d4 30. cxd4 Rxd4 31. Bxc4 Rxc4 32. Qxc4 Qxf3 33. Qd3
+{Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/0FQ0RcYg"]
+[Date "2018.03.17"]
+[Round "?"]
+[White "Bugaevsky-Sergey"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2066"]
+[BlackElo "2360"]
+[SetUp "1"]
+[FEN "nqnrkrbb/pppppppp/8/8/8/8/PPPPPPPP/NQNRKRBB w - - 0 1"]
+[PlyCount "31"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. e4 g6 2. d4 Nab6 3. Nab3 Nc4 4. c3 b5 5. g3 N8b6 6. f4 f5 7. e5 Bd5 8. Bxd5
+Nxd5 9. Rd3 d6 10. Bf2 a5 {O-O} 11. a4 Nd2 {O-O a3 dxe5 dxe5 Ndb6 Rxd8 Rxd8
+Nxc4 Nxc4 Bd4} 12. Nxd2 {Qc2 Nxf1 Kxf1} Qb7 {Kg1 Qf3 Nd3 Bg7 Nc5 Rd5 Qf2 Qxf2+
+Kxf2 Kf7 Nd3} 13. e6 Nb4 {Rd7 Nd3 Bf8} 14. Ke2 {Rd5 Nb4 Bxb4 axb4 Rd8 Kd2 a3
+bxa3} Ra8 {Kc2 Rxa3 Kb2 Ra8} 15. h4 g5 16. hxg5 {Time forfeit} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QiRKhocq"]
+[Date "2018.03.16"]
+[Round "?"]
+[White "Bentery"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "D07"]
+[WhiteElo "2302"]
+[BlackElo "2552"]
+[PlyCount "92"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nf3 Nc6 2. d4 d5 3. c4 Bg4 4. cxd5 Bxf3 5. gxf3 Qxd5 6. e3 e6 7. Nc3 Bb4 8.
+Bd2 Bxc3 9. bxc3 Nge7 10. Rb1 O-O-O 11. Bd3 Qd6 12. Qa4 b6 13. Ba6+ Kb8 14. c4
+Nxd4 15. exd4 Qxd4 16. Be3 Qc3+ 17. Kf1 Rd3 18. Rc1 Qe5 19. c5 Rxe3 20. fxe3
+Qxe3 21. Re1 Qxf3+ 22. Kg1 Rd8 23. cxb6 axb6 24. Bf1 Rd2 25. Re2 Rxe2 26. Bxe2
+Qxe2 27. Qe8+ Nc8 28. Qxf7 Qxa2 29. Qf2 Qd5 30. h3 Nd6 31. Kh2 Ne4 32. Qf3 Qd6+
+33. Kg1 Qe5 34. Rh2 Qa1+ 35. Kg2 Qb2+ 36. Kg1 Qc1+ 37. Kg2 Qg5+ 38. Kh1 Qe5 39.
+Rc2 Ng3+ 40. Kg2 Nf5 41. Qc3 Qd6 42. Rd2 Qe7 43. Kf2 Qh4+ 44. Ke2 Qh5+ 45. Ke1
+Qe8 46. Rc2 Qd7 {Time forfeit} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Evj7JOac"]
+[Date "2018.03.16"]
+[Round "?"]
+[White "Zayats71"]
+[Black "PArnaudov"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2539"]
+[BlackElo "2466"]
+[PlyCount "153"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nc3 Nf6 2. d4 g6 3. Bg5 Bg7 4. e4 d6 5. Qd2 c6 6. f3 b5 7. Bh6 Bxh6 8. Qxh6
+Nbd7 9. h4 e5 10. Nge2 Qa5 11. dxe5 dxe5 12. Qd2 O-O 13. a4 b4 14. Nd1 c5 15.
+Ne3 Ba6 16. Ng3 Rad8 17. Qf2 b3+ 18. c3 h5 19. Bxa6 Qxa6 20. Qe2 Qxe2+ 21. Kxe2
+Nb6 22. a5 Nc8 23. Ra3 Nd6 24. Rxb3 c4 25. Rb4 Rb8 26. Nc2 Rxb4 27. Nxb4 Nb5
+28. Rd1 Rb8 29. Rd2 Nd4+ 30. cxd4 Rxb4 31. dxe5 Ne8 32. Nf1 Nc7 33. Ne3 Ne6 34.
+g3 Ra4 35. f4 Rxa5 36. Nxc4 Ra4 37. b3 Rb4 38. Rd7 Rxb3 39. Ne3 a5 40. Ra7 Nd4+
+41. Kf2 Rb2+ 42. Kf1 Rb1+ 43. Kg2 Rb2+ 44. Kh3 Ne2 45. g4 Rb3 46. gxh5 Rxe3+
+47. Kg2 gxh5 48. Rxa5 Nxf4+ 49. Kf2 Rxe4 50. Kf3 Rb4 51. e6 fxe6 52. Ra7 Ng6
+53. Kg3 Rf4 54. Ra6 Rf6 55. Ra5 Rf5 56. Ra7 Rf7 57. Ra5 e5 58. Ra6 Kg7 59. Re6
+Rf6 60. Re8 Kf7 61. Ra8 e4 62. Ra7+ Ke6 63. Ra6+ Kf5 64. Ra5+ Ne5 65. Kf2 Rg6
+66. Ke3 Rg3+ 67. Kd4 Kf4 68. Ra1 Rd3+ 69. Kc5 Nf3 70. Rf1 e3 71. Ra1 e2 72.
+Ra4+ Rd4 73. Ra8 e1=Q 74. Rf8+ Ke3 75. Re8+ Kf2 76. Rxe1 Nxe1 77. Kc6 {Time
+forfeit} 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jQLamNen"]
+[Date "2018.03.16"]
+[Round "?"]
+[White "roberto835877"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "2454"]
+[BlackElo "2528"]
+[PlyCount "28"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. O-O Nf6 5. Re1 O-O 6. c3 c6 7. d4 exd4 8. cxd4
+d5 9. exd5 Nxd5 10. Nc3 Bf6 11. Bxd5 cxd5 12. Qb3 Nc6 13. Be3 Bg4 14. Nxd5 Bxf3
+{Normal} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/U0AhVqH1"]
+[Date "2018.03.16"]
+[Round "?"]
+[White "spab"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2128"]
+[BlackElo "2351"]
+[SetUp "1"]
+[FEN "nrkbbqrn/pppppppp/8/8/8/8/PPPPPPPP/NRKBBQRN w - - 0 1"]
+[PlyCount "20"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. d4 Nb6 2. e4 Ng6 3. Ng3 e5 4. d5 Bg5+ 5. Bd2 Bxd2+ 6. Kxd2 c6 7. c4 Qb4+ 8.
+Kd3 Nf4+ 9. Ke3 Nxc4+ 10. Kf3 Nd2+ {Normal} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/Sjlrp7nQ"]
+[Date "2018.03.16"]
+[Round "?"]
+[White "Zayats71"]
+[Black "spab"]
+[Result "1/2-1/2"]
+[WhiteElo "2364"]
+[BlackElo "2122"]
+[SetUp "1"]
+[FEN "brkrqbnn/pppppppp/8/8/8/8/PPPPPPPP/BRKRQBNN w - - 0 1"]
+[PlyCount "24"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. Ng3 g6 2. b3 e5 3. Nf3 Bg7 4. e4 b6 5. Ba6+ Bb7 6. Qe2 f6 {O-O Nf7} 7. d4 d6
+{Rbd1 Ne7} 8. dxe5 dxe5 9. Rxd8+ {Nxd8 Rd1 Ndc6 a4 O-O-O Bxb7+ Kxb7 Nf1 Rxd1
+Qxd1} Qxd8 {Qxd8 Nxd8 Ne3 Ne6} 10. Ne1 Bh6+ {Nc4 Nf4 Kf1 Nc6 g3 Ne6 Ke2 Ncd4+
+Kd1 Nc5 Bxd4 exd4 f3 Ne6 Nd3 Bf8 Ke2 c5} 11. f4 {Kc6 Kf3 a6 g4} b5 {axb5+ axb5
+Nd2 Bd6} 12. h4 {Nc7 e5 fxe5 fxe5 Be7 h5 Nd5 hxg6 hxg6 Ne4 c4 bxc4 bxc4 Nf4
+Nxf4 Kxf4 Kd5 Nf6+ Ke6} g5 {Normal} 1/2-1/2
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/g94aCvHJ"]
+[Date "2018.03.16"]
+[Round "?"]
+[White "Zayats71"]
+[Black "alirezaazarbakhsh"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2524"]
+[BlackElo "2214"]
+[PlyCount "35"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nc3 Nc6 2. d4 e5 3. d5 Nce7 4. Nf3 Ng6 5. h4 h5 6. Ng5 Bc5 7. e3 d6 8. Bd3
+Ke7 9. Nce4 Nf6 10. Nxc5 dxc5 11. c4 b6 12. Qc2 Nf8 13. b3 g6 14. Bb2 N8h7 15.
+Bxe5 Re8 16. Bxg6 fxg6 17. Qxg6 Rg8 18. Qf7# {Normal} 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QYuqv3Tr"]
+[Date "2018.03.16"]
+[Round "?"]
+[White "FritteHoch2"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "2200"]
+[BlackElo "2517"]
+[PlyCount "102"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. d4 d5 2. Bf4 c5 3. e3 Nc6 4. c3 Qb6 5. Qb3 c4 6. Qc2 Bg4 7. Nf3 Bxf3 8. gxf3
+e6 9. Nd2 Qd8 10. b3 cxb3 11. axb3 Bd6 12. Bg3 Nge7 13. Bd3 Rc8 14. Qb2 h5 15.
+Rg1 h4 16. Bxd6 Qxd6 17. f4 g6 18. Nf3 Nf5 19. Ne5 Nxe5 20. fxe5 Qb6 21. Kd2
+Ne7 22. Qa3 a6 23. c4 Qd8 24. c5 O-O 25. Rg4 Kg7 26. Rag1 Rh8 27. Qb4 Rb8 28.
+Qc3 Rh6 29. Qc2 b6 30. b4 a5 31. Rb1 axb4 32. Rxb4 bxc5 33. Qxc5 Rxb4 34. Qxb4
+Rh8 35. Rg1 Nc6 36. Qc3 Na5 37. Ke2 Rh5 38. h3 Nc4 39. Bxc4 dxc4 40. Qxc4 Qa8
+41. Qd3 Rf5 42. Kf1 Qf3 43. Qe2 Qxh3+ 44. Ke1 Qh2 45. Qf1 h3 46. Rh1 Qg2 47.
+Rxh3 Qe4 48. Qe2 Qb1+ 49. Qd1 Qxd1+ 50. Kxd1 Rxf2 51. Rg3 Ra2 {Time forfeit}
+0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0cz9KWnW"]
+[Date "2018.03.16"]
+[Round "?"]
+[White "Tahaned2015"]
+[Black "Zayats71"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2568"]
+[BlackElo "2515"]
+[PlyCount "91"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. d4 d5 2. Nf3 c5 3. c3 Nc6 4. Bf4 Qb6 5. Qb3 c4 6. Qxb6 axb6 7. Na3 e5 8. Nb5
+Ra5 9. Nc7+ Kd7 10. Nxe5+ Nxe5 11. Bxe5 f6 12. Bg3 Bd6 13. Nxd5 Rxd5 14. e4 Ra5
+15. Bxc4 Bxg3 16. hxg3 Ne7 17. a3 Kc7 18. f3 h6 19. Kf2 Rd8 20. g4 Ng6 21. Rae1
+Nf4 22. Kg3 Ne6 23. f4 Nf8 24. Rh5 Be6 25. Rxa5 bxa5 26. d5 Bf7 27. d6+ Rxd6
+28. Bxf7 Rd2 29. e5 fxe5 30. fxe5 Kd8 31. Re4 Rxb2 32. Rd4+ Ke7 33. Bd5 Ne6 34.
+Rc4 b5 35. Rc6 Ng5 36. Rc7+ Kd8 37. Rxg7 Rc2 38. e6 Rxc3+ 39. Kf4 Rc7 40. Rxc7
+Kxc7 41. Kf5 Kd6 42. Kf6 Nh7+ 43. Kg7 Ng5 44. Kf6 Nh7+ 45. Kg7 Ng5 46. Kf6 {
+Normal} 1/2-1/2
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ozjj5CHB"]
+[Date "2018.03.16"]
+[Round "?"]
+[White "Capiwarovky"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "D06"]
+[WhiteElo "2348"]
+[BlackElo "2505"]
+[PlyCount "76"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. d4 d5 2. c4 c5 3. cxd5 Nf6 4. Nf3 cxd4 5. Qxd4 Qxd5 6. Nc3 Qxd4 7. Nxd4 a6
+8. g3 e5 9. Nc2 Bd7 10. Bg2 Bc6 11. O-O h6 12. Rd1 Bxg2 13. Kxg2 Nbd7 14. e4
+Rc8 15. f3 Bc5 16. Ne3 Bd4 17. Bd2 Nb6 18. Nc2 O-O 19. Nxd4 exd4 20. Ne2 Rfd8
+21. b3 Rc2 22. Kf1 d3 23. Nf4 g5 24. Ng2 Nbd7 25. Ne3 Ne5 26. Ba5 Rdc8 27. Nxc2
+dxc2 28. Rdc1 Nxf3 29. Ke2 Nxh2 30. Kd3 Nhg4 31. Rxc2 Ne5+ 32. Kd2 Nxe4+ 33.
+Kc1 Nd3+ 34. Kb1 Re8 35. Re2 f5 36. Kc2 Ne5 37. Rf1 Rc8+ 38. Kb2 Nd3+ {Time
+forfeit} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wgX22UgI"]
+[Date "2018.03.15"]
+[Round "?"]
+[White "lanada"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "C63"]
+[WhiteElo "2250"]
+[BlackElo "2500"]
+[PlyCount "130"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 Nf6 6. Nxf6+ Qxf6 7. Qe2 Be7
+8. Bxc6 bxc6 9. Qxe5 O-O 10. Qxf6 Bxf6 11. O-O d6 12. h3 c5 13. d3 Rb8 14. Rb1
+Be6 15. b3 Bc3 16. Bd2 Bf6 17. Rfe1 Bd5 18. Ng5 Bd4 19. Be3 Rbe8 20. c4 Bxe3
+21. Rxe3 Rxe3 22. fxe3 Bc6 23. e4 h6 24. Ne6 Rc8 25. Rf1 Bd7 26. Nf4 c6 27. Ng6
+Re8 28. g4 a5 29. Kg2 Be6 30. Kg3 Bf7 31. Nh4 a4 32. Nf5 Rd8 33. Rb1 axb3 34.
+Rxb3 h5 35. Ne7+ Kh7 36. Nxc6 Rc8 37. Ne7 Ra8 38. a3 g5 39. Nf5 h4+ 40. Kf3 Ra6
+41. Rb7 Kg6 42. Ne7+ Kg7 43. Rb3 Be8 44. Ke3 Ba4 45. Rb7 Bc2 46. Nd5+ Kf8 47.
+Rb8+ Kf7 48. Rb7+ Ke8 49. Rb8+ Kd7 50. Rb7+ Kc8 51. Rb6 Rxa3 52. Rxd6 Rxd3+ 53.
+Ke2 Rxh3 54. e5 Rh2+ 55. Ke3 Rh1 56. Kd2 Bd1 57. e6 Bxg4 58. e7 Bh5 59. Nf6 Bf7
+60. Rd8+ Kc7 61. Rf8 Bg6 62. Rg8 Rh2+ 63. Ke3 Kd6 64. Rxg6 Kxe7 65. Rxg5 Rh3+ {
+Time forfeit} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iX7eiR8b"]
+[Date "2018.03.15"]
+[Round "?"]
+[White "Zayats71"]
+[Black "peterbl"]
+[Result "0-1"]
+[ECO "D01"]
+[WhiteElo "2507"]
+[BlackElo "2690"]
+[PlyCount "108"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nc3 d5 2. d4 Nf6 3. Bg5 Nbd7 4. Qd2 e6 5. f3 Bb4 6. e3 O-O 7. Bd3 c5 8. dxc5
+Nxc5 9. Nge2 h6 10. Bh4 Na4 11. Rb1 Nxc3 12. Nxc3 b6 13. O-O Bb7 14. a3 Be7 15.
+Bg3 Bd6 16. Nb5 Bxg3 17. hxg3 a6 18. Nd4 Qd6 19. g4 Rac8 20. c3 Nd7 21. Qf2 Nc5
+22. Bc2 Qe5 23. Rbd1 Qf6 24. Qg3 Rfd8 25. f4 a5 26. g5 hxg5 27. fxg5 Qe7 28.
+Rf2 Ne4 29. Bxe4 dxe4 30. Rdf1 Rf8 31. Qe5 Rc5 32. Nf5 Qxg5 33. Qd6 Rxf5 34.
+Qxb6 Rxf2 35. Rxf2 Bd5 36. Rd2 a4 37. Qd4 Qf6 38. Qxa4 g6 39. c4 Bb7 40. c5 Qg5
+41. Qd4 e5 42. Qc3 Ba6 43. b4 Bd3 44. c6 Qxe3+ 45. Kh2 Kg7 46. Qxe5+ f6 47.
+Qc7+ Kh6 48. Rd1 Rh8 49. Qg3 Kg7+ 50. Qh3 Rxh3+ 51. gxh3 Qf2+ 52. Kh1 Be2 53.
+Rd7+ Kh6 54. c7 Bf3# {Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hZ7uLMsf"]
+[Date "2018.03.15"]
+[Round "?"]
+[White "Peaudepailles"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "2551"]
+[BlackElo "2491"]
+[PlyCount "134"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. d4 d5 2. e4 c5 3. dxc5 d4 4. Nf3 Nc6 5. c3 e5 6. Bb5 Bxc5 7. Nxe5 Nge7 8.
+Bxc6+ bxc6 9. Nxf7 Kxf7 10. Qh5+ Ng6 11. Qxc5 Re8 12. f3 Ba6 13. Qxc6 Re6 14.
+Qc5 Qh4+ 15. g3 Qh3 16. Kd1 Qg2 17. Qf5+ Rf6 18. Qd5+ Ke7 19. Nd2 Qxh1+ 20. Kc2
+d3+ 21. Kb3 Rb8+ 22. Ka3 Qg1 23. b4 Qb6 24. Nb3 Rd8 25. Qc5+ Qxc5 26. Nxc5 d2
+27. Bxd2 Rxd2 28. Kb3 Rxh2 29. f4 Rc6 30. e5 Rg2 31. Rd1 Bc8 32. Ne4 Be6+ 33.
+Ka4 Rxa2+ 34. Kb5 Rb6+ 35. Kc5 Nf8 36. Nd6 Nd7+ 37. Kd4 Rc6 38. f5 Nxe5 39.
+Kxe5 Re2+ 40. Ne4 Rc4 41. Rd4 Rxd4 42. cxd4 Bc4 43. Kf4 Bd3 44. Nc5 Re1 45. g4
+Rf1+ 46. Ke5 Rg1 47. d5 Rxg4 48. d6+ Kd8 49. Ne6+ Kc8 50. Nc5 Bb5 51. Kd5 Rg1
+52. Ke6 Re1+ 53. Kf7 Re5 54. Kxg7 Rxf5 55. d7+ Bxd7 56. Kxh7 a5 57. Kg6 Rxc5
+58. bxc5 a4 59. c6 a3 60. Kf6 Bxc6 61. Ke7 a2 62. Kd6 a1=Q 63. Kxc6 Qe5 64. Kb6
+Kd7 65. Kb7 Qb2+ 66. Ka8 Kc6 67. Ka7 Qb7# {Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vIJs0IOU"]
+[Date "2018.03.14"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Erottev"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2481"]
+[BlackElo "2377"]
+[PlyCount "81"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nc3 Nf6 2. e4 e5 3. Nf3 Bc5 4. Nxe5 O-O 5. d4 Bb6 6. Be3 d6 7. Nc4 Re8 8.
+Nxb6 axb6 9. Bd3 Nc6 10. O-O Ng4 11. Qf3 Qh4 12. h3 Nxe3 13. fxe3 Rf8 14. Nd5
+Qd8 15. Qg3 Kh8 16. c3 Ne7 17. Nf4 Bd7 18. Rf2 Ng6 19. a3 Ra5 20. Nxg6+ fxg6
+21. Raf1 Rxf2 22. Qxf2 Ra8 23. Qf7 b5 24. Bc2 g5 25. e5 dxe5 26. dxe5 Bc6 27.
+Qh5 h6 28. Qg6 Qg8 29. e6 Re8 30. Rf7 Bd5 31. Bf5 c5 32. e4 Bc4 33. Rxg7 Qxg7
+34. Qxe8+ Qg8 35. Qe7 Qg7 36. Qd8+ Qg8 37. Qf6+ Qg7 38. Qd8+ Qg8 39. Qd7 b4 40.
+axb4 cxb4 41. Qd4+ {Normal} 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Jlk6Cbyv"]
+[Date "2018.03.14"]
+[Round "?"]
+[White "newgamer22"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "2201"]
+[BlackElo "2476"]
+[PlyCount "58"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. d4 d5 2. Bg5 c5 3. Nf3 Nc6 4. c3 Qb6 5. Nbd2 Qxb2 6. e3 Qxc3 7. Rc1 Qa5 8.
+Rxc5 Qd8 9. Bb5 Bd7 10. O-O Nf6 11. Qa4 e6 12. Bxf6 gxf6 13. e4 Bxc5 14. dxc5
+d4 15. Nc4 O-O 16. Nd6 a6 17. Bxc6 Bxc6 18. Qb4 e5 19. Qd2 Kh8 20. Nh4 Qd7 21.
+Nhf5 Rg8 22. Qh6 Rg6 23. Qh4 Rag8 24. g3 Qe6 25. f4 Bxe4 26. fxe5 Bxf5 27. Rxf5
+d3 28. Ne4 Qxf5 29. Nxf6 Rxf6 {Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/E2vEdRs4"]
+[Date "2018.03.14"]
+[Round "?"]
+[White "Zayats71"]
+[Black "flamenko"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2479"]
+[BlackElo "2391"]
+[PlyCount "133"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nc3 d5 2. d4 c5 3. Bg5 f6 4. Bh4 Nc6 5. Nf3 cxd4 6. Nxd4 e5 7. Nxc6 bxc6 8.
+e4 d4 9. Ne2 Qa5+ 10. c3 c5 11. Ng3 Be6 12. Bd3 dxc3 13. O-O cxb2 14. Rb1 Qc3
+15. Bb5+ Kf7 16. Nf5 Rb8 17. Bd7 Qc4 18. f4 g6 19. fxe5 gxf5 20. exf5 Bxd7 21.
+Qxd7+ Ne7 22. exf6 Qd4+ 23. Qxd4 cxd4 24. fxe7 Bxe7 25. Bxe7 Kxe7 26. Rf2 Kf6
+27. g4 h5 28. h3 hxg4 29. hxg4 Rhg8 30. Rg2 Ke5 31. Kf1 Ke4 32. Re2+ Kd3 33.
+Rexb2 Rxb2 34. Rxb2 Rxg4 35. Rf2 Rg7 36. f6 Rf7 37. Ke1 Ke3 38. Rf1 d3 39. Kd1
+a5 40. Rf5 Rb7 41. Re5+ Kd4 42. Re7 Rb1+ 43. Kd2 Rb2+ 44. Kc1 Rf2 45. f7 Kc3
+46. Rc7+ Kd4 47. a4 Ke3 48. Re7+ Kd4 49. Kd1 Kc3 50. Rc7+ Kd4 51. Ke1 Rf5 52.
+Rd7+ Kc3 53. Rc7+ Kb4 54. Kd2 Kxa4 55. Rb7 Rf3 56. Kc3 Ka3 57. Rd7 a4 58. Ra7
+d2+ 59. Kxd2 Ka2 60. Ke2 Rf4 61. Ke3 Rf6 62. Ke4 a3 63. Ke5 Rf1 64. Rb7 Ka1 65.
+Ke6 a2 66. Ke7 Rxf7+ 67. Kxf7 {Normal} 1/2-1/2
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ky6MEeKX"]
+[Date "2018.03.14"]
+[Round "?"]
+[White "SirStrateg"]
+[Black "Zayats71"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2340"]
+[BlackElo "2500"]
+[PlyCount "39"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. d4 d5 2. Bf4 c5 3. e3 Nc6 4. c3 Qb6 5. Qb3 c4 6. Qc2 Bf5 7. Qxf5 Qxb2 8.
+Qxd5 Qxa1 9. Qb5 O-O-O 10. Bxc4 e5 11. Bxe5 Nxe5 12. dxe5 a6 13. Qb3 Ne7 14.
+Nf3 Nc6 15. O-O Na5 16. Qa4 Nxc4 17. Qxc4+ Kb8 18. Qb3 Rc8 19. Nd4 Ba3 20. Qxa3
+{Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/OLIoguVz"]
+[Date "2018.03.11"]
+[Round "?"]
+[White "speshu"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2145"]
+[BlackElo "2353"]
+[SetUp "1"]
+[FEN "rnbqnkrb/pppppppp/8/8/8/8/PPPPPPPP/RNBQNKRB w - - 0 1"]
+[PlyCount "40"]
+[EventDate "2018.??.??"]
+[TimeControl "60+1"]
+
+{O-O Nc6} 1. Nc3 g6 2. d3 {O-O Bh6} Bg7 3. Qd2 d5 4. e4 d4 5. Ne2 e5 6. c3 dxc3
+7. bxc3 f5 {Bxg7 Nxg7} 8. exf5 {Nxf5 g3} Qd6 9. Nf3 Be6 10. Ng5 Bd5 11. Ne4 Qe7
+12. Rb1 {Rab8 Rb5} Be6 13. f4 Nd6 14. Nxd6 cxd6 {Rfb1 Qc7} 15. d4 Bc4 {Bd5+
+Bxd5 Rxd5 exd4 Nxd4 Nxd4 Qxd4 Rbc8 Rxd6 Rf7 Rd1 Qxc3 Rd8+ Rf8 Rxf8+ Kxf8 Qd6+
+Kg8 Qe6+ Kh8 Qe5+ Qxe5} 16. fxe5 {Rc7 Kf2 Kg7 Ke3} Kf7 {Ke4 Ke7 Rf1 Rc6} 17. h4
+{Ra6 Rf2 Ra4+ Kd5 Ra5+ Ke4} b6 18. h5 gxh5 {Kf5 Ra3 Rc2 Rf3+ Ke4 Rxg3 Rc6 Rg4+
+Kf5 Ra4 Rc7+ Kd8 Rxh7 Rxa2 Ke6 b5 Rxh5 Kc7 Rh7+ Kc6 Kf7 b4} 19. e6+ {Rf2+} Ke8
+{a5 e7 b3 Rh3} 20. a4 Kd8 {Time forfeit} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/lWpY0Qph"]
+[Date "2018.03.11"]
+[Round "?"]
+[White "Zayats71"]
+[Black "speshu"]
+[Result "1-0"]
+[WhiteElo "2341"]
+[BlackElo "2151"]
+[SetUp "1"]
+[FEN "rnbqnkrb/pppppppp/8/8/8/8/PPPPPPPP/RNBQNKRB w - - 0 1"]
+[PlyCount "32"]
+[EventDate "2018.??.??"]
+[TimeControl "60+1"]
+
+1. Nc3 Nc6 2. g3 g6 3. e3 d6 4. d4 Bh3+ 5. Bg2 Qd7 6. b3 Nf6 7. Bb2 {O-O Ne2}
+e5 8. dxe5 Bxg2+ 9. Nxg2 Nxe5 {Bxe5 dxe5 Qxd7 Nxd7 O-O-O Rad8 Nc3 c6} 10. e4 {
+Nc5 Ne3} Bg7 {Kb2 h5} 11. f3 Bh6 {Nc4 Bg7} 12. b4 {Ne6 Ne2 Rfe8 c3 Kf8 Kc2} Ke7
+{Na5 Rb8 Rd3 Red8 Rgd1 Rxd3 Rxd3 f5 exf5 gxf5} 13. a4 {Bh6 Rd1 e4 Rf1 exf3
+Rxf3 Kf6 Rd3 Ke7 Nd4 Nxd4+ Rxd4} Bg7 {Rh4 Kd6 Rxh5 b6 Nc4+ Ke6} 14. Ne3 {
+Rf8 Ng2 Be5 Rh6+ Rf6 Rxf6+ Kxf6 Kd3 Kg5 c4 Bd6} b5 {cxb5} 15. axb5 {Be5 Ke3
+Bd6 Kf3 Be5 h4+ Kf6 Nf4 Bd4 Ne2 Be5 Nf4 Bd4} Nd5 {Ke5 h5 Ke6 h6 Kf7 Kf4 Kg6 h7
+Kxh7 Kxf5 Kg7} 16. g4 {Kf7} g5 {Time forfeit} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/faTUkeK3"]
+[Date "2018.03.11"]
+[Round "?"]
+[White "speshu"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2157"]
+[BlackElo "2328"]
+[SetUp "1"]
+[FEN "bbnnrkrq/pppppppp/8/8/8/8/PPPPPPPP/BBNNRKRQ w - - 0 1"]
+[PlyCount "41"]
+[EventDate "2018.??.??"]
+[TimeControl "60+1"]
+
+1. b3 b6 2. c4 c5 3. h4 Ne6 4. e3 d5 5. cxd5 Bxd5 6. Nc3 Bb7 7. N1e2 Nd6 8. h5
+h6 9. d4 cxd4 10. Nxd4 Nxd4 11. exd4 Ba6+ 12. Ne2 {O-O O-O} e6 13. Qh3 Nf5 14.
+d5 exd5 15. Bd3 Bxd3 16. Qxd3 Qh7 17. Qxd5 Ne7 18. Qf3 Qf5 19. Nd4 Qxf3 20.
+Nxf3 Nd5 21. Rxe8+ {Normal} 0-1
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/kJzFBJ0R"]
+[Date "2018.03.11"]
+[Round "?"]
+[White "Zayats71"]
+[Black "speshu"]
+[Result "1-0"]
+[WhiteElo "2312"]
+[BlackElo "2164"]
+[SetUp "1"]
+[FEN "bbnnrkrq/pppppppp/8/8/8/8/PPPPPPPP/BBNNRKRQ w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2018.??.??"]
+[TimeControl "60+1"]
+
+1. b3 {O-O c4} c5 2. Nc3 Nc6 3. e3 e6 4. g4 N8e7 {Be4 f5 gxf5 Nxf5} 5. Nd3 h5 {
+Bxc6 bxc6 O-O-O d5} 6. Nxc5 Qh7 7. Nxd7# {Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/i9GiKZWB"]
+[Date "2018.03.11"]
+[Round "?"]
+[White "speshu"]
+[Black "Zayats71"]
+[Result "1-0"]
+[WhiteElo "2147"]
+[BlackElo "2354"]
+[SetUp "1"]
+[FEN "nrqkbbnr/pppppppp/8/8/8/8/PPPPPPPP/NRQKBBNR w - - 0 1"]
+[PlyCount "50"]
+[EventDate "2018.??.??"]
+[TimeControl "60+1"]
+
+1. Nf3 Nb6 2. e4 e6 3. d4 d5 4. exd5 Nxd5 5. c4 Ndf6 6. Bd3 Nh6 7. Bc3 Bc6 8.
+Qe3 Nhg4 9. Qe2 Qd7 10. h3 Nh6 11. Nb3 Ba4 {O-O Bxb3 axb3 Bd6} 12. Ne5 Qe7 13.
+Ra1 a6 14. g4 {Bxe5 Qxe5 O-O f4} Nd7 {Qe2 Qh4 Kg2 Rfe8 Ra5 Qe7} 15. Re1 f6 16.
+d5 {Nf8 Raa1} Nf7 {f5 e5} 17. Qf3 {Nd7 b4} Nd6 18. c5 {e4 Qg3} Nb5 19. Be4
+Nxc3+ 20. bxc3 Nxe5 {Bf3 Rbd8} 21. Re3 Qf7 {Rae1 Nd7} 22. Qf4 {Ne5 c4} b6 23.
+cxb6 cxb6 {c5 bxc5 bxc5 Qb7} 24. d6 {Qb2+ R1e2 Qc1 Bd5+ Kh8 Qd4 Rb8 Be6 Rb1
+Rc3 Qf1+ Kg3 Qf3+ Rxf3} Nf3 {Kxf3 Rbb8} 25. d7 {Red8 c6 Rb3+ Kg2 Rc3 Qxc3 Rxd7
+cxd7} h5 {Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/QM7aI9KC"]
+[Date "2018.03.11"]
+[Round "?"]
+[White "Zayats71"]
+[Black "speshu"]
+[Result "1-0"]
+[WhiteElo "2339"]
+[BlackElo "2153"]
+[SetUp "1"]
+[FEN "nrqkbbnr/pppppppp/8/8/8/8/PPPPPPPP/NRQKBBNR w - - 0 1"]
+[PlyCount "75"]
+[EventDate "2018.??.??"]
+[TimeControl "60+1"]
+
+1. Nb3 Nb6 2. Nf3 c5 3. c4 d5 4. cxd5 c4 5. Na5 Nf6 6. e3 Nfxd5 7. Nxc4 e6 8.
+Nxb6 Nxb6 9. Qxc8+ Rxc8 10. d4 Bd6 11. Ba5 Ke7 12. Bxb6 axb6 13. Bd3 Ra8 14. a3
+Ba4+ 15. Ke2 Rac8 16. Rhc1 Bc6 17. g3 f6 18. Nd2 h5 19. h4 g5 20. Nc4 Bc7 21.
+Nd2 gxh4 22. gxh4 Rhg8 23. Rg1 f5 24. Nf3 Kf6 25. Ng5 Rge8 26. Nh7+ Kf7 27. Rg5
+Rh8 28. Rxh5 Kg7 29. Rg1+ Kf7 30. Ng5+ Ke7 31. Rxh8 Rxh8 32. Nf3 Bxf3+ 33. Kxf3
+Rxh4 34. Rg7+ Kd6 35. Bc4 Rh3+ 36. Ke2 Rh6 37. Bb5 Bb8 38. Rd7# {Normal} 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/09bFoZZd"]
+[Date "2018.03.10"]
+[Round "?"]
+[White "StiflersMoM"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "2264"]
+[BlackElo "2494"]
+[PlyCount "50"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 a6 5. b3 Nc6 6. Qd2 Nf6 7. Nc3 g6 8. Bb2
+Bg7 9. Bd3 O-O 10. O-O Bg4 11. Qf4 Qd7 12. Rfe1 Nh5 13. Qe3 Rae8 14. h3 Bxf3
+15. Qxf3 Ne5 16. Qd1 Nxd3 17. Qxd3 Nf4 18. Qd2 Ne6 19. Rad1 f5 20. exf5 Rxf5
+21. Qc1 Nf4 22. Rxe8+ Qxe8 23. Re1 Re5 24. Rxe5 Qxe5 25. Qd2 Qg5 {Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7kzgQhiN"]
+[Date "2018.03.10"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Queen1123"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2485"]
+[BlackElo "2317"]
+[PlyCount "69"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nc3 c6 2. d4 d5 3. f3 f5 4. Bf4 Nf6 5. e3 Nh5 6. Be5 e6 7. Bd3 Nd7 8. Nge2
+Nxe5 9. dxe5 Qh4+ 10. g3 Qh3 11. Kf2 f4 12. gxf4 Bc5 13. Na4 Qh4+ 14. Ng3 Bxe3+
+15. Kxe3 Qxf4+ 16. Kf2 Nxg3 17. hxg3 Qxa4 18. Bxh7 Bd7 19. Bg6+ Ke7 20. Qd2
+Rxh1 21. Qg5+ Kf8 22. Rxh1 Qd4+ 23. Kg2 Kg8 24. Bh7+ Kf8 25. Bd3 Kg8 26. Qh5
+Be8 27. Qh7+ Kf8 28. Qh8+ Kf7 29. Qh5+ Kf8 30. Qg5 Kg8 31. Qe7 Qxe5 32. Bh7+
+Kh8 33. Bg6+ Kg8 34. Rh8+ Kxh8 35. Qf8# {Normal} 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ldACVai7"]
+[Date "2018.03.10"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Mayjin"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2475"]
+[BlackElo "2352"]
+[PlyCount "45"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. e4 c5 2. c3 g6 3. Nf3 Bg7 4. Bc4 Nc6 5. O-O e6 6. Re1 Nge7 7. d3 O-O 8. Bf4
+d5 9. Bb3 b6 10. Nbd2 Ba6 11. Bc2 Qd7 12. Nf1 Rfd8 13. h4 dxe4 14. dxe4 Qxd1
+15. Raxd1 Na5 16. Ne3 f6 17. e5 f5 18. Ng5 Nc4 19. Rxd8+ Rxd8 20. Nxe6 Rd2 21.
+Bb3 Nxe3 22. Nxc5+ Kf8 23. Bxe3 {Normal} 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vq8nwF0Y"]
+[Date "2018.03.10"]
+[Round "?"]
+[White "Zayats71"]
+[Black "uoylliki"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2467"]
+[BlackElo "2283"]
+[PlyCount "87"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. e4 g6 2. d4 d6 3. Nf3 Bg7 4. c3 Nf6 5. Bd3 O-O 6. O-O Nc6 7. Re1 e5 8. h3 h6
+9. Nbd2 Nh5 10. dxe5 dxe5 11. Nc4 Qf6 12. Ne3 Nf4 13. Nd5 Qd6 14. Nxf4 exf4 15.
+Bb5 Qxd1 16. Rxd1 g5 17. Bxc6 bxc6 18. Nd4 Rd8 19. Rd2 Rd6 20. Nb3 f5 21. exf5
+Bxf5 22. Rxd6 cxd6 23. Bd2 c5 24. Re1 Be5 25. Nxc5 a5 26. Ne4 a4 27. a3 Rb8 28.
+Bc1 Kf7 29. Nd2 Kf6 30. Nf3 h5 31. h4 g4 32. Ng5 Rb5 33. Ne4+ Kg6 34. Nd2 Rd5
+35. Nc4 Kf6 36. Nb6 Ra5 37. c4 Bd4 38. Nd5+ Rxd5 39. cxd5 g3 40. Re2 Bd3 41.
+Rd2 gxf2+ 42. Rxf2 Ke5 43. Bxf4+ Kxd5 44. Bg5 {Time forfeit} 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ausn2BKz"]
+[Date "2018.03.10"]
+[Round "?"]
+[White "flamenko"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "2444"]
+[BlackElo "2452"]
+[PlyCount "112"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Bd3 Nbd7 6. O-O Nc5 7. Re1 Be7 8.
+Nf5 Bxf5 9. exf5 Nxd3 10. Qxd3 O-O 11. Nc3 c6 12. Bg5 d5 13. h3 Re8 14. g4 Nd7
+15. Bf4 Bf6 16. Rad1 Nc5 17. Qf3 Qb6 18. b3 Bxc3 19. Qxc3 Ne4 20. Qe3 Qxe3 21.
+Rxe3 Nf6 22. Rde1 Rxe3 23. Rxe3 Re8 24. Rxe8+ Nxe8 25. f3 f6 26. Kf2 Kf7 27.
+Ke3 Ke7 28. Kd4 Kd7 29. c4 dxc4 30. Kxc4 Nd6+ 31. Kd4 Nb5+ 32. Kc4 b6 33. a4
+Nc7 34. Bd2 c5 35. h4 Kc6 36. g5 Nd5 37. f4 Ne7 38. h5 Nxf5 39. h6 fxg5 40.
+hxg7 Nxg7 41. fxg5 Nf5 42. Bf4 Nd6+ 43. Kd3 Kd5 44. Ke3 a6 45. Kf3 b5 46. axb5
+axb5 47. Kg4 Ke6 48. Kh5 Nf5 49. Bd2 Kf7 50. Bc3 Ng3+ 51. Kg4 Ne4 52. Be1 Kg6
+53. Kf4 Nxg5 54. Bf2 Nh3+ 55. Ke5 Nxf2 56. Kd5 c4 {Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QQfDw635"]
+[Date "2018.03.10"]
+[Round "?"]
+[White "Queen1123"]
+[Black "Zayats71"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2302"]
+[BlackElo "2475"]
+[PlyCount "39"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. h3 Nf6 5. d3 c6 6. Bb3 Nbd7 7. g4 Nc5 8. g5
+Nh5 9. Nxe5 Nxb3 10. axb3 Ng3 11. Nxf7 Nxh1 12. Nxd8 Bxd8 13. Qf3 Nxf2 14. Qxf2
+Bxh3 15. Rxa7 Rb8 16. Qg3 Bb6 17. Qxh3 Bxa7 18. Qe6+ Kf8 19. Qxd6+ Kg8 20. Be3
+{Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/CzJVSHz9"]
+[Date "2018.02.20"]
+[Round "?"]
+[White "Zayats71"]
+[Black "thujer"]
+[Result "1-0"]
+[WhiteElo "2298"]
+[BlackElo "2440"]
+[SetUp "1"]
+[FEN "qnrkbrnb/pppppppp/8/8/8/8/PPPPPPPP/QNRKBRNB w - - 0 1"]
+[PlyCount "57"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. b3 d5 2. g3 Nf6 3. Nf3 Nc6 4. d3 Bd7 5. Bc3 {O-O O-O} Re8 6. Nbd2 a5 7. e4
+dxe4 8. dxe4 Qa6 9. Re1 e6 10. Bg2 a4 11. Nc4 axb3 12. axb3 Qxa1 13. Rxa1 Ra8
+14. Nfe5 Nxe5 15. Nxe5 Bb5 16. Bb2 g6 17. c4 Ba6 18. Nd3 Nd7 19. Bxh8 {Kxh8} e5
+{c6} 20. f4 {Red8 Kf2 Kg7 Ke3 Kf8 Ra4} Nb6 21. Ra2 Ke7 {Rea1 Nd7} 22. Ra5 Rac8
+23. Nb4 {Nb8 Be4 Rc7 Nd3} Nd7 24. g4 f5 {exf6+ Nxf6} 25. Bf3 {Nd7 h4} Rf8 {
+h5 Rcc8} 26. Rh1 {Kf6 hxg6 hxg6 Rh7} Rf7 {Rh6 Kg7} 27. g5 Re8 {Be4 Nf8 Ne5
+Rfe7 Bxc6 bxc6} 28. Rxa6 Rb8 29. Nc6+ {Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/HwXqXUqT"]
+[Date "2018.02.20"]
+[Round "?"]
+[White "Zayats71"]
+[Black "KonFFeTTA"]
+[Result "1-0"]
+[WhiteElo "2281"]
+[BlackElo "2108"]
+[SetUp "1"]
+[FEN "bbrknrqn/pppppppp/8/8/8/8/PPPPPPPP/BBRKNRQN w - - 0 1"]
+[PlyCount "53"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. b3 Ng6 2. Ng3 f5 3. c4 f4 4. Ne4 b6 5. f3 d5 6. cxd5 Qxd5 7. Nd3 c5 8. g3
+fxg3 9. hxg3 Nf6 10. Nxf6 exf6 11. Nf4 Nxf4 12. Be4 Qe6 13. gxf4 Bxe4 14. fxe4
+Qxe4 15. Qxg7 Qe7 16. Qxe7+ Kxe7 17. Rh1 Bxf4 18. e3 Be5 19. Rxh7+ Rf7 20.
+Rxf7+ Kxf7 21. Bxe5 fxe5 22. Ke2 Ke6 23. Rh1 Rc7 24. Rh6+ Kd5 25. d3 Rg7 26.
+Kd2 b5 27. e4+ {Normal} 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LyhZQl3A"]
+[Date "2018.02.20"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Maskito"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2468"]
+[BlackElo "2254"]
+[PlyCount "31"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. Nc3 a6 2. d4 h6 3. Bf4 d6 4. h3 e6 5. g4 Be7 6. Bg2 Bg5 7. e3 Bxf4 8. exf4
+Nf6 9. Qe2 O-O 10. O-O-O Nc6 11. g5 hxg5 12. fxg5 Nh7 13. h4 Re8 14. f4 e5 15.
+dxe5 dxe5 16. Rxd8 {Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/CPpZbwWK"]
+[Date "2018.02.06"]
+[Round "?"]
+[White "Zayats71"]
+[Black "masterhec"]
+[Result "1-0"]
+[WhiteElo "2305"]
+[BlackElo "2186"]
+[SetUp "1"]
+[FEN "bbrnqnkr/pppppppp/8/8/8/8/PPPPPPPP/BBRNQNKR w - - 0 1"]
+[PlyCount "29"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. b3 e5 2. Nde3 b6 3. c4 Ng6 4. Ng3 c6 5. h4 h6 6. h5 Nf4 7. Ngf5 Nde6 8. g3
+Nxh5 9. Rxh5 g6 10. Rxh6 gxf5 11. Rxh8+ Kxh8 12. Qf1 d5 13. Qh3+ Kg8 14. Bxf5
+Ng7 15. Bxc8 {Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/eWLk1e8z"]
+[Date "2018.02.06"]
+[Round "?"]
+[White "masterhec"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2194"]
+[BlackElo "2274"]
+[SetUp "1"]
+[FEN "nqnbbrkr/pppppppp/8/8/8/8/PPPPPPPP/NQNBBRKR w - - 0 1"]
+[PlyCount "53"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. c4 Nab6 2. c5 Nd5 3. e4 Nf6 4. d4 b6 5. e5 Nd5 6. Bf3 e6 7. cxb6 Ncxb6 8.
+Nab3 d6 9. Nd3 Bb5 10. Be2 Be7 11. Bc3 dxe5 12. dxe5 Nxc3 13. bxc3 Nd5 14. Rc1
+Ba3 15. Rc2 Bc4 {O-O Rd8 Rd1 O-O} 16. Kf1 Qa8 17. Nd4 Bxd3 {Rxd3 Nf4 Bf3} 18.
+Qb8 {Rd1} c5 {Qxb8 Rxb8} 19. Nb3 c4 20. Na5 Rc8 21. g3 {Nd3} Bxe2+ {g6 Nxc4
+Rxc4 Bxd3 Rc5 f4 Rbc8 c4 Ra5 Rb1 Bc5 Rb3 Ra4} 22. Kxe2 {Bb6 Rbc3 Rc5 Rb3 Kg7
+Rb5} h5 {Rxc5 Bxc5} 23. Kf3 {Ra3 Ke4} h4 24. Rb2 h3 25. Rc2 {Bg1 c5 Ra4+ Kf3
+Ra3 c6 Rxd3+ Ke2} Rd8 {c7 Rc8 Kf1 Bb6} 26. Ke2 {Rxc7 Rxc7 Bxc7 Kf3 Bb6 g4 Bg1
+Kg3 Bxh2+ Kxh2} g5 {f5 f6 fxe6 fxe5 Kxh3 Kf6 Kg3 Kxe6} 27. Kf3 {Time forfeit}
+0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HDBqIcVb"]
+[Date "2018.02.06"]
+[Round "?"]
+[White "Zayats71"]
+[Black "norba94"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2440"]
+[BlackElo "2322"]
+[PlyCount "165"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Qxd4 e6 6. Qe4 f5 7. Qe2 Nc6 8. Nf3
+Bc5 9. b4 Bb6 10. a3 O-O 11. c4 Nde7 12. Bb2 Ng6 13. g3 f4 14. g4 Bc7 15. Bg2
+Nh4 16. Nxh4 Qxh4 17. b5 Na5 18. Nd2 Rb8 19. O-O b6 20. Rac1 Bb7 21. Bxb7 Nxb7
+22. f3 Nc5 23. Ne4 Nxe4 24. Qxe4 Bd8 25. Rfd1 Be7 26. Rxd7 Bc5+ 27. Kh1 Qf2 28.
+Bd4 Qd2 29. Qe1 Qd3 30. Qf1 Qxa3 31. Bxc5 Qxc5 32. Rxa7 Qxe5 33. Rd1 Rbd8 34.
+Qe1 Rxd1 35. Qxd1 Qe3 36. Kg2 h6 37. h4 Rf7 38. Qd8+ Kh7 39. Ra2 Ra7 40. Rf2
+Ra1 41. Qd2 Qxd2 42. Rxd2 Rc1 43. Rd6 Rxc4 44. Rxe6 Rb4 45. Rxb6 Rb2+ 46. Kf1
+Rb4 47. Ke2 Rb3 48. h5 Re3+ 49. Kf2 Rb3 50. Rb8 Rb2+ 51. Ke1 Rb3 52. Ke2 Rb2+
+53. Kd3 Rb4 54. b6 Rb5 55. Ke4 Rb4+ 56. Kf5 Rb5+ 57. Kxf4 Rb4+ 58. Kg3 Rb3 59.
+b7 Rb5 60. f4 Rb3+ 61. Kf2 Rb4 62. Ke3 Rb3+ 63. Kd2 Rb4 64. g5 hxg5 65. fxg5
+Rb6 66. g6+ Kh6 67. Rh8+ Kg5 68. b8=Q Rxb8 69. Rxb8 Kxh5 70. Rb6 Kh6 71. Kd3
+Kg5 72. Kd4 Kf5 73. Kd5 Kg5 74. Re6 Kh6 75. Kd6 Kh5 76. Ke7 Kh6 77. Kf7 Kg5 78.
+Kxg7 Kh5 79. Rf6 Kg5 80. Kf7 Kg4 81. g7 Kh5 82. g8=Q Kh4 83. Rh6# {Normal} 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/811t8hEQ"]
+[Date "2018.01.31"]
+[Round "?"]
+[White "kaiserAbacus"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "D06"]
+[WhiteElo "2248"]
+[BlackElo "2404"]
+[PlyCount "102"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. d4 d5 2. c4 c5 3. cxd5 Nf6 4. dxc5 Qxd5 5. Qxd5 Nxd5 6. e4 Nb4 7. Na3 e5 8.
+Be3 N8c6 9. Bb5 Be6 10. b3 O-O-O 11. Bxc6 bxc6 12. Nf3 f6 13. Ke2 g5 14. Rhd1
+Be7 15. Nd2 Nd3 16. b4 Nxb4 17. Nac4 Nd3 18. Rab1 Bxc5 19. Na5 Bxe3 20. Kxe3
+Kc7 21. Ndc4 Nc5 22. g3 Rxd1 23. Rxd1 Rb8 24. Rd6 Bxc4 25. Nxc4 Rb4 26. Rxf6
+Rxc4 27. Rh6 Rxe4+ 28. Kf3 g4+ 29. Kg2 Re2 30. Rxh7+ Kb6 31. Re7 Nd3 32. h4
+Rxf2+ 33. Kg1 Rf3 34. Kg2 c5 35. h5 Ne1+ 36. Kh2 Rf5 37. Re6+ Kb5 38. h6 c4 39.
+Kg1 Nf3+ 40. Kg2 c3 41. h7 Rh5 42. Re7 Kb6 43. Re6+ Kc5 44. Re7 Kd6 45. Rxa7 c2
+46. Ra6+ Kd5 47. Ra5+ Kd4 48. Ra8 c1=Q 49. Rd8+ Ke4 50. Rd1 Rh2+ 51. Kf1 Qxd1#
+{Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rPrQulzH"]
+[Date "2018.01.31"]
+[Round "?"]
+[White "Mittwoch"]
+[Black "Zayats71"]
+[Result "1-0"]
+[ECO "A22"]
+[WhiteElo "2385"]
+[BlackElo "2410"]
+[PlyCount "35"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 e4 4. Ng5 b5 5. d3 exd3 6. cxb5 dxe2 7. Bxe2 h6 8.
+Nf3 Be7 9. O-O O-O 10. Nd4 c5 11. Nf5 Bb7 12. Bf3 Bxf3 13. Qxf3 d5 14. Bxh6 Ne8
+15. Nxd5 Bg5 16. Bxg5 Qxg5 17. Nde7+ Kh7 18. Qh3+ {Normal} 1-0
+
+[Event "Rated Chess960 game"]
+[Site "https://lichess.org/zRIxcOOG"]
+[Date "2018.01.31"]
+[Round "?"]
+[White "Lastro"]
+[Black "Zayats71"]
+[Result "0-1"]
+[WhiteElo "2234"]
+[BlackElo "2196"]
+[SetUp "1"]
+[FEN "qbbrkrnn/pppppppp/8/8/8/8/PPPPPPPP/QBBRKRNN w - - 0 1"]
+[PlyCount "40"]
+[EventDate "2018.??.??"]
+[TimeControl "180"]
+
+1. e4 d5 2. exd5 Rxd5 3. d4 c5 4. Nf3 cxd4 5. c4 Rd6 {O-O Ng6} 6. Ng3 Nf6 7.
+Nxd4 {O-O Ndf5 Rxd1 Rxd1} Bf5 8. Bxf5 {Bxg3 hxg3} Rd8 9. Bg5 e6 10. Bxf6 gxf6
+11. Bg6 hxg6 12. b4 e5 13. Qc1 Rxd4 14. Rxd4 exd4 15. f3 {Qd8 Qd2} d3 16. c5 {
+Qd4+ Kf1 Qc4 Kf2} a5 17. a3 axb4 18. axb4 {Qd4+ Kf1 Kg7 g4} g5 {g3 Kg6 Kg2 f5
+gxf5+ Kxf5 g4+ Kf6 Kg3} 19. Qf4 {Qxf4+} gxf4 20. Kf2 {Ke5 Ke1 Kd4 Kd2 Kc4 g5
+Kxb4 Kxd3 Kxc5 Ke4} b5 {Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ui0IHoc3"]
+[Date "2018.01.31"]
+[Round "?"]
+[White "Zayats71"]
+[Black "Davigator"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2372"]
+[BlackElo "2255"]
+[PlyCount "35"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Qxd4 e6 6. Nf3 Nc6 7. Qe4 f5 8. Qe2
+g6 9. c4 Nde7 10. a3 Bg7 11. b4 b6 12. Bb2 a5 13. b5 Nb8 14. g3 Bb7 15. Bg2 Ra7
+16. O-O d6 17. exd6 Bxb2 18. dxe7 {Normal} 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/aWzttqTj"]
+[Date "2018.01.24"]
+[Round "?"]
+[White "pasternakvm"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "C25"]
+[WhiteElo "2215"]
+[BlackElo "2359"]
+[PlyCount "120"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. e4 Nc6 2. Nc3 e5 3. f4 exf4 4. Nf3 f5 5. exf5 d5 6. d4 Bxf5 7. Bxf4 Bb4 8.
+Bb5 Qe7+ 9. Ne5 Nf6 10. O-O O-O 11. Bxc6 Bxc3 12. bxc3 bxc6 13. Nxc6 Qe4 14.
+Bxc7 Ng4 15. Re1 Ne3 16. Qd2 Nc4 17. Rxe4 Nxd2 18. Ne7+ Kh8 19. Re5 Bxc2 20.
+Nxd5 Nc4 21. Re7 Rac8 22. Rf1 Rxf1+ 23. Kxf1 Bd3+ 24. Ke1 Rf8 25. Ne3 h6 26.
+Nxc4 Bxc4 27. Be5 Rf1+ 28. Kd2 Rf2+ 29. Ke3 Rxg2 30. Kf3 Rg1 31. Kf2 Rg6 32. h4
+Bxa2 33. h5 Rg5 34. Rxa7 Bb3 35. Rb7 Ba2 36. Rc7 Kg8 37. c4 Rxh5 38. c5 Rg5 39.
+Kf3 Bd5+ 40. Kf4 Rg1 41. Rd7 Rf1+ 42. Ke3 Bc6 43. d5 Bxd7 44. c6 Re1+ 45. Kd2
+Rxe5 46. Kc3 Rxd5 47. c7 Rc5+ 48. Kd4 Rxc7 49. Kd5 Bf5 50. Kd6 Rf7 51. Ke5 h5
+52. Kf4 h4 53. Kg5 h3 54. Kh4 g6 55. Kg3 h2 56. Kf2 h1=Q 57. Ke3 Re7+ 58. Kf4
+Qh3 59. Kg5 Re4 60. Kf6 Qh4# {Normal} 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Q6qJavkY"]
+[Date "2018.01.14"]
+[Round "?"]
+[White "abeltre"]
+[Black "Zayats71"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "2232"]
+[BlackElo "2265"]
+[PlyCount "50"]
+[EventDate "2018.??.??"]
+[EventType "blitz"]
+[TimeControl "180"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bc4 Nf6 4. d3 Be7 5. c3 O-O 6. Nbd2 d6 7. Nf1 Na5 8. Bb5
+c5 9. Ng3 a6 10. Ba4 b5 11. Bc2 Nc6 12. O-O h6 13. h3 Nh7 14. Nh2 Ng5 15. f4
+exf4 16. Bxf4 Ne5 17. d4 cxd4 18. cxd4 Ng6 19. Be3 d5 20. e5 Ne6 21. Nf5 Bg5
+22. Qd2 Bxe3+ 23. Qxe3 Qg5 24. Qf2 Nef4 25. Nd6 Nxh3+ {Normal} 0-1
+
