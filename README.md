@@ -23,7 +23,7 @@ git clone https://github.com/DennisPiskovatskov/PGN.git
 
 ### 2. Under development...
 
-... only PGN-chess.com & PNG-playchess.com can be used at the moment.
-... for the modules PGN-chessclub.com & PGN-lichess.org I don't have time at the moment.
++ only PGN-chess.com & PNG-playchess.com can be used at the moment.
++ for the modules PGN-chessclub.com & PGN-lichess.org I don't have time at the moment.
 
 
