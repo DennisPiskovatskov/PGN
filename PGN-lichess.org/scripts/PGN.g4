@@ -70,9 +70,9 @@ movetext_section
  : element_sequence* game_termination
  ;
 
-/// 1. e4 {[%clk 0:02:59.2]}
+/// 1. e4
 element_sequence
- : move_number BLANK* move BLANK* clock?
+ : move_number BLANK* move BLANK* (move BLANK*)?
  ;
 
 /// 1.
@@ -83,11 +83,6 @@ move_number
 /// .
 move
  : MOVE
- ;
-
-/// .
-clock
- : '{[%clk' BLANK* time ']}' BLANK*
  ;
 
 /// .
