@@ -38,12 +38,13 @@ import javaee.solutions.pgn.base.BaseConstants;
 public final class PlaychessConstants extends BaseConstants {
 
     public static final String FILE1 = "PC_Zayats71-1.pgn";
+    public static final String FILE2 = "PC_Zayats71-2.pgn";
 
     // playchess.com
     public static final String PGN1 = TARGET + FILE1;
     public static final String PGN1_EXTERNAL = "../PGN-playchess.com/" + PGN1;
 
-    public static final String PGN2 = TARGET + "PC_Zayats71-2.pgn";
+    public static final String PGN2 = TARGET + FILE2;
     public static final String PGN2_EXTERNAL = "../PGN-playchess.com/" + PGN2;
 
     private PlaychessConstants() {

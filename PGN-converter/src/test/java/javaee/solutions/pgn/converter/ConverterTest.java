@@ -31,6 +31,8 @@
 package javaee.solutions.pgn.converter;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 import org.junit.jupiter.api.Test;
 
@@ -45,10 +47,18 @@ public class ConverterTest {
     @Test
     public void doIt() throws IOException {
         final IGameFilter gameFilter = new RemoveFisherChessFilter();
-        final DataCollector collector = new DataCollector(gameFilter);
-        ParserUtil.parse(PlaychessConstants.PGN1_EXTERNAL, collector);
 
-        System.out.println(collector.getGames().size());
+        final List<String> files = new ArrayList<>();
+        files.add(PlaychessConstants.PGN1_EXTERNAL);
+        files.add(PlaychessConstants.PGN2_EXTERNAL);
+
+        for (final String file : files) {
+            final DataCollector collector = new DataCollector(gameFilter);
+            ParserUtil.parse(file, collector);
+
+            // TODO: implement me.
+            System.out.println(collector.getGames().size());
+        }
     }
 
 }
