@@ -28,19 +28,20 @@
  *                and parser for {@link http://chess.com}
  * Developed by : Dennis Piskovatskov, dennis.piskovatskov@javaee.solutions
  */
-package javaee.solutions.pgn.chesscom;
+package javaee.solutions.pgn.chess;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import javaee.solutions.pgn.base.IDataCollector;
+import javaee.solutions.pgn.base.IGameFilter;
 import javaee.solutions.pgn.base.entity.Move;
 import javaee.solutions.pgn.base.entity.PGNGame;
 import javaee.solutions.pgn.base.entity.Tag;
 import javaee.solutions.pgn.base.enumeration.EColor;
 import javaee.solutions.pgn.base.enumeration.EResult;
-import javaee.solutions.pgn.generated.PGNBaseListener;
-import javaee.solutions.pgn.generated.PGNParser;
+import javaee.solutions.pgn.chess.generated.PGNBaseListener;
+import javaee.solutions.pgn.chess.generated.PGNParser;
 
 /**
  * This listener collect game information from one PGN file.
@@ -52,6 +53,12 @@ public class DataCollector extends PGNBaseListener implements IDataCollector {
     private PGNGame actualGame;
     private Tag actualTag;
     private Move actualMove;
+
+    private final IGameFilter filter;
+
+    public DataCollector(final IGameFilter filter) {
+        this.filter = filter;
+    }
 
     @Override
     public List<PGNGame> getGames() {
@@ -65,7 +72,9 @@ public class DataCollector extends PGNBaseListener implements IDataCollector {
 
     @Override
     public void exitGame(final PGNParser.GameContext ctx) {
-        games.add(actualGame);
+        if (filter.accept(actualGame)) {
+            games.add(actualGame);
+        }
     }
 
     @Override

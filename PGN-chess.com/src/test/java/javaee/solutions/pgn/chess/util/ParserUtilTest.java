@@ -28,14 +28,13 @@
  *                and parser for {@link http://chess.com}
  * Developed by : Dennis Piskovatskov, dennis.piskovatskov@javaee.solutions
  */
-package javaee.solutions.pgn.chesscom.util;
+package javaee.solutions.pgn.chess.util;
 
 import org.junit.jupiter.api.Test;
 
-import javaee.solutions.pgn.chesscom.Constants;
-import javaee.solutions.pgn.chesscom.util.ParserUtil;
-import javaee.solutions.pgn.generated.PGNBaseListener;
-import javaee.solutions.pgn.generated.PGNParser;
+import javaee.solutions.pgn.chess.ChessConstants;
+import javaee.solutions.pgn.chess.generated.PGNBaseListener;
+import javaee.solutions.pgn.chess.generated.PGNParser;
 
 /**
  * Test for <code>ParserUtil</code>.
@@ -44,7 +43,8 @@ public class ParserUtilTest {
 
     @Test
     public void testParse() throws Exception {
-        final String[] fileNames = new String[] { Constants.TEST1, Constants.TEST2, Constants.TEST3, Constants.TEST4 };
+        final String[] fileNames = { ChessConstants.TEST1, ChessConstants.TEST2, ChessConstants.TEST3,
+                ChessConstants.TEST4 };
         for (final String fileName : fileNames) {
             ParserUtil.parse(fileName, new ExampleListener());
         }

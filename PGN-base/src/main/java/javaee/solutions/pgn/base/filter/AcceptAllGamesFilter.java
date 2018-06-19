@@ -28,33 +28,19 @@
  *                and parser for {@link http://chess.com}
  * Developed by : Dennis Piskovatskov, dennis.piskovatskov@javaee.solutions
  */
-package javaee.solutions.pgn.chesscom;
+package javaee.solutions.pgn.base.filter;
 
-import java.util.List;
-
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
-
+import javaee.solutions.pgn.base.IGameFilter;
 import javaee.solutions.pgn.base.entity.PGNGame;
-import javaee.solutions.pgn.base.enumeration.EResult;
-import javaee.solutions.pgn.chesscom.DataCollector;
-import javaee.solutions.pgn.chesscom.util.ParserUtil;
 
 /**
- * Test for <code>DataCollector</code>.
+ * Accept all games filter.
  */
-public class DataCollectorTest {
+public class AcceptAllGamesFilter implements IGameFilter {
 
-    @Test
-    public void testParse() throws Exception {
-        final DataCollector collector = new DataCollector();
-        ParserUtil.parse(Constants.TEST1, collector);
-
-        final List<PGNGame> pgnGames = collector.getGames();
-        Assertions.assertEquals(1, pgnGames.size());
-        Assertions.assertEquals(12, pgnGames.get(0).getTags().size());
-        Assertions.assertEquals(95, pgnGames.get(0).getMoves().size());
-        Assertions.assertEquals(EResult.DRAW, pgnGames.get(0).getResult());
+    @Override
+    public boolean accept(final PGNGame pgnGame) {
+        return true;
     }
 
 }

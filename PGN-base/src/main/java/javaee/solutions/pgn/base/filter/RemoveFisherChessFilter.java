@@ -25,38 +25,32 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  *
  * Project      : A Portable Game Notation (PGN) ANTLR 4 grammar
- *                and parser for {@link http://playchess.com}
+ *                and parser for {@link http://chess.com}
  * Developed by : Dennis Piskovatskov, dennis.piskovatskov@javaee.solutions
  */
-package javaee.solutions.pgn.playchess;
+package javaee.solutions.pgn.base.filter;
 
 import java.util.List;
 
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
-
 import javaee.solutions.pgn.base.IGameFilter;
 import javaee.solutions.pgn.base.entity.PGNGame;
-import javaee.solutions.pgn.base.enumeration.EResult;
-import javaee.solutions.pgn.base.filter.AcceptAllGamesFilter;
-import javaee.solutions.pgn.playchess.util.ParserUtil;
+import javaee.solutions.pgn.base.entity.Tag;
 
 /**
- * Test for <code>DataCollector</code>.
+ * Remove Fisher chess filter.
  */
-public class DataCollectorTest {
+public class RemoveFisherChessFilter implements IGameFilter {
 
-    @Test
-    public void testParse() throws Exception {
-        final IGameFilter gameFilter = new AcceptAllGamesFilter();
-        final DataCollector collector = new DataCollector(gameFilter);
-        ParserUtil.parse(PlaychessConstants.PGN1, collector);
+    @Override
+    public boolean accept(final PGNGame pgnGame) {
+        final List<Tag> tags = pgnGame.getTags();
+        for (final Tag tag : tags) {
+            if ("FEN".equals(tag.getName())) { // NOTE: ignore Fisher chess
+                return false;
+            }
+        }
 
-        final List<PGNGame> pgnGames = collector.getGames();
-        Assertions.assertEquals(6066, pgnGames.size());
-        Assertions.assertEquals(13, pgnGames.get(0).getTags().size());
-        Assertions.assertEquals(68, pgnGames.get(0).getMoves().size());
-        Assertions.assertEquals(EResult.WHITE_WINS, pgnGames.get(0).getResult());
+        return true;
     }
 
 }

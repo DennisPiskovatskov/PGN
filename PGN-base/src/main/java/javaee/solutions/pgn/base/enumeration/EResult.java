@@ -50,7 +50,7 @@ public enum EResult {
             }
         }
 
-        throw new IllegalStateException(result + " not found.");
+        throw new IllegalStateException("'" + result + "' not found.");
     }
 
 }

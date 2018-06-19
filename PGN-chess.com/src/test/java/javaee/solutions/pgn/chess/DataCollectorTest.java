@@ -28,23 +28,35 @@
  *                and parser for {@link http://chess.com}
  * Developed by : Dennis Piskovatskov, dennis.piskovatskov@javaee.solutions
  */
-package javaee.solutions.pgn.playchess;
+package javaee.solutions.pgn.chess;
 
-import javaee.solutions.pgn.base.BaseConstants;
+import java.util.List;
+
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
+
+import javaee.solutions.pgn.base.IGameFilter;
+import javaee.solutions.pgn.base.entity.PGNGame;
+import javaee.solutions.pgn.base.enumeration.EResult;
+import javaee.solutions.pgn.base.filter.AcceptAllGamesFilter;
+import javaee.solutions.pgn.chess.util.ParserUtil;
 
 /**
- * Constants for tests.
+ * Test for <code>DataCollector</code>.
  */
-public final class Constants extends BaseConstants {
+public class DataCollectorTest {
 
-    public static final String FILE1 = "PC_Zayats71-1.pgn";
+    @Test
+    public void testParse() throws Exception {
+        final IGameFilter gameFilter = new AcceptAllGamesFilter();
+        final DataCollector collector = new DataCollector(gameFilter);
+        ParserUtil.parse(ChessConstants.TEST1, collector);
 
-    // playchess.com
-    public static final String PGN1 = TARGET + FILE1;
-    public static final String PGN2 = TARGET + "PC_Zayats71-2.pgn";
-
-    private Constants() {
-        // no instance of this class allowed.
+        final List<PGNGame> pgnGames = collector.getGames();
+        Assertions.assertEquals(1, pgnGames.size());
+        Assertions.assertEquals(12, pgnGames.get(0).getTags().size());
+        Assertions.assertEquals(95, pgnGames.get(0).getMoves().size());
+        Assertions.assertEquals(EResult.DRAW, pgnGames.get(0).getResult());
     }
 
 }

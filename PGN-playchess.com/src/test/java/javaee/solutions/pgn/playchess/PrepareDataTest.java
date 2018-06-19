@@ -25,7 +25,7 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  *
  * Project      : A Portable Game Notation (PGN) ANTLR 4 grammar
- *                and parser for {@link http://chess.com}
+ *                and parser for {@link http://playchess.com}
  * Developed by : Dennis Piskovatskov, dennis.piskovatskov@javaee.solutions
  */
 package javaee.solutions.pgn.playchess;
@@ -42,8 +42,8 @@ public class PrepareDataTest {
 
     @Test
     public void testCleanup() throws IOException {
-        final File input = new File(BaseConstants.RESOURCES + "playchess.com", Constants.FILE1);
-        final File output = new File(Constants.PGN1);
+        final File input = new File(BaseConstants.RESOURCES + "playchess.com", PlaychessConstants.FILE1);
+        final File output = new File(PlaychessConstants.PGN1);
         final IPrepareData prepareData = new PrepareData();
         prepareData.cleanup(input, output);
     }

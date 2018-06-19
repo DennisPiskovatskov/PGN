@@ -56,7 +56,7 @@ function check_antlr_jar {
 function write_main_class
 {
   cat >"$1" <<EOL
-  package javaee.solutions.pgn.generated;
+  package javaee.solutions.pgn.chess.generated;
 
   import org.antlr.v4.runtime.CharStreams;
   import org.antlr.v4.runtime.CommonTokenStream;
@@ -141,7 +141,7 @@ antlr_jar="$script_path/antlr-$antlr_version-complete.jar"
 check_antlr_jar "$antlr_jar"
 
 # Generate the lexer and parser classes
-java -cp "$antlr_jar" org.antlr.v4.Tool "$grammar_file" -package "javaee.solutions.pgn.generated"
+java -cp "$antlr_jar" org.antlr.v4.Tool "$grammar_file" -package "javaee.solutions.pgn.chess.generated"
 
 # Generate a main class
 write_main_class "$main_class_file" "$grammar_name" "$input" "$rule_name"
@@ -150,19 +150,19 @@ write_main_class "$main_class_file" "$grammar_name" "$input" "$rule_name"
 javac -cp "$antlr_jar:." *.java
 
 # Move .java files to ...
-generated="../target/generated-sources/antlr4/javaee/solutions/pgn/generated"
+generated="../target/generated-sources/antlr4/javaee/solutions/pgn/chess/generated"
 rm -rf $generated
 mkdir -p $generated
 mv *.java $generated
 mv *.tokens $generated
 
-target="../target/javaee/solutions/pgn/generated"
+target="../target/javaee/solutions/pgn/chess/generated"
 rm -rf $target
 mkdir -p $target
 mv *.class $target
 
 cd ../target
 pwd
-java -cp "$antlr_jar:." "javaee.solutions.pgn.generated.$main_class_name"
+java -cp "$antlr_jar:." "javaee.solutions.pgn.chess.generated.$main_class_name"
 
 

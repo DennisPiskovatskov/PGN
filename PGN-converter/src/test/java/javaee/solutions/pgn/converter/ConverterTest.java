@@ -24,32 +24,31 @@
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
  * OTHER DEALINGS IN THE SOFTWARE.
  *
- * Project      : A Portable Game Notation (PGN) ANTLR 4 grammar
- *                and parser for {@link http://chess.com}
+ * Project      : A Portable Game Notation (PGN) ANTLR 4 grammar,
+ *                parser & Converter to Stockfish
  * Developed by : Dennis Piskovatskov, dennis.piskovatskov@javaee.solutions
  */
-package javaee.solutions.pgn.base;
+package javaee.solutions.pgn.converter;
 
-import java.util.List;
+import java.io.IOException;
 
-import javaee.solutions.pgn.base.entity.PGNGame;
-import javaee.solutions.pgn.base.entity.Tag;
+import org.junit.jupiter.api.Test;
 
-/**
- * Game filter for {@link http://chessclub.com}.
- */
-public class GameFilter implements IGameFilter {
+import javaee.solutions.pgn.base.IGameFilter;
+import javaee.solutions.pgn.base.filter.RemoveFisherChessFilter;
+import javaee.solutions.pgn.playchess.DataCollector;
+import javaee.solutions.pgn.playchess.PlaychessConstants;
+import javaee.solutions.pgn.playchess.util.ParserUtil;
 
-    @Override
-    public boolean accept(final PGNGame pgnGame) {
-        final List<Tag> tags = pgnGame.getTags();
-        for (final Tag tag : tags) {
-            if ("FEN".equals(tag.getName())) { // NOTE: ignore Fisher chess
-                return false;
-            }
-        }
+public class ConverterTest {
 
-        return true;
+    @Test
+    public void doIt() throws IOException {
+        final IGameFilter gameFilter = new RemoveFisherChessFilter();
+        final DataCollector collector = new DataCollector(gameFilter);
+        ParserUtil.parse(PlaychessConstants.PGN1_EXTERNAL, collector);
+
+        System.out.println(collector.getGames().size());
     }
 
 }

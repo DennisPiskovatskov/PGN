@@ -25,7 +25,7 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  *
  * Project      : A Portable Game Notation (PGN) ANTLR 4 grammar
- *                and parser for {@link http://chess.com}
+ *                and parser for {@link http://playchess.com}
  * Developed by : Dennis Piskovatskov, dennis.piskovatskov@javaee.solutions
  */
 package javaee.solutions.pgn.playchess.util;
@@ -39,9 +39,9 @@ import org.antlr.v4.runtime.CommonTokenStream;
 import org.antlr.v4.runtime.tree.ParseTree;
 import org.antlr.v4.runtime.tree.ParseTreeWalker;
 
-import javaee.solutions.pgn.generated.PGNLexer;
-import javaee.solutions.pgn.generated.PGNListener;
-import javaee.solutions.pgn.generated.PGNParser;
+import javaee.solutions.pgn.playchess.generated.PGNLexer;
+import javaee.solutions.pgn.playchess.generated.PGNListener;
+import javaee.solutions.pgn.playchess.generated.PGNParser;
 
 /**
  * Utility to work with ANTLR tree.

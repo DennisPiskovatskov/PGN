@@ -30,33 +30,24 @@
  */
 package javaee.solutions.pgn.playchess;
 
-import java.util.List;
-
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
-
-import javaee.solutions.pgn.base.IGameFilter;
-import javaee.solutions.pgn.base.entity.PGNGame;
-import javaee.solutions.pgn.base.enumeration.EResult;
-import javaee.solutions.pgn.base.filter.AcceptAllGamesFilter;
-import javaee.solutions.pgn.playchess.util.ParserUtil;
+import javaee.solutions.pgn.base.BaseConstants;
 
 /**
- * Test for <code>DataCollector</code>.
+ * Constants for tests.
  */
-public class DataCollectorTest {
+public final class PlaychessConstants extends BaseConstants {
 
-    @Test
-    public void testParse() throws Exception {
-        final IGameFilter gameFilter = new AcceptAllGamesFilter();
-        final DataCollector collector = new DataCollector(gameFilter);
-        ParserUtil.parse(PlaychessConstants.PGN1, collector);
+    public static final String FILE1 = "PC_Zayats71-1.pgn";
 
-        final List<PGNGame> pgnGames = collector.getGames();
-        Assertions.assertEquals(6066, pgnGames.size());
-        Assertions.assertEquals(13, pgnGames.get(0).getTags().size());
-        Assertions.assertEquals(68, pgnGames.get(0).getMoves().size());
-        Assertions.assertEquals(EResult.WHITE_WINS, pgnGames.get(0).getResult());
+    // playchess.com
+    public static final String PGN1 = TARGET + FILE1;
+    public static final String PGN1_EXTERNAL = "../PGN-playchess.com/" + PGN1;
+
+    public static final String PGN2 = TARGET + "PC_Zayats71-2.pgn";
+    public static final String PGN2_EXTERNAL = "../PGN-playchess.com/" + PGN2;
+
+    private PlaychessConstants() {
+        // no instance of this class allowed.
     }
 
 }

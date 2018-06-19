@@ -25,7 +25,7 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  *
  * Project      : A Portable Game Notation (PGN) ANTLR 4 grammar
- *                and parser for {@link http://chess.com}
+ *                and parser for {@link http://playchess.com}
  * Developed by : Dennis Piskovatskov, dennis.piskovatskov@javaee.solutions
  */
 package javaee.solutions.pgn.playchess;

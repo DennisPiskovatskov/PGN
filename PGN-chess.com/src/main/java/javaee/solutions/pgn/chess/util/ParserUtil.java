@@ -28,23 +28,53 @@
  *                and parser for {@link http://chess.com}
  * Developed by : Dennis Piskovatskov, dennis.piskovatskov@javaee.solutions
  */
-package javaee.solutions.pgn.chesscom;
+package javaee.solutions.pgn.chess.util;
 
-import javaee.solutions.pgn.base.BaseConstants;
+import java.io.IOException;
+import java.nio.charset.Charset;
+
+import org.antlr.v4.runtime.CharStream;
+import org.antlr.v4.runtime.CharStreams;
+import org.antlr.v4.runtime.CommonTokenStream;
+import org.antlr.v4.runtime.tree.ParseTree;
+import org.antlr.v4.runtime.tree.ParseTreeWalker;
+
+import javaee.solutions.pgn.chess.generated.PGNLexer;
+import javaee.solutions.pgn.chess.generated.PGNListener;
+import javaee.solutions.pgn.chess.generated.PGNParser;
 
 /**
- * Constants for tests.
+ * Utility to work with ANTLR tree.
  */
-public final class Constants extends BaseConstants {
+public final class ParserUtil {
 
-    // chess.com
-    public static final String TEST1 = RESOURCES + "chess.com/1.pgn";
-    public static final String TEST2 = RESOURCES + "chess.com/chess_com_games_2018-06-15_tribrack.pgn";
-    public static final String TEST3 = RESOURCES + "chess.com/chess_com_games_2018-06-07_tribrack.pgn";
-    public static final String TEST4 = RESOURCES + "chess.com/chess_com_games_2018-06-15_Hikaru.pgn";
-
-    private Constants() {
+    /**
+     * Default constructor.
+     */
+    private ParserUtil() {
         // no instance of this class allowed.
+    }
+
+    /**
+     * Parse PGN.
+     *
+     * @param fileName
+     *            PGN file name to parse
+     * @param listener
+     *            ANTLR PGN listener
+     * @throws IOException
+     *             I/O
+     */
+    public static void parse(final String fileName, final PGNListener listener) throws IOException {
+        // Build lexer and parser
+        final CharStream charStream = CharStreams.fromFileName(fileName, Charset.forName("UTF-8"));
+        final PGNLexer lexer = new PGNLexer(charStream);
+        final PGNParser parser = new PGNParser(new CommonTokenStream(lexer));
+
+        // Tree walker
+        final ParseTreeWalker walker = new ParseTreeWalker();
+        final ParseTree tree = parser.parse();
+        walker.walk(listener, tree);
     }
 
 }
