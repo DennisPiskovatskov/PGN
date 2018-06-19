@@ -28,11 +28,10 @@
  *                and parser for {@link http://chess.com}
  * Developed by : Dennis Piskovatskov, dennis.piskovatskov@javaee.solutions
  */
-package javaee.solutions.pgn.chessclub;
+package javaee.solutions.pgn.base;
 
 import java.util.List;
 
-import javaee.solutions.pgn.base.IGameFilter;
 import javaee.solutions.pgn.base.entity.PGNGame;
 import javaee.solutions.pgn.base.entity.Tag;
 
